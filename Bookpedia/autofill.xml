@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<array>
+		<string>A  T  B Edney</string>
+		<string>a Kempis Thomas</string>
+		<string>A Regency Bible</string>
+		<string>A. A. Milne</string>
+		<string>Aaron Hillegass</string>
+		<string>Adam Preble</string>
+		<string>Alan Moore</string>
+		<string>Alexandre Dumas</string>
+		<string>Andy Weir</string>
+		<string>Arthur Train</string>
+		<string>Augustine</string>
+		<string>Barnes &amp; Noble.</string>
+		<string>Barry Burd</string>
+		<string>Beatrix Potter</string>
+		<string>Bennet Kelley</string>
+		<string>Bob West</string>
+		<string>Bram Stoker</string>
+		<string>Brandon Sanderson</string>
+		<string>Brooks</string>
+		<string>C  S Lewis</string>
+		<string>C. S Lewis</string>
+		<string>C. S. Lewis</string>
+		<string>C.S. Lewis</string>
+		<string>Carl E Olson</string>
+		<string>Caryll Houselander</string>
+		<string>Catholic Answers</string>
+		<string>Catholic Book Publishing Co</string>
+		<string>Catholic Church</string>
+		<string>Charles S. Strong</string>
+		<string>Chris Kyle</string>
+		<string>Dan J. Forrestal</string>
+		<string>Dante Alighieri</string>
+		<string>Donald F. Glut</string>
+		<string>Douglas Brinkley</string>
+		<string>Eberhard Nestle</string>
+		<string>Edgar Allan Poe</string>
+		<string>Fr Alain Delagneau</string>
+		<string>Fr. Jonathan Morris</string>
+		<string>Frank Herbert</string>
+		<string>Frank McCourt</string>
+		<string>Frederic M Wheelock</string>
+		<string>Fyodor Dostoevsky</string>
+		<string>Geoffrey Chaucer</string>
+		<string>George Gowdy</string>
+		<string>George Knight</string>
+		<string>George R. R. Martin</string>
+		<string>George Weigel</string>
+		<string>Gus Lloyd</string>
+		<string>H.G. Wells</string>
+		<string>Hazel Dodge</string>
+		<string>Howard R. Garis</string>
+		<string>J  K Rowling</string>
+		<string>J R R Tolkien</string>
+		<string>J. K. Rowling</string>
+		<string>J. R. R. Tolkien</string>
+		<string>J.K. Rowling</string>
+		<string>J.R.R. Tolkien</string>
+		<string>Jack Thorne</string>
+		<string>James Kahn George Lucas</string>
+		<string>James Rollins</string>
+		<string>James Rollins [Jim Czajkowski]</string>
+		<string>James Walker</string>
+		<string>Jeffrey C Geoghegan</string>
+		<string>Joanne K. Rowling</string>
+		<string>Joe Conway</string>
+		<string>John Grisham</string>
+		<string>John Tiffany</string>
+		<string>Leo Tolstoy</string>
+		<string>Leslie Silk Eslinger</string>
+		<string>Lev Nikolaevič Tolstoj</string>
+		<string>Lisa Swerling</string>
+		<string>Mark Twain Samuel Langhorne Clemens</string>
+		<string>Mary Grandpré</string>
+		<string>Mary Grandpré J. K. Rowling</string>
+		<string>Mary Wollstonecraft Shelley</string>
+		<string>Matthew Kelly</string>
+		<string>Max</string>
+		<string>Max Brooks</string>
+		<string>Melinda Corey</string>
+		<string>Mellie John</string>
+		<string>Mich.)</string>
+		<string>Michael Crichton</string>
+		<string>Michael D O'Brien</string>
+		<string>Michael Leach</string>
+		<string>Michael Mucci</string>
+		<string>Nathaniel Hawthorne</string>
+		<string>Neal Stephenson</string>
+		<string>Nigel Rodgers</string>
+		<string>Oliver Ready</string>
+		<string>Orson Scott Card</string>
+		<string>Paul Jessup</string>
+		<string>Paul Kent</string>
+		<string>Paul T Comeau</string>
+		<string>Paulene M. Yates</string>
+		<string>Pope Francis</string>
+		<string>Ralph Lazar</string>
+		<string>Rebecca Cantrell</string>
+		<string>Rebecca Caudill</string>
+		<string>Régine Pernoud</string>
+		<string>Richard Francis Burton</string>
+		<string>Robert Jordan</string>
+		<string>Robert Louis Stevenson</string>
+		<string>S Heaney</string>
+		<string>Sabaa Tahir</string>
+		<string>Saint  Bishop of Hippo.</string>
+		<string>Sir</string>
+		<string>St. Augustine</string>
+		<string>Taya Kyle</string>
+		<string>Thomas à Kempis</string>
+		<string>Thomas N. Hart</string>
+		<string>Trent Horn</string>
+		<string>US Conference of Catholic Bishops</string>
+		<string>Walter J Savitch</string>
+		<string>William J. Bennett</string>
+		<string>William Shakespeare</string>
+		<string>Zondervan Publishing House (Grand Rapids</string>
+	</array>
+	<key>awards</key>
+	<array>
+		<string>Caldecott Medal</string>
+		<string>Edgar Award</string>
+		<string>Gold Dagger</string>
+		<string>Hugo Award</string>
+		<string>Man Booker Prize</string>
+		<string>National Book Award</string>
+		<string>Nebula Award</string>
+		<string>Newbery Award</string>
+		<string>Pulitzer Prize</string>
+		<string>Whitbread</string>
+	</array>
+	<key>children</key>
+	<array>
+		<string>Preschool</string>
+		<string>Picture Book</string>
+		<string>Ages 3-4</string>
+		<string>Ages 5-8</string>
+		<string>Ages 9-11</string>
+		<string>Ages 12-16</string>
+		<string>Ages 16+</string>
+	</array>
+	<key>edition</key>
+	<array>
+		<string>1st</string>
+		<string>2nd</string>
+		<string>3rd</string>
+		<string>4th</string>
+		<string>5th</string>
+	</array>
+	<key>format</key>
+	<array>
+		<string>Audio Cassette</string>
+		<string>Audio CD</string>
+		<string>Hardcover</string>
+		<string>Large Print</string>
+		<string>Leatherback</string>
+		<string>Mass Paperback</string>
+		<string>Paperback</string>
+		<string>Textbook Binding</string>
+		<string>Tradeback</string>
+		<string>Unknown Binding</string>
+	</array>
+	<key>genre</key>
+	<array>
+		<string> Computer Programming</string>
+		<string> Epic</string>
+		<string> Fantasy</string>
+		<string> Military</string>
+		<string> Science Fiction</string>
+		<string> Tech</string>
+		<string>Action &amp; Adventure</string>
+		<string>Adventure</string>
+		<string>Adventure fiction</string>
+		<string>Adventure stories</string>
+		<string>American</string>
+		<string>American Government</string>
+		<string>Apologetic works</string>
+		<string>Apologetic writings</string>
+		<string>Arts &amp; Photography</string>
+		<string>Baggins</string>
+		<string>Bible</string>
+		<string>Biographies &amp; Memoirs</string>
+		<string>Biography</string>
+		<string>British Literature</string>
+		<string>Business</string>
+		<string>Business &amp; Economics</string>
+		<string>Canadian</string>
+		<string>Catechisms</string>
+		<string>Catholic</string>
+		<string>Children's</string>
+		<string>Children's Books</string>
+		<string>Childrens</string>
+		<string>Christian Books &amp; Bibles</string>
+		<string>Christian Fiction</string>
+		<string>Christian Life</string>
+		<string>Christian Theology</string>
+		<string>Christianity</string>
+		<string>Classic fiction (Children's&amp;YA)</string>
+		<string>Classic fiction (pre c 1945)</string>
+		<string>Classic Literature</string>
+		<string>Classici</string>
+		<string>Classics</string>
+		<string>Comic books</string>
+		<string>Comic Strips &amp; Cartoons</string>
+		<string>Comics &amp; Graphic Novels</string>
+		<string>Computer Programming</string>
+		<string>Computers</string>
+		<string>Computers &amp; Internet</string>
+		<string>Computers &amp; Technology</string>
+		<string>Computers &amp; Technology &gt; Programming</string>
+		<string>Cooking</string>
+		<string>Crime</string>
+		<string>Culture</string>
+		<string>Devotional</string>
+		<string>Devotions</string>
+		<string>Diary fiction</string>
+		<string>Drama</string>
+		<string>Early works</string>
+		<string>Early works to 1800</string>
+		<string>Electronic books</string>
+		<string>English</string>
+		<string>Entertainment</string>
+		<string>Epic</string>
+		<string>Epic literature</string>
+		<string>etc</string>
+		<string>European Literature</string>
+		<string>exercises</string>
+		<string>Fairy tales</string>
+		<string>Faith</string>
+		<string>Family &amp; Relationships</string>
+		<string>Fantasy</string>
+		<string>Fantasy drama</string>
+		<string>Fantasy fiction</string>
+		<string>Fiction</string>
+		<string>Folklore</string>
+		<string>Form</string>
+		<string>Friendship</string>
+		<string>Frodo (Fictitious character)</string>
+		<string>Gandalf (Fictitious character)</string>
+		<string>Graphic Novels</string>
+		<string>Handbooks</string>
+		<string>Handbooks and manuals</string>
+		<string>Hard science fiction</string>
+		<string>Health</string>
+		<string>History</string>
+		<string>Horror</string>
+		<string>Horror comic books</string>
+		<string>Horror fiction</string>
+		<string>Humor</string>
+		<string>Introductions</string>
+		<string>IT</string>
+		<string>Italian Literature</string>
+		<string>Java</string>
+		<string>Juvenile drama</string>
+		<string>Juvenile Fiction</string>
+		<string>Juvenile works</string>
+		<string>Literature</string>
+		<string>Literature &amp; Fiction</string>
+		<string>Love &amp; Romance</string>
+		<string>Magic</string>
+		<string>manuals</string>
+		<string>Media Tie-In</string>
+		<string>Meditations</string>
+		<string>Middle Earth (Imaginary place)</string>
+		<string>Middle Grade</string>
+		<string>Modern &amp; contemporary fiction (post c 1945)</string>
+		<string>Mystery</string>
+		<string>Mystery &amp; Thrillers</string>
+		<string>Narrativa straniera</string>
+		<string>National</string>
+		<string>Nature</string>
+		<string>Non Fiction</string>
+		<string>Non-fiction</string>
+		<string>Novels</string>
+		<string>Outlines</string>
+		<string>Outlines and syllabi</string>
+		<string>Paranormal</string>
+		<string>Personal Growth</string>
+		<string>Personal Narratives</string>
+		<string>Picture Books</string>
+		<string>Poetry</string>
+		<string>Political Science</string>
+		<string>Prayer</string>
+		<string>Prayers and devotions</string>
+		<string>Problems</string>
+		<string>Professional</string>
+		<string>Programming Languages</string>
+		<string>Quotations</string>
+		<string>Reference</string>
+		<string>Religion</string>
+		<string>Religion &amp; Spirituality</string>
+		<string>Roman</string>
+		<string>Romance</string>
+		<string>Saints &amp; Sainthood</string>
+		<string>Sci-Fi &amp; Fantasy</string>
+		<string>Science Ficti</string>
+		<string>Science Fiction</string>
+		<string>Science fiction (Children's&amp;YA)</string>
+		<string>Science Fiction &amp; Fantasy</string>
+		<string>Science Fiction Fanta</string>
+		<string>Science Fiction Fantasy</string>
+		<string>Self-Help</string>
+		<string>Sources</string>
+		<string>Spirituality</string>
+		<string>strips</string>
+		<string>Suspense Fiction</string>
+		<string>syllabi</string>
+		<string>Tech</string>
+		<string>Teens</string>
+		<string>Thriller</string>
+		<string>Thriller &amp; Suspense</string>
+		<string>Thrillers &amp; Mystery</string>
+		<string>Topic</string>
+		<string>Travel</string>
+	</array>
+	<key>gift</key>
+	<array>
+		<string>Birthday</string>
+		<string>Christmas</string>
+		<string>Graduation</string>
+		<string>From Mom</string>
+	</array>
+	<key>illustrator</key>
+	<array>
+		<string>Howard Simon</string>
+		<string>Muriel and Jim Collins</string>
+	</array>
+	<key>placePublished</key>
+	<array>
+		<string>American wife : love, war, faith, and renewal</string>
+		<string>Amphibians!.</string>
+		<string>Boston</string>
+		<string>Chicago</string>
+		<string>Crime and Punishment.</string>
+		<string>Eau Claire, Wisconsin</string>
+		<string>El Cajon, California</string>
+		<string>Evanston, Il</string>
+		<string>Evanston, Il / White Plains, NY</string>
+		<string>Faifield, Ia</string>
+		<string>Garden City, N.Y</string>
+		<string>Hamburg</string>
+		<string>Harry Potter and the cursed child. Parts one and two</string>
+		<string>Harry potter and the sorcerer's stone.</string>
+		<string>Holy Bible : New International Version.</string>
+		<string>Java : an introduction to problem solving &amp; programming</string>
+		<string>Java for dummies</string>
+		<string>Jerusalem : a novel</string>
+		<string>Know your Bible.</string>
+		<string>Kyle, Chris, 1974-2013.</string>
+		<string>Lion, the witch and the wardrobe.</string>
+		<string>London</string>
+		<string>Love</string>
+		<string>Map of bones : a Sigma Force novel</string>
+		<string>Nashville, TN</string>
+		<string>New York</string>
+		<string>New York, NY</string>
+		<string>Novum testamentum Latine novam vulgatam Bibliorum sacrorum ed. secuti apparatibus titulisque additis</string>
+		<string>Paris</string>
+		<string>Parish priest : Father Michael McGivney and American Catholicism</string>
+		<string>Peabody, Mass.</string>
+		<string>Place of publication not identified</string>
+		<string>Pope Francis speaks to our hearts : words of challenge and hope.</string>
+		<string>Rome</string>
+		<string>Saint Joseph Baltimore catechism : the truths of our Catholic faith clearly explained and illustrate</string>
+		<string>Seveneves : [a novel]</string>
+		<string>Tales from the Arabian nights</string>
+		<string>The Bible for dummies</string>
+		<string>The bone labyrinth : a Sigma Force novel</string>
+		<string>The crusaders</string>
+		<string>The Da Vinci hoax : exposing the errors in The Da Vinci code</string>
+		<string>The Hobbit and the Lord of the Rings The Hobbit, the Fellowship of the Ring, the Two Towers, the Ret</string>
+		<string>The kill switch : a Tucker Wayne novel</string>
+		<string>The way of serenity : finding peace and happiness in the serenity prayer</string>
+		<string>Uhrichsville, Ohio</string>
+		<string>United States.</string>
+		<string>USA</string>
+		<string>Voyage to Alpha Centauri : a novel</string>
+		<string>Werewolves a journal of transformation</string>
+		<string>Why stay Catholic? : unexpected answers to a life-changing question</string>
+	</array>
+	<key>placedForSaleAt</key>
+	<array>
+		<string>Amazon</string>
+		<string>Ebay</string>
+		<string>Half.com</string>
+		<string>Alibris</string>
+	</array>
+	<key>publisher</key>
+	<array>
+		<string>ACE Charter (1996), Edition: 25th Anniv, Paperback</string>
+		<string>Addison-Wesley</string>
+		<string>Addison-Wesley Professional</string>
+		<string>Angelus Press</string>
+		<string>Arrow Books Ltd</string>
+		<string>Arthur a Levine</string>
+		<string>Arthur A Levine Books</string>
+		<string>Arthur A. Levine Books</string>
+		<string>Bantam</string>
+		<string>Bantam Classics</string>
+		<string>Barbour</string>
+		<string>Barbour Pub</string>
+		<string>Barnes &amp; Noble</string>
+		<string>Barnes &amp; Noble Inc</string>
+		<string>Barnes &amp; Noble, Incorporated</string>
+		<string>Barnes and Noble</string>
+		<string>Basic Books</string>
+		<string>Bloomsbury</string>
+		<string>BOOKS</string>
+		<string>Catholic Answers, Inc.</string>
+		<string>Catholic Book Pub Co</string>
+		<string>Catholic Book Publishing Corp</string>
+		<string>Charles Scribner's Sons</string>
+		<string>Chronicle Books</string>
+		<string>Collins</string>
+		<string>Collins Reference</string>
+		<string>CreateSpace Independent Publishing Platform</string>
+		<string>Cupples &amp; Leon Company</string>
+		<string>Del Rey</string>
+		<string>Del Rey Books</string>
+		<string>Dorling Kindersley ; Boston</string>
+		<string>Doubleday</string>
+		<string>Doubleday Books</string>
+		<string>Dynamic Catholic Institute</string>
+		<string>E.M. Hale and Company</string>
+		<string>Easton Press</string>
+		<string>F Watts</string>
+		<string>Fall River Press</string>
+		<string>Fireside Catholic Publishing</string>
+		<string>Garden City Books</string>
+		<string>Gideons International</string>
+		<string>Gus Lloyd</string>
+		<string>Harper</string>
+		<string>Harper Perennial</string>
+		<string>Harper Trophy</string>
+		<string>HarperAudio</string>
+		<string>HarperCollins</string>
+		<string>HarperOne</string>
+		<string>Hendrickson Publishers</string>
+		<string>Hodder &amp; Stoughton</string>
+		<string>Holt, Rinehart &amp; Winston</string>
+		<string>Houghton Mifflin</string>
+		<string>Ignatius Press</string>
+		<string>Listening Library</string>
+		<string>Liveright Publishing Corporation</string>
+		<string>Loyola Press</string>
+		<string>Marshall Cevndish</string>
+		<string>Paulist Press</string>
+		<string>Pearson Prentice Hall</string>
+		<string>Penguin</string>
+		<string>Penguin Books</string>
+		<string>Penguin Publishing Group</string>
+		<string>Random House</string>
+		<string>Random House Incorporated</string>
+		<string>Random House Publishing Group</string>
+		<string>Razorbill</string>
+		<string>Row, Peterson and Company</string>
+		<string>Royal Publishers, Inc.</string>
+		<string>Scholastic</string>
+		<string>Scholastic (Us)</string>
+		<string>Scholastic Inc</string>
+		<string>Scholastic Paperbacks</string>
+		<string>Scribner (2000), Paperback, 368 pages</string>
+		<string>Simon &amp; Schuster</string>
+		<string>Simon &amp; Schuster (1999), Paperback, 368 pages</string>
+		<string>Simon and Schuster</string>
+		<string>Sony CONNECT Inc.</string>
+		<string>Sophia Institute Press</string>
+		<string>Sterling</string>
+		<string>Sterling Publishing</string>
+		<string>Stuttgart Dt Bibelges</string>
+		<string>TAN BOOKS &amp; PUBL Incorporated</string>
+		<string>The Macmillan Company</string>
+		<string>The Regina Press</string>
+		<string>The Word Among Us Press</string>
+		<string>Tor Books</string>
+		<string>Tor Fantasy</string>
+		<string>Tor Fantasy (1990), Edition: 1st Mass, Paperback</string>
+		<string>Tor Fantasy (1991), Edition: Reissue, Mass Market Paperback</string>
+		<string>Tor Science Fiction</string>
+		<string>Tyndale House Publishers</string>
+		<string>USCCB Publishing</string>
+		<string>Vintage Classics</string>
+		<string>W. W. Norton &amp; Co.</string>
+		<string>Wiley</string>
+		<string>Wiley Pub</string>
+		<string>William Morrow</string>
+		<string>William Morrow an imprint of HarperCollins Publishers</string>
+		<string>Wordsworth Editions Ltd</string>
+		<string>Zondervan Pub House</string>
+	</array>
+	<key>purchasedAt</key>
+	<array>
+		<string>Amazon</string>
+		<string>Barnes &amp; Noble</string>
+		<string>Borders</string>
+		<string>WHSmith</string>
+		<string>Waterstone's</string>
+	</array>
+	<key>series</key>
+	<array>
+		<string>Harry Potter</string>
+		<string>Jurassic Park</string>
+		<string>Sigma Force</string>
+		<string>The Order of the Sanguines</string>
+		<string>The Wheel of Time</string>
+		<string>Wheel of Time</string>
+	</array>
+	<key>subjects</key>
+	<array>
+		<string>Catholic</string>
+		<string>Faith</string>
+		<string>Religion</string>
+		<string>Science</string>
+	</array>
+</dict>
+</plist>
