@@ -6470,26 +6470,16 @@ Unparalleled in scope and execution, "A Game of Thrones" is one of those rare re
 	</dict>
 	<key>61</key>
 	<dict>
-		<key>asin</key>
-		<string>0812517725</string>
 		<key>author</key>
 		<string>Robert Jordan</string>
-		<key>comic</key>
-		<integer>0</integer>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
-		<date>2016-05-14T05:16:56Z</date>
+		<date>2016-05-14T05:00:00Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:13Z</date>
-		<key>dewey</key>
-		<string>813.54</string>
-		<key>dimensions</key>
-		<string>1.50 x 6.60 x 4.30 in</string>
-		<key>dogTag</key>
-		<integer>8586</integer>
+		<date>2017-01-06T23:10:25Z</date>
 		<key>format</key>
 		<string>Mass Market Paperback</string>
 		<key>genre</key>
@@ -6501,26 +6491,16 @@ Unparalleled in scope and execution, "A Game of Thrones" is one of those rare re
 		<key>isbn</key>
 		<string>9780812517729</string>
 		<key>lastRead</key>
-		<date>2016-03-10T04:32:02Z</date>
+		<date>2016-03-09T06:00:00Z</date>
 		<key>lastUsed</key>
 		<array>
 			<dict>
 				<key>date</key>
 				<date>2016-03-09T06:00:00Z</date>
 			</dict>
-			<dict>
-				<key>date</key>
-				<date>2016-05-16T05:00:00Z</date>
-			</dict>
 		</array>
-		<key>locale</key>
-		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$3.32</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>10</integer>
 		<key>onSale</key>
@@ -6532,21 +6512,45 @@ Unparalleled in scope and execution, "A Game of Thrones" is one of those rare re
 		<key>publisher</key>
 		<string>Tor Fantasy (1991), Edition: Reissue, Mass Market Paperback</string>
 		<key>releaseDate</key>
-		<date>1991-06-23T05:00:00Z</date>
+		<date>1991-06-01T05:00:00Z</date>
 		<key>series</key>
 		<string>The Wheel of Time</string>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fantasy, Fiction, Fantasy - General, Fiction - Fantasy, Fantasy - Series, Fantasy - Epic, Fiction / Fantasy / Epic</string>
 		<key>summary</key>
-		<string>The Great Hunt (The Wheel of Time, Book 2) by Robert Jordan (1991)</string>
+		<string>Since its debut in 1990, The Wheel of Time® by Robert Jordan has captivated millions of readers around the globe with its scope, originality, and compelling characters.
+The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
+For centuries, gleemen have told the tales of The Great Hunt of the Horn. So many tales about each of th Hunters, and so many Hunters to tell of...Now the Horn itself is found: the Horn of Valere long thought only legend, the Horn which will raise the dead heroes of the ages. And it is stolen.
+The Wheel of Time®
+"New Spring: The Novel"
+#1 "The Eye of the World"
+#2 "The Great Hunt"
+#3 "The Dragon Reborn"
+#4 "The Shadow Rising"
+#5 "The Fires of Heaven"
+#6 "Lord of Chaos"
+#7 "A Crown of Swords"
+#8 "The Path of Daggers"
+#9 "Winter's Heart"
+#10 "Crossroads of Twilight"
+#11 "Knife of Dreams"
+By Robert Jordan and Brandon Sanderson
+#12 "The Gathering Storm"
+#13 "Towers of Midnight"
+#14 "A Memory of Light"
+By Robert Jordan and Teresa Patterson
+"The World of Robert Jordan's The Wheel of Time"
+By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
+"The Wheel of Time Companion"
+By Robert Jordan and Amy Romanczuk
+"Patterns of the Wheel: ""Coloring Art Based on Robert Jordan's The Wheel of Time"
+At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.</string>
 		<key>title</key>
 		<string>The Great Hunt</string>
 		<key>uid</key>
-		<integer>4</integer>
+		<integer>177</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
 		<key>url</key>
@@ -7282,6 +7286,85 @@ Goblet of Fire.</string>
 		<key>author</key>
 		<string>J. K. Rowling</string>
 		<key>awards</key>
+		<string>Mythopoeic Fantasy Award for Children's Literature (2008), British Book Award for Children's Book of the Year (1998), Smarties Prize (1997), Prijs van de Nederlandse Kinderjury for 6-9 jaar en 10-12 jaar (2002), American Booksellers Book Of The Year Award for Children (1999), West Australian Young Readers' Book Award (WAYRBA) for Younger Readers (2000), Rebecca Caudill Young Reader's Book Award (2001), South Carolina Book Award for Junior Book Award (2001), Grand Canyon Reader Award for Teen Book (2000), Charlotte Award (2000), Nene Award (2000), Massachusetts Children's Book Award (2000), Colorado Blue Spruce Young Adult Book Award (2001), Blue Hen Book Award for Chapter Book (2001), Nevada Young Readers' Award for Young Reader Category (2000), Golden Archer Award for Middle/Junior High (2000), Indian Paintbrush Book Award (2000), Hotze de Roosprijs (2002), Kinderboekwinkelprijs (1999), Publishers Weekly Best Book of (1998), National Book Award (UK) (1997), Parenting Book of the Year Award (1998), North East Teenage Book Award (1999), Washington State Sasquatch Award (2000), Literaturpreis der Jury der jungen Leser for Kinderbuch (1999), Carnegie Medal Nominee (1997)</string>
+		<key>characters</key>
+		<string>Harry Potter, Draco Malfoy, Hermione Granger, Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Albus Dumbledore, Severus Snape, Quirinus Quirrell, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom, Fred Weasley, George Wea</string>
+		<key>coverArtist</key>
+		<string>Mary GrandPré</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-19T22:15:12Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:22:04Z</date>
+		<key>dimensions</key>
+		<string>24.00 cm x 15.20 cm x 2.50 cm</string>
+		<key>dogTag</key>
+		<integer>1240</integer>
+		<key>edition</key>
+		<string>1st</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Mary Grandpre</string>
+		<key>isbn</key>
+		<string>9780590353403</string>
+		<key>language</key>
+		<string>English</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$11.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$3.91</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>309</string>
+		<key>placePublished</key>
+		<string>New York</string>
+		<key>publisher</key>
+		<string>Arthur A. Levine Books</string>
+		<key>rating</key>
+		<string>6</string>
+		<key>releaseDate</key>
+		<date>1998-10-01T05:00:00Z</date>
+		<key>series</key>
+		<string>Harry Potter</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility. 
+
+All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley—a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years. 
+
+But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry—and anyone who reads about him—will find unforgettable. For it's there that he finds not only friends, aerial sports, and magic in everything from classes to meals, but a great destiny that's been waiting for him... if Harry can survive the encounter.</string>
+		<key>title</key>
+		<string>Harry Potter and the Sorcerer's Stone</string>
+		<key>uid</key>
+		<integer>93</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/1240</string>
+	</dict>
+	<key>72</key>
+	<dict>
+		<key>author</key>
+		<string>J. K. Rowling</string>
+		<key>awards</key>
 		<string>Nestlé Smarties Book Prize</string>
 		<key>characters</key>
 		<string>Harry Potter, Ronald Weasley, Professor Albus Dumbledore, Professor Severus Snape, George Weasley, Fred Weasley, Arthur Weasley</string>
@@ -7357,85 +7440,6 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2882</string>
-	</dict>
-	<key>72</key>
-	<dict>
-		<key>author</key>
-		<string>J. K. Rowling</string>
-		<key>awards</key>
-		<string>Mythopoeic Fantasy Award for Children's Literature (2008), British Book Award for Children's Book of the Year (1998), Smarties Prize (1997), Prijs van de Nederlandse Kinderjury for 6-9 jaar en 10-12 jaar (2002), American Booksellers Book Of The Year Award for Children (1999), West Australian Young Readers' Book Award (WAYRBA) for Younger Readers (2000), Rebecca Caudill Young Reader's Book Award (2001), South Carolina Book Award for Junior Book Award (2001), Grand Canyon Reader Award for Teen Book (2000), Charlotte Award (2000), Nene Award (2000), Massachusetts Children's Book Award (2000), Colorado Blue Spruce Young Adult Book Award (2001), Blue Hen Book Award for Chapter Book (2001), Nevada Young Readers' Award for Young Reader Category (2000), Golden Archer Award for Middle/Junior High (2000), Indian Paintbrush Book Award (2000), Hotze de Roosprijs (2002), Kinderboekwinkelprijs (1999), Publishers Weekly Best Book of (1998), National Book Award (UK) (1997), Parenting Book of the Year Award (1998), North East Teenage Book Award (1999), Washington State Sasquatch Award (2000), Literaturpreis der Jury der jungen Leser for Kinderbuch (1999), Carnegie Medal Nominee (1997)</string>
-		<key>characters</key>
-		<string>Harry Potter, Draco Malfoy, Hermione Granger, Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Albus Dumbledore, Severus Snape, Quirinus Quirrell, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom, Fred Weasley, George Wea</string>
-		<key>coverArtist</key>
-		<string>Mary GrandPré</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-19T22:15:12Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:22:04Z</date>
-		<key>dimensions</key>
-		<string>24.00 cm x 15.20 cm x 2.50 cm</string>
-		<key>dogTag</key>
-		<integer>1240</integer>
-		<key>edition</key>
-		<string>1st</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction, Fantasy</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>illustrator</key>
-		<string>Mary Grandpre</string>
-		<key>isbn</key>
-		<string>9780590353403</string>
-		<key>language</key>
-		<string>English</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$11.00</string>
-		<key>lowestUsedPrice</key>
-		<string>$3.91</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>309</string>
-		<key>placePublished</key>
-		<string>New York</string>
-		<key>publisher</key>
-		<string>Arthur A. Levine Books</string>
-		<key>rating</key>
-		<string>6</string>
-		<key>releaseDate</key>
-		<date>1998-10-01T05:00:00Z</date>
-		<key>series</key>
-		<string>Harry Potter</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility. 
-
-All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley—a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years. 
-
-But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry—and anyone who reads about him—will find unforgettable. For it's there that he finds not only friends, aerial sports, and magic in everything from classes to meals, but a great destiny that's been waiting for him... if Harry can survive the encounter.</string>
-		<key>title</key>
-		<string>Harry Potter and the Sorcerer's Stone</string>
-		<key>uid</key>
-		<integer>93</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/1240</string>
 	</dict>
 	<key>73</key>
 	<dict>
