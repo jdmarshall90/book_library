@@ -340,6 +340,89 @@
 	<key>103</key>
 	<dict>
 		<key>author</key>
+		<string>Robert Jordan, Brandon Sanderson</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-01-18T00:51:58Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-18T00:52:58Z</date>
+		<key>dimensions</key>
+		<string>24.4 x 15.9 x 5.8 cm</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Epic, Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780765325952</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>912</string>
+		<key>price</key>
+		<string>$34.99</string>
+		<key>publisher</key>
+		<string>Tor Books</string>
+		<key>releaseDate</key>
+		<date>2013-01-08T06:00:00Z</date>
+		<key>series</key>
+		<string>The Wheel of Time</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Since 1990, when Robert Jordan's The Wheel of Time® burst on the world with its first book, "The Eye of the World," readers have been anticipating the final scenes of this extraordinary saga, which has sold over forty million copies in over thirty languages.
+The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
+When Robert Jordan died in 2007, all feared that these concluding scenes would never be written. But working from notes and partials left by Jordan, established fantasy writer Brandon Sanderson stepped in to complete the masterwork. With "The Gathering Storm" (Book 12) and "Towers of Midnight "(Book 13) behind him, both of which were # 1 "New York Times" hardcover bestsellers, Sanderson now re-creates the vision that Robert Jordan left behind.
+Edited by Jordan's widow, who edited all of Jordan's books, "A Memory of Light" will delight, enthrall, and deeply satisfy all of Jordan's legions of readers.
+The Wheel of Time turns, and Ages come and pass.
+What was, what will be, and what is,
+may yet fall under the Shadow.
+"Let the Dragon ride again on the winds of time."
+The Wheel of Time®
+"New Spring: The Novel"
+#1 "The Eye of the World"
+#2 "The Great Hunt"
+#3 "The Dragon Reborn"
+#4 "The Shadow Rising"
+#5 "The Fires of Heaven"
+#6 "Lord of Chaos"
+#7 "A Crown of Swords"
+#8 "The Path of Daggers"
+#9 "Winter's Heart"
+#10 "Crossroads of Twilight"
+#11 "Knife of Dreams"
+By Robert Jordan and Brandon Sanderson
+#12 "The Gathering Storm"
+#13 "Towers of Midnight"
+#14 "A Memory of Light"
+By Robert Jordan and Teresa Patterson
+"The World of Robert Jordan's The Wheel of Time"
+By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
+"The Wheel of Time Companion"</string>
+		<key>title</key>
+		<string>A Memory of Light</string>
+		<key>uid</key>
+		<integer>178</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Memory-Light-Wheel-Time-Book/dp/0765325950?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325950</string>
+	</dict>
+	<key>104</key>
+	<dict>
+		<key>author</key>
 		<string>James Walker</string>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -398,7 +481,7 @@
 		<key>url</key>
 		<string>http://books.google.com/books?id=VRTFoAEACAAJ</string>
 	</dict>
-	<key>104</key>
+	<key>105</key>
 	<dict>
 		<key>author</key>
 		<string>Gus Lloyd</string>
@@ -447,7 +530,7 @@
 		<key>url</key>
 		<string>http://books.google.com/books?id=soSluQAACAAJ</string>
 	</dict>
-	<key>105</key>
+	<key>106</key>
 	<dict>
 		<key>comments</key>
 		<string>I am pretty sure Uncle Bob Starbody gave this to me.</string>
@@ -480,7 +563,7 @@
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>106</key>
+	<key>107</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -511,7 +594,7 @@
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>107</key>
+	<key>108</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -552,7 +635,7 @@
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL12315056M</string>
 	</dict>
-	<key>108</key>
+	<key>109</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -586,55 +669,6 @@
 		<integer>150</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
-	</dict>
-	<key>109</key>
-	<dict>
-		<key>comments</key>
-		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T21:14:00Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:16:58Z</date>
-		<key>dimensions</key>
-		<string>10.9 x 7.1 x 2.5 cm</string>
-		<key>format</key>
-		<string>Imitation Leather</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Bible</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$59.98</string>
-		<key>lowestUsedPrice</key>
-		<string>$20.00</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>633</string>
-		<key>publisher</key>
-		<string>Gideons International</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>title</key>
-		<string>New Testament, Psalms, Proverbs (Gideon Camo/Military Pocket Bible)</string>
-		<key>uid</key>
-		<integer>152</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Testament-Proverbs-International-Published-Publishing/dp/B00IKFD702?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00IKFD702</string>
 	</dict>
 	<key>11</key>
 	<dict>
@@ -715,6 +749,55 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 	</dict>
 	<key>110</key>
 	<dict>
+		<key>comments</key>
+		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-23T21:14:00Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:16:58Z</date>
+		<key>dimensions</key>
+		<string>10.9 x 7.1 x 2.5 cm</string>
+		<key>format</key>
+		<string>Imitation Leather</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Bible</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$59.98</string>
+		<key>lowestUsedPrice</key>
+		<string>$20.00</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>633</string>
+		<key>publisher</key>
+		<string>Gideons International</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>title</key>
+		<string>New Testament, Psalms, Proverbs (Gideon Camo/Military Pocket Bible)</string>
+		<key>uid</key>
+		<integer>152</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Testament-Proverbs-International-Published-Publishing/dp/B00IKFD702?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00IKFD702</string>
+	</dict>
+	<key>111</key>
+	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
 		<key>customCheckbox2</key>
@@ -764,7 +847,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>url</key>
 		<string>https://www.amazon.com/Holy-Bible-King-James-Version/dp/B000H3VC0M?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000H3VC0M</string>
 	</dict>
-	<key>111</key>
+	<key>112</key>
 	<dict>
 		<key>author</key>
 		<string>Eberhard Nestle</string>
@@ -819,7 +902,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2057991</string>
 	</dict>
-	<key>112</key>
+	<key>113</key>
 	<dict>
 		<key>author</key>
 		<string>Douglas Brinkley</string>
@@ -880,7 +963,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049841</string>
 	</dict>
-	<key>113</key>
+	<key>114</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -957,7 +1040,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/70026</string>
 	</dict>
-	<key>114</key>
+	<key>115</key>
 	<dict>
 		<key>author</key>
 		<string>John Grisham</string>
@@ -1032,7 +1115,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/6152</string>
 	</dict>
-	<key>115</key>
+	<key>116</key>
 	<dict>
 		<key>asin</key>
 		<string>0141199490</string>
@@ -1084,7 +1167,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>116</key>
+	<key>117</key>
 	<dict>
 		<key>author</key>
 		<string>Pope Francis</string>
@@ -1151,7 +1234,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049871</string>
 	</dict>
-	<key>117</key>
+	<key>118</key>
 	<dict>
 		<key>author</key>
 		<string>Charles S. Strong</string>
@@ -1210,7 +1293,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>https://www.amazon.com/Real-Book-About-Antarctic/dp/B004CQYGQW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004CQYGQW</string>
 	</dict>
-	<key>118</key>
+	<key>119</key>
 	<dict>
 		<key>author</key>
 		<string>Matthew Kelly</string>
@@ -1270,65 +1353,6 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://books.google.com/books?id=SNYSogEACAAJ</string>
-	</dict>
-	<key>119</key>
-	<dict>
-		<key>author</key>
-		<string>Nigel Rodgers, Hazel Dodge</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:06Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:26:50Z</date>
-		<key>dimensions</key>
-		<string>23.00 cm</string>
-		<key>edition</key>
-		<string>1st</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, History</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781435104556</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$6.85</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>511</string>
-		<key>publisher</key>
-		<string>Barnes &amp; Noble, Incorporated</string>
-		<key>rating</key>
-		<string>4</string>
-		<key>releaseDate</key>
-		<date>2008-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>A complete history of the rise and fall of the Roman Empire, chronicling the story of the most influential civilization the world has ever known.</string>
-		<key>title</key>
-		<string>Roman Empire</string>
-		<key>uid</key>
-		<integer>49</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://books.google.com/books?id=DvtXPwAACAAJ</string>
 	</dict>
 	<key>12</key>
 	<dict>
@@ -1394,6 +1418,65 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 	<key>120</key>
 	<dict>
 		<key>author</key>
+		<string>Nigel Rodgers, Hazel Dodge</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:06Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:26:50Z</date>
+		<key>dimensions</key>
+		<string>23.00 cm</string>
+		<key>edition</key>
+		<string>1st</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, History</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781435104556</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$6.85</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>511</string>
+		<key>publisher</key>
+		<string>Barnes &amp; Noble, Incorporated</string>
+		<key>rating</key>
+		<string>4</string>
+		<key>releaseDate</key>
+		<date>2008-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>A complete history of the rise and fall of the Roman Empire, chronicling the story of the most influential civilization the world has ever known.</string>
+		<key>title</key>
+		<string>Roman Empire</string>
+		<key>uid</key>
+		<integer>49</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://books.google.com/books?id=DvtXPwAACAAJ</string>
+	</dict>
+	<key>121</key>
+	<dict>
+		<key>author</key>
 		<string>Bennet Kelley</string>
 		<key>comic</key>
 		<integer>0</integer>
@@ -1444,7 +1527,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049881</string>
 	</dict>
-	<key>121</key>
+	<key>122</key>
 	<dict>
 		<key>author</key>
 		<string>Catholic Book Publishing Co</string>
@@ -1508,7 +1591,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780899425498</string>
 	</dict>
-	<key>122</key>
+	<key>123</key>
 	<dict>
 		<key>asin</key>
 		<string>0060580674</string>
@@ -1581,7 +1664,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3597</string>
 	</dict>
-	<key>123</key>
+	<key>124</key>
 	<dict>
 		<key>author</key>
 		<string>Nathaniel Hawthorne</string>
@@ -1650,7 +1733,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/28114</string>
 	</dict>
-	<key>124</key>
+	<key>125</key>
 	<dict>
 		<key>author</key>
 		<string>Jules Verne</string>
@@ -1703,7 +1786,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1427191</string>
 	</dict>
-	<key>125</key>
+	<key>126</key>
 	<dict>
 		<key>author</key>
 		<string>Neal Stephenson</string>
@@ -1765,7 +1848,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2158721</string>
 	</dict>
-	<key>126</key>
+	<key>127</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -1806,7 +1889,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>127</key>
+	<key>128</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854315</string>
@@ -1884,7 +1967,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/72673</string>
 	</dict>
-	<key>128</key>
+	<key>129</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -1953,7 +2036,62 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/928691</string>
 	</dict>
-	<key>129</key>
+	<key>13</key>
+	<dict>
+		<key>author</key>
+		<string>Jeffrey C Geoghegan</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:51:34Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:27:05Z</date>
+		<key>dogTag</key>
+		<integer>2049891</integer>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Reference</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780764552960</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>placePublished</key>
+		<string>The Bible for dummies</string>
+		<key>publisher</key>
+		<string>Wiley Pub</string>
+		<key>releaseDate</key>
+		<date>2003-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Bible, Introductions</string>
+		<key>summary</key>
+		<string>Offers a guide on how to read sections of the Old and New Testaments, gives advice on how to apply the wisdom of the Bible to everyday life, and provides tips on how to find passages on a range of topics.</string>
+		<key>title</key>
+		<string>The Bible for dummies</string>
+		<key>uid</key>
+		<integer>70</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2049891</string>
+	</dict>
+	<key>130</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -2019,62 +2157,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/503011</string>
 	</dict>
-	<key>13</key>
-	<dict>
-		<key>author</key>
-		<string>Jeffrey C Geoghegan</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:51:34Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:27:05Z</date>
-		<key>dogTag</key>
-		<integer>2049891</integer>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Reference</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780764552960</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>placePublished</key>
-		<string>The Bible for dummies</string>
-		<key>publisher</key>
-		<string>Wiley Pub</string>
-		<key>releaseDate</key>
-		<date>2003-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Bible, Introductions</string>
-		<key>summary</key>
-		<string>Offers a guide on how to read sections of the Old and New Testaments, gives advice on how to apply the wisdom of the Bible to everyday life, and provides tips on how to find passages on a range of topics.</string>
-		<key>title</key>
-		<string>The Bible for dummies</string>
-		<key>uid</key>
-		<integer>70</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2049891</string>
-	</dict>
-	<key>130</key>
+	<key>131</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -2133,7 +2216,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL8238530M</string>
 	</dict>
-	<key>131</key>
+	<key>132</key>
 	<dict>
 		<key>author</key>
 		<string>Donald F. Glut, James Kahn, George Lucas</string>
@@ -2188,7 +2271,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://books.google.com/books?id=YWEWjwEACAAJ</string>
 	</dict>
-	<key>132</key>
+	<key>133</key>
 	<dict>
 		<key>asin</key>
 		<string>0380792648</string>
@@ -2263,7 +2346,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3598</string>
 	</dict>
-	<key>133</key>
+	<key>134</key>
 	<dict>
 		<key>author</key>
 		<string>Sir Richard Francis Burton</string>
@@ -2322,7 +2405,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1767031</string>
 	</dict>
-	<key>134</key>
+	<key>135</key>
 	<dict>
 		<key>asin</key>
 		<string>0385493800</string>
@@ -2395,7 +2478,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/74879</string>
 	</dict>
-	<key>135</key>
+	<key>136</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -2484,7 +2567,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/Towers-Midnight-Wheel-Time-Thirteen/dp/0765325942?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325942</string>
 	</dict>
-	<key>136</key>
+	<key>137</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Louis Stevenson</string>
@@ -2533,7 +2616,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://books.google.com/books?id=POCvDAEACAAJ</string>
 	</dict>
-	<key>137</key>
+	<key>138</key>
 	<dict>
 		<key>author</key>
 		<string>Leo Tolstoy</string>
@@ -2606,7 +2689,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/5818</string>
 	</dict>
-	<key>138</key>
+	<key>139</key>
 	<dict>
 		<key>author</key>
 		<string>H. G. Wells</string>
@@ -2673,59 +2756,6 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1186031</string>
 	</dict>
-	<key>139</key>
-	<dict>
-		<key>author</key>
-		<string>Fr. Jonathan Morris</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:22Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:16:12Z</date>
-		<key>dogTag</key>
-		<integer>2049861</integer>
-		<key>genre</key>
-		<string>Non-fiction, Religion</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780062119131</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>placePublished</key>
-		<string>The way of serenity : finding peace and happiness in the serenity prayer</string>
-		<key>publisher</key>
-		<string>HarperOne</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Serenity prayer</string>
-		<key>summary</key>
-		<string>Offers a phrase-by-phrase exploration of the serenity prayer, and how understanding and practicing its message can bring true happiness and fulfillment.</string>
-		<key>title</key>
-		<string>The Way of Serenity</string>
-		<key>uid</key>
-		<integer>57</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2049861</string>
-	</dict>
 	<key>14</key>
 	<dict>
 		<key>author</key>
@@ -2791,6 +2821,59 @@ By Robert Jordan and Amy Romanczuk
 	<key>140</key>
 	<dict>
 		<key>author</key>
+		<string>Fr. Jonathan Morris</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:22Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:16:12Z</date>
+		<key>dogTag</key>
+		<integer>2049861</integer>
+		<key>genre</key>
+		<string>Non-fiction, Religion</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062119131</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>placePublished</key>
+		<string>The way of serenity : finding peace and happiness in the serenity prayer</string>
+		<key>publisher</key>
+		<string>HarperOne</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Serenity prayer</string>
+		<key>summary</key>
+		<string>Offers a phrase-by-phrase exploration of the serenity prayer, and how understanding and practicing its message can bring true happiness and fulfillment.</string>
+		<key>title</key>
+		<string>The Way of Serenity</string>
+		<key>uid</key>
+		<integer>57</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2049861</string>
+	</dict>
+	<key>141</key>
+	<dict>
+		<key>author</key>
 		<string>Frederic M. Wheelock</string>
 		<key>comic</key>
 		<integer>0</integer>
@@ -2843,7 +2926,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1132141</string>
 	</dict>
-	<key>141</key>
+	<key>142</key>
 	<dict>
 		<key>author</key>
 		<string>Michael Leach</string>
@@ -2902,7 +2985,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049851</string>
 	</dict>
-	<key>142</key>
+	<key>143</key>
 	<dict>
 		<key>asin</key>
 		<string>B000062UIH</string>
@@ -2975,7 +3058,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/22779</string>
 	</dict>
-	<key>143</key>
+	<key>144</key>
 	<dict>
 		<key>author</key>
 		<string>Paul T. Comeau</string>
@@ -3049,7 +3132,7 @@ Perforated pages for hand-in homework assignments and space for the student's na
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1142071</string>
 	</dict>
-	<key>144</key>
+	<key>145</key>
 	<dict>
 		<key>author</key>
 		<string>Max Brooks</string>
@@ -3130,7 +3213,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/23054</string>
 	</dict>
-	<key>145</key>
+	<key>146</key>
 	<dict>
 		<key>author</key>
 		<string>George Gowdy</string>
@@ -3173,7 +3256,7 @@ Eyewitness reports from the first truly global war
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>146</key>
+	<key>147</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Jessup</string>
@@ -9116,7 +9199,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>dateAdded</key>
 		<date>2016-07-06T22:40:54Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:51Z</date>
+		<date>2017-01-18T00:52:54Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
