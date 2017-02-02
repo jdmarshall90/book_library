@@ -348,7 +348,7 @@
 		<key>dateAdded</key>
 		<date>2017-01-18T00:51:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-18T00:52:58Z</date>
+		<date>2017-02-02T22:42:20Z</date>
 		<key>dimensions</key>
 		<string>24.4 x 15.9 x 5.8 cm</string>
 		<key>format</key>
@@ -532,6 +532,69 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 	</dict>
 	<key>106</key>
 	<dict>
+		<key>author</key>
+		<string>Robert Jordan</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-02-02T22:42:01Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-02T22:42:26Z</date>
+		<key>dimensions</key>
+		<string>24.2 x 16.2 x 2.9 cm</string>
+		<key>edition</key>
+		<string>1</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Epic, Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780765306296</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$4.25</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.49</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>336</string>
+		<key>price</key>
+		<string>$22.95</string>
+		<key>publisher</key>
+		<string>Tor Fantasy</string>
+		<key>releaseDate</key>
+		<date>2004-01-06T06:00:00Z</date>
+		<key>series</key>
+		<string>The Wheel of Time</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>From America's premier fantasy writer---#1 "New York Times" and "USA Today" bestselling author of "Crossroads of Twilight"---comes an expanded version of his novella "New Spring," first published in the Legends collection. 
+
+For three days battle has raged in the snow around the great city of Tar Valon. In the city, a Foretelling of the future is uttered. On the slopes of Dragonmount, the immense mountain that looms over the city, is born an infant prophesied to change the world. That child must be found before the forces of the Shadow have an opportunity to kill him. Moiraine Damodred, a young Accepted soon to be raised to Aes Sedai, and Lan Mandragoran, a soldier fighting in the battle, are set on paths that will bind their lives together. But those paths are filled with complications and dangers, for Moiraine, of the Royal House of Cairhien, whose king has just died, and Lan, considered the uncrowned king of a nation long dead, find their lives threatened by the plots of those seeking power. "New Spring" related some of these events, in compressed form; "New Spring: The Novel" tells the whole story.</string>
+		<key>title</key>
+		<string>New Spring</string>
+		<key>uid</key>
+		<integer>179</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Spring-Wheel-Time-Prequel-Novel/dp/B000ENWILW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000ENWILW</string>
+	</dict>
+	<key>107</key>
+	<dict>
 		<key>comments</key>
 		<string>I am pretty sure Uncle Bob Starbody gave this to me.</string>
 		<key>customCheckbox1</key>
@@ -563,7 +626,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>107</key>
+	<key>108</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -594,7 +657,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>108</key>
+	<key>109</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -634,41 +697,6 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL12315056M</string>
-	</dict>
-	<key>109</key>
-	<dict>
-		<key>comments</key>
-		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T21:06:32Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:30:48Z</date>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Bible</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>placePublished</key>
-		<string>Nashville, TN</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>title</key>
-		<string>New Testament, Psalms &amp; Proverbs (Gideon Pocket Bible)</string>
-		<key>uid</key>
-		<integer>150</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
 	</dict>
 	<key>11</key>
 	<dict>
@@ -756,6 +784,41 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
+		<date>2016-11-23T21:06:32Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:30:48Z</date>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Bible</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>placePublished</key>
+		<string>Nashville, TN</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>title</key>
+		<string>New Testament, Psalms &amp; Proverbs (Gideon Pocket Bible)</string>
+		<key>uid</key>
+		<integer>150</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+	</dict>
+	<key>111</key>
+	<dict>
+		<key>comments</key>
+		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
 		<date>2016-11-23T21:14:00Z</date>
 		<key>dateEdited</key>
 		<date>2017-01-01T22:16:58Z</date>
@@ -796,7 +859,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>url</key>
 		<string>https://www.amazon.com/Testament-Proverbs-International-Published-Publishing/dp/B00IKFD702?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00IKFD702</string>
 	</dict>
-	<key>111</key>
+	<key>112</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -847,7 +910,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>url</key>
 		<string>https://www.amazon.com/Holy-Bible-King-James-Version/dp/B000H3VC0M?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000H3VC0M</string>
 	</dict>
-	<key>112</key>
+	<key>113</key>
 	<dict>
 		<key>author</key>
 		<string>Eberhard Nestle</string>
@@ -902,7 +965,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2057991</string>
 	</dict>
-	<key>113</key>
+	<key>114</key>
 	<dict>
 		<key>author</key>
 		<string>Douglas Brinkley</string>
@@ -963,7 +1026,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049841</string>
 	</dict>
-	<key>114</key>
+	<key>115</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -1040,7 +1103,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/70026</string>
 	</dict>
-	<key>115</key>
+	<key>116</key>
 	<dict>
 		<key>author</key>
 		<string>John Grisham</string>
@@ -1115,7 +1178,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/6152</string>
 	</dict>
-	<key>116</key>
+	<key>117</key>
 	<dict>
 		<key>asin</key>
 		<string>0141199490</string>
@@ -1167,7 +1230,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>117</key>
+	<key>118</key>
 	<dict>
 		<key>author</key>
 		<string>Pope Francis</string>
@@ -1234,7 +1297,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049871</string>
 	</dict>
-	<key>118</key>
+	<key>119</key>
 	<dict>
 		<key>author</key>
 		<string>Charles S. Strong</string>
@@ -1292,67 +1355,6 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<integer>0</integer>
 		<key>url</key>
 		<string>https://www.amazon.com/Real-Book-About-Antarctic/dp/B004CQYGQW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004CQYGQW</string>
-	</dict>
-	<key>119</key>
-	<dict>
-		<key>author</key>
-		<string>Matthew Kelly</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:24Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:33:48Z</date>
-		<key>dimensions</key>
-		<string>20.60 cm x 14.00 cm x 2.00 cm</string>
-		<key>edition</key>
-		<string>Second Edition Revised &amp; Expanded</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Catholic</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781937509675</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$1.85</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>311</string>
-		<key>price</key>
-		<string>$17.95</string>
-		<key>publisher</key>
-		<string>Dynamic Catholic Institute</string>
-		<key>rating</key>
-		<string>4</string>
-		<key>releaseDate</key>
-		<date>2015-03-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>Over the past 20 years, Matthew Kelly has seen more of the world than most presidents and more of the Church than most bishops. Now, in this unique and timely book, he proposes that Catholicism is not a lifeless set of rules and regulations , but a way of life designed by God to help each person reach his or her full potential. With remarkable insight, Kelly dispels dozens of myths that surround the rejection of Catholicism today and provides a profound and practical vision of what will lead the Catholic Church to thrive again in the future. Rediscover Catholicism is quickly becoming the most read catholic book of our times. From the spellbinding opening story, Kelly grips his readers and takes them on a life-changing journey to rediscover the genius of Catholicism.</string>
-		<key>title</key>
-		<string>Rediscover Catholicism</string>
-		<key>uid</key>
-		<integer>58</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://books.google.com/books?id=SNYSogEACAAJ</string>
 	</dict>
 	<key>12</key>
 	<dict>
@@ -1418,6 +1420,67 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 	<key>120</key>
 	<dict>
 		<key>author</key>
+		<string>Matthew Kelly</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:24Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:33:48Z</date>
+		<key>dimensions</key>
+		<string>20.60 cm x 14.00 cm x 2.00 cm</string>
+		<key>edition</key>
+		<string>Second Edition Revised &amp; Expanded</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Catholic</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781937509675</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$1.85</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>311</string>
+		<key>price</key>
+		<string>$17.95</string>
+		<key>publisher</key>
+		<string>Dynamic Catholic Institute</string>
+		<key>rating</key>
+		<string>4</string>
+		<key>releaseDate</key>
+		<date>2015-03-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Over the past 20 years, Matthew Kelly has seen more of the world than most presidents and more of the Church than most bishops. Now, in this unique and timely book, he proposes that Catholicism is not a lifeless set of rules and regulations , but a way of life designed by God to help each person reach his or her full potential. With remarkable insight, Kelly dispels dozens of myths that surround the rejection of Catholicism today and provides a profound and practical vision of what will lead the Catholic Church to thrive again in the future. Rediscover Catholicism is quickly becoming the most read catholic book of our times. From the spellbinding opening story, Kelly grips his readers and takes them on a life-changing journey to rediscover the genius of Catholicism.</string>
+		<key>title</key>
+		<string>Rediscover Catholicism</string>
+		<key>uid</key>
+		<integer>58</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://books.google.com/books?id=SNYSogEACAAJ</string>
+	</dict>
+	<key>121</key>
+	<dict>
+		<key>author</key>
 		<string>Nigel Rodgers, Hazel Dodge</string>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -1474,7 +1537,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://books.google.com/books?id=DvtXPwAACAAJ</string>
 	</dict>
-	<key>121</key>
+	<key>122</key>
 	<dict>
 		<key>author</key>
 		<string>Bennet Kelley</string>
@@ -1527,7 +1590,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049881</string>
 	</dict>
-	<key>122</key>
+	<key>123</key>
 	<dict>
 		<key>author</key>
 		<string>Catholic Book Publishing Co</string>
@@ -1591,7 +1654,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780899425498</string>
 	</dict>
-	<key>123</key>
+	<key>124</key>
 	<dict>
 		<key>asin</key>
 		<string>0060580674</string>
@@ -1664,7 +1727,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3597</string>
 	</dict>
-	<key>124</key>
+	<key>125</key>
 	<dict>
 		<key>author</key>
 		<string>Nathaniel Hawthorne</string>
@@ -1733,7 +1796,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/28114</string>
 	</dict>
-	<key>125</key>
+	<key>126</key>
 	<dict>
 		<key>author</key>
 		<string>Jules Verne</string>
@@ -1786,7 +1849,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1427191</string>
 	</dict>
-	<key>126</key>
+	<key>127</key>
 	<dict>
 		<key>author</key>
 		<string>Neal Stephenson</string>
@@ -1848,7 +1911,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2158721</string>
 	</dict>
-	<key>127</key>
+	<key>128</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -1889,7 +1952,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>128</key>
+	<key>129</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854315</string>
@@ -1967,7 +2030,62 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/72673</string>
 	</dict>
-	<key>129</key>
+	<key>13</key>
+	<dict>
+		<key>author</key>
+		<string>Jeffrey C Geoghegan</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:51:34Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:27:05Z</date>
+		<key>dogTag</key>
+		<integer>2049891</integer>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Reference</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780764552960</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>placePublished</key>
+		<string>The Bible for dummies</string>
+		<key>publisher</key>
+		<string>Wiley Pub</string>
+		<key>releaseDate</key>
+		<date>2003-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Bible, Introductions</string>
+		<key>summary</key>
+		<string>Offers a guide on how to read sections of the Old and New Testaments, gives advice on how to apply the wisdom of the Bible to everyday life, and provides tips on how to find passages on a range of topics.</string>
+		<key>title</key>
+		<string>The Bible for dummies</string>
+		<key>uid</key>
+		<integer>70</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2049891</string>
+	</dict>
+	<key>130</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -2036,62 +2154,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/928691</string>
 	</dict>
-	<key>13</key>
-	<dict>
-		<key>author</key>
-		<string>Jeffrey C Geoghegan</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:51:34Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:27:05Z</date>
-		<key>dogTag</key>
-		<integer>2049891</integer>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Reference</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780764552960</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>placePublished</key>
-		<string>The Bible for dummies</string>
-		<key>publisher</key>
-		<string>Wiley Pub</string>
-		<key>releaseDate</key>
-		<date>2003-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Bible, Introductions</string>
-		<key>summary</key>
-		<string>Offers a guide on how to read sections of the Old and New Testaments, gives advice on how to apply the wisdom of the Bible to everyday life, and provides tips on how to find passages on a range of topics.</string>
-		<key>title</key>
-		<string>The Bible for dummies</string>
-		<key>uid</key>
-		<integer>70</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2049891</string>
-	</dict>
-	<key>130</key>
+	<key>131</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -2157,7 +2220,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/503011</string>
 	</dict>
-	<key>131</key>
+	<key>132</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -2216,7 +2279,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL8238530M</string>
 	</dict>
-	<key>132</key>
+	<key>133</key>
 	<dict>
 		<key>author</key>
 		<string>Donald F. Glut, James Kahn, George Lucas</string>
@@ -2271,7 +2334,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://books.google.com/books?id=YWEWjwEACAAJ</string>
 	</dict>
-	<key>133</key>
+	<key>134</key>
 	<dict>
 		<key>asin</key>
 		<string>0380792648</string>
@@ -2346,7 +2409,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3598</string>
 	</dict>
-	<key>134</key>
+	<key>135</key>
 	<dict>
 		<key>author</key>
 		<string>Sir Richard Francis Burton</string>
@@ -2405,7 +2468,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1767031</string>
 	</dict>
-	<key>135</key>
+	<key>136</key>
 	<dict>
 		<key>asin</key>
 		<string>0385493800</string>
@@ -2478,7 +2541,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/74879</string>
 	</dict>
-	<key>136</key>
+	<key>137</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -2567,7 +2630,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/Towers-Midnight-Wheel-Time-Thirteen/dp/0765325942?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325942</string>
 	</dict>
-	<key>137</key>
+	<key>138</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Louis Stevenson</string>
@@ -2616,7 +2679,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://books.google.com/books?id=POCvDAEACAAJ</string>
 	</dict>
-	<key>138</key>
+	<key>139</key>
 	<dict>
 		<key>author</key>
 		<string>Leo Tolstoy</string>
@@ -2689,7 +2752,69 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/5818</string>
 	</dict>
-	<key>139</key>
+	<key>14</key>
+	<dict>
+		<key>author</key>
+		<string>James Rollins</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:45:36Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:36:17Z</date>
+		<key>dimensions</key>
+		<string>19.10 cm x 10.60 cm x 3.70 cm</string>
+		<key>dogTag</key>
+		<integer>736391</integer>
+		<key>genre</key>
+		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062017895</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>622</string>
+		<key>placePublished</key>
+		<string>New York, NY</string>
+		<key>publisher</key>
+		<string>HarperCollins</string>
+		<key>rating</key>
+		<string>4</string>
+		<key>releaseDate</key>
+		<date>2006-01-01T06:00:00Z</date>
+		<key>series</key>
+		<string>Sigma Force</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fiction, Women Physicians, Special Forces (military Science)</string>
+		<key>summary</key>
+		<string>A fire in a Copenhagen bookstore ignites a relentless hunt across four continents. Commander Gray Pierce dives headlong into a mystery that dates back to Nazi Germany--and to horrific experiments performed in a now-abandoned laboratory buried in a hollowed-out mountain. Meanwhile, madness ravages a monastery in Nepal, as Buddhist monks turn to cannibalism and torture. Lisa Cummings, investigating the atrocity, is suddenly a target of a brutal assassin working for forces that want the affair buried. Lisa's only ally is a hidden pilgrim, Painter Crowe--director of SIGMA Force, an elite command of American scientists and Special Forces operatives--who is already showing signs of the malady that destroyed the monks. Now Pierce must save both Painter and Lisa, and a world in jeopardy--as SIGMA Force races to expose a century-old plot that threatens to destroy the current world order--and alter the destiny of humankind forever.--From publisher description.
+     Read more...</string>
+		<key>title</key>
+		<string>Black Order</string>
+		<key>uid</key>
+		<integer>20</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/736391</string>
+	</dict>
+	<key>140</key>
 	<dict>
 		<key>author</key>
 		<string>H. G. Wells</string>
@@ -2756,69 +2881,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1186031</string>
 	</dict>
-	<key>14</key>
-	<dict>
-		<key>author</key>
-		<string>James Rollins</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:45:36Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
-		<key>dimensions</key>
-		<string>19.10 cm x 10.60 cm x 3.70 cm</string>
-		<key>dogTag</key>
-		<integer>736391</integer>
-		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780062017895</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>622</string>
-		<key>placePublished</key>
-		<string>New York, NY</string>
-		<key>publisher</key>
-		<string>HarperCollins</string>
-		<key>rating</key>
-		<string>4</string>
-		<key>releaseDate</key>
-		<date>2006-01-01T06:00:00Z</date>
-		<key>series</key>
-		<string>Sigma Force</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fiction, Women Physicians, Special Forces (military Science)</string>
-		<key>summary</key>
-		<string>A fire in a Copenhagen bookstore ignites a relentless hunt across four continents. Commander Gray Pierce dives headlong into a mystery that dates back to Nazi Germany--and to horrific experiments performed in a now-abandoned laboratory buried in a hollowed-out mountain. Meanwhile, madness ravages a monastery in Nepal, as Buddhist monks turn to cannibalism and torture. Lisa Cummings, investigating the atrocity, is suddenly a target of a brutal assassin working for forces that want the affair buried. Lisa's only ally is a hidden pilgrim, Painter Crowe--director of SIGMA Force, an elite command of American scientists and Special Forces operatives--who is already showing signs of the malady that destroyed the monks. Now Pierce must save both Painter and Lisa, and a world in jeopardy--as SIGMA Force races to expose a century-old plot that threatens to destroy the current world order--and alter the destiny of humankind forever.--From publisher description.
-     Read more...</string>
-		<key>title</key>
-		<string>Black Order</string>
-		<key>uid</key>
-		<integer>20</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/736391</string>
-	</dict>
-	<key>140</key>
+	<key>141</key>
 	<dict>
 		<key>author</key>
 		<string>Fr. Jonathan Morris</string>
@@ -2871,7 +2934,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049861</string>
 	</dict>
-	<key>141</key>
+	<key>142</key>
 	<dict>
 		<key>author</key>
 		<string>Frederic M. Wheelock</string>
@@ -2926,7 +2989,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1132141</string>
 	</dict>
-	<key>142</key>
+	<key>143</key>
 	<dict>
 		<key>author</key>
 		<string>Michael Leach</string>
@@ -2985,7 +3048,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049851</string>
 	</dict>
-	<key>143</key>
+	<key>144</key>
 	<dict>
 		<key>asin</key>
 		<string>B000062UIH</string>
@@ -3058,7 +3121,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/22779</string>
 	</dict>
-	<key>144</key>
+	<key>145</key>
 	<dict>
 		<key>author</key>
 		<string>Paul T. Comeau</string>
@@ -3132,7 +3195,7 @@ Perforated pages for hand-in homework assignments and space for the student's na
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1142071</string>
 	</dict>
-	<key>145</key>
+	<key>146</key>
 	<dict>
 		<key>author</key>
 		<string>Max Brooks</string>
@@ -3213,7 +3276,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/23054</string>
 	</dict>
-	<key>146</key>
+	<key>147</key>
 	<dict>
 		<key>author</key>
 		<string>George Gowdy</string>
@@ -3256,7 +3319,7 @@ Eyewitness reports from the first truly global war
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>147</key>
+	<key>148</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Jessup</string>
