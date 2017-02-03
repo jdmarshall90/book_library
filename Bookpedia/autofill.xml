@@ -8,6 +8,7 @@
 		<string>a Kempis Thomas</string>
 		<string>A Regency Bible</string>
 		<string>A. A. Milne</string>
+		<string>A. T. B. Edney</string>
 		<string>Aaron Hillegass</string>
 		<string>Adam Preble</string>
 		<string>Alan Moore</string>
@@ -34,6 +35,7 @@
 		<string>Catholic Church</string>
 		<string>Charles S. Strong</string>
 		<string>Chris Kyle</string>
+		<string>Christopher Tolkien</string>
 		<string>Dan J. Forrestal</string>
 		<string>Dante Alighieri</string>
 		<string>Donald F. Glut</string>
@@ -45,13 +47,17 @@
 		<string>Frank Herbert</string>
 		<string>Frank McCourt</string>
 		<string>Frederic M Wheelock</string>
+		<string>Frederic M. Wheelock</string>
 		<string>Fyodor Dostoevsky</string>
 		<string>Geoffrey Chaucer</string>
 		<string>George Gowdy</string>
 		<string>George Knight</string>
+		<string>George Lucas</string>
 		<string>George R. R. Martin</string>
 		<string>George Weigel</string>
 		<string>Gus Lloyd</string>
+		<string>H. G. Wells</string>
+		<string>H. P. Lovecraft</string>
 		<string>H.G. Wells</string>
 		<string>Hazel Dodge</string>
 		<string>Howard R. Garis</string>
@@ -62,6 +68,7 @@
 		<string>J.K. Rowling</string>
 		<string>J.R.R. Tolkien</string>
 		<string>Jack Thorne</string>
+		<string>James Kahn</string>
 		<string>James Kahn George Lucas</string>
 		<string>James Rollins</string>
 		<string>James Rollins [Jim Czajkowski]</string>
@@ -94,10 +101,13 @@
 		<string>Nigel Rodgers</string>
 		<string>Oliver Ready</string>
 		<string>Orson Scott Card</string>
+		<string>Oscar Wilde</string>
 		<string>Paul Jessup</string>
 		<string>Paul Kent</string>
 		<string>Paul T Comeau</string>
+		<string>Paul T. Comeau</string>
 		<string>Paulene M. Yates</string>
+		<string>Philip K. Dick</string>
 		<string>Pope Francis</string>
 		<string>Ralph Lazar</string>
 		<string>Rebecca Cantrell</string>
@@ -109,16 +119,23 @@
 		<string>S Heaney</string>
 		<string>Sabaa Tahir</string>
 		<string>Saint  Bishop of Hippo.</string>
+		<string>Seminars Unlimited</string>
 		<string>Sir</string>
+		<string>Sir Richard Francis Burton</string>
 		<string>St. Augustine</string>
+		<string>Stephen King</string>
 		<string>Taya Kyle</string>
+		<string>The Founding Fathers of the United States of America</string>
 		<string>Thomas à Kempis</string>
 		<string>Thomas N. Hart</string>
 		<string>Trent Horn</string>
 		<string>US Conference of Catholic Bishops</string>
 		<string>Walter J Savitch</string>
+		<string>Walter J. Savitch</string>
 		<string>William J. Bennett</string>
 		<string>William Shakespeare</string>
+		<string>World Bible Publishing St</string>
+		<string>Zondervan</string>
 		<string>Zondervan Publishing House (Grand Rapids</string>
 	</array>
 	<key>awards</key>
@@ -196,11 +213,13 @@
 		<string>Children's</string>
 		<string>Children's Books</string>
 		<string>Childrens</string>
+		<string>Christian</string>
 		<string>Christian Books &amp; Bibles</string>
 		<string>Christian Fiction</string>
 		<string>Christian Life</string>
 		<string>Christian Theology</string>
 		<string>Christianity</string>
+		<string>Classic</string>
 		<string>Classic fiction (Children's&amp;YA)</string>
 		<string>Classic fiction (pre c 1945)</string>
 		<string>Classic Literature</string>
@@ -248,6 +267,7 @@
 		<string>Handbooks and manuals</string>
 		<string>Hard science fiction</string>
 		<string>Health</string>
+		<string>Historical</string>
 		<string>History</string>
 		<string>Horror</string>
 		<string>Horror comic books</string>
@@ -260,6 +280,7 @@
 		<string>Juvenile drama</string>
 		<string>Juvenile Fiction</string>
 		<string>Juvenile works</string>
+		<string>Language</string>
 		<string>Literature</string>
 		<string>Literature &amp; Fiction</string>
 		<string>Love &amp; Romance</string>
@@ -267,8 +288,10 @@
 		<string>manuals</string>
 		<string>Media Tie-In</string>
 		<string>Meditations</string>
+		<string>Memoir</string>
 		<string>Middle Earth (Imaginary place)</string>
 		<string>Middle Grade</string>
+		<string>Military</string>
 		<string>Modern &amp; contemporary fiction (post c 1945)</string>
 		<string>Mystery</string>
 		<string>Mystery &amp; Thrillers</string>
@@ -297,6 +320,7 @@
 		<string>Religion &amp; Spirituality</string>
 		<string>Roman</string>
 		<string>Romance</string>
+		<string>Romantic</string>
 		<string>Saints &amp; Sainthood</string>
 		<string>Sci-Fi &amp; Fantasy</string>
 		<string>Science Ficti</string>
@@ -401,6 +425,7 @@
 		<string>Arthur a Levine</string>
 		<string>Arthur A Levine Books</string>
 		<string>Arthur A. Levine Books</string>
+		<string>Audioworks</string>
 		<string>Bantam</string>
 		<string>Bantam Classics</string>
 		<string>Barbour</string>
@@ -415,6 +440,7 @@
 		<string>Catholic Answers, Inc.</string>
 		<string>Catholic Book Pub Co</string>
 		<string>Catholic Book Publishing Corp</string>
+		<string>Catholic World Press/World Bible Publishers</string>
 		<string>Charles Scribner's Sons</string>
 		<string>Chronicle Books</string>
 		<string>Collins</string>
@@ -449,12 +475,15 @@
 		<string>Listening Library</string>
 		<string>Liveright Publishing Corporation</string>
 		<string>Loyola Press</string>
+		<string>Mariner Books</string>
 		<string>Marshall Cevndish</string>
 		<string>Paulist Press</string>
 		<string>Pearson Prentice Hall</string>
 		<string>Penguin</string>
 		<string>Penguin Books</string>
+		<string>Penguin Classic</string>
 		<string>Penguin Publishing Group</string>
+		<string>Putnam Adult</string>
 		<string>Random House</string>
 		<string>Random House Incorporated</string>
 		<string>Random House Publishing Group</string>
@@ -485,6 +514,7 @@
 		<string>Tor Science Fiction</string>
 		<string>Tyndale House Publishers</string>
 		<string>USCCB Publishing</string>
+		<string>Vintage</string>
 		<string>Vintage Classics</string>
 		<string>W. W. Norton &amp; Co.</string>
 		<string>Wiley</string>

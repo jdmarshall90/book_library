@@ -17,7 +17,7 @@
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-07T07:43:28Z</date>
+		<date>2017-02-03T03:36:19Z</date>
 		<key>dimensions</key>
 		<string>1.00 x 8.30 x 5.50 in</string>
 		<key>dogTag</key>
@@ -89,7 +89,7 @@
 		<key>dateAdded</key>
 		<date>2016-11-25T20:56:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:20:18Z</date>
+		<date>2017-02-03T03:36:00Z</date>
 		<key>dewey</key>
 		<string>891.733</string>
 		<key>dimensions</key>
@@ -164,7 +164,7 @@
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:35Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:32:35Z</date>
 		<key>dogTag</key>
 		<integer>2049791</integer>
 		<key>edition</key>
@@ -172,7 +172,7 @@
 		<key>format</key>
 		<string>Kindle Edition</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -227,7 +227,7 @@
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:46Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T04:01:30Z</date>
+		<date>2017-02-03T03:32:33Z</date>
 		<key>dimensions</key>
 		<string>20.30 cm x 13.20 cm x 2.80 cm</string>
 		<key>dogTag</key>
@@ -295,7 +295,7 @@
 		<key>dateAdded</key>
 		<date>2016-05-19T22:39:31Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:25:34Z</date>
+		<date>2017-02-03T03:32:30Z</date>
 		<key>dimensions</key>
 		<string>15.90 cm x 12.10 cm x 2.10 cm</string>
 		<key>format</key>
@@ -348,7 +348,7 @@
 		<key>dateAdded</key>
 		<date>2017-01-18T00:51:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-02T22:42:20Z</date>
+		<date>2017-02-03T03:32:28Z</date>
 		<key>dimensions</key>
 		<string>24.4 x 15.9 x 5.8 cm</string>
 		<key>format</key>
@@ -363,6 +363,10 @@
 		<string>9780765325952</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$2.19</string>
+		<key>lowestUsedPrice</key>
+		<string>$1.22</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -431,7 +435,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:50Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:30Z</date>
+		<date>2017-02-03T03:32:26Z</date>
 		<key>dimensions</key>
 		<string>22.90 cm x 15.20 cm x 2.00 cm</string>
 		<key>edition</key>
@@ -492,9 +496,11 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:29Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:16:08Z</date>
+		<date>2017-02-03T03:32:23Z</date>
 		<key>dimensions</key>
 		<string>20.30 cm x 13.30 cm x 0.60 cm</string>
+		<key>format</key>
+		<string>Pamphlet</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion</string>
 		<key>hasBeenSold</key>
@@ -505,10 +511,16 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<string>9780615420950</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$24.34</string>
+		<key>lowestUsedPrice</key>
+		<string>$8.09</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>46</string>
 		<key>publisher</key>
 		<string>Gus Lloyd</string>
 		<key>rating</key>
@@ -541,7 +553,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>dateAdded</key>
 		<date>2017-02-02T22:42:01Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-02T22:42:26Z</date>
+		<date>2017-02-03T03:32:21Z</date>
 		<key>dimensions</key>
 		<string>24.2 x 16.2 x 2.9 cm</string>
 		<key>edition</key>
@@ -628,6 +640,8 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 	</dict>
 	<key>108</key>
 	<dict>
+		<key>author</key>
+		<string>World Bible Publishing St</string>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
 		<key>customCheckbox2</key>
@@ -635,27 +649,66 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>dateAdded</key>
 		<date>2016-11-23T20:54:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:40Z</date>
+		<date>2017-02-03T03:32:18Z</date>
+		<key>dimensions</key>
+		<string>21.8 x 13.7 x 5.1 cm</string>
+		<key>edition</key>
+		<string>New American Bible Revised ed.</string>
+		<key>format</key>
+		<string>Paperback</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Bible</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780529064844</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$2.95</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>1394</string>
+		<key>price</key>
+		<string>$6.95</string>
+		<key>publisher</key>
+		<string>Catholic World Press/World Bible Publishers</string>
+		<key>releaseDate</key>
+		<date>2011-05-27T05:00:00Z</date>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>Uniquely American, this popular translation is the easiest to understand Catholic edition of the Bible. This modern translation was prepared by over 50 scholars to capture the thought and individual style of the inspired writers while still making this translation easy to use for all ages.
+The New American Bible is the perfect Bible for your Catholic family and friends, and these editions from Catholic World Press will make perfect gifts. It's the official Catholic Bible -- as authorized by the Bishop's Committee of Christian Doctrine.
+Special versions of the official Catholic translation with features for students and gift giving.
+Concise, authoritative notes
+Revised New Testament and Psalms
+Family register and full-color maps (2405 and 2406 editions only)
+Chronological listing of Christ's miracles and discourses
+List of the Popes
+Book introductions
+Cross references
+Footnotes
+Maps
+Presentation page
+Red letter (except 2401)</string>
 		<key>title</key>
 		<string>New Testament Psalms (Bible)</string>
 		<key>uid</key>
 		<integer>146</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/American-Bible-Revised-Psalms-Testament/dp/0529064847?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0529064847</string>
 	</dict>
 	<key>109</key>
 	<dict>
@@ -668,7 +721,9 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>dateAdded</key>
 		<date>2016-11-23T21:09:51Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:43Z</date>
+		<date>2017-02-03T03:32:15Z</date>
+		<key>dimensions</key>
+		<string>11.7 x 8.4 x 1.8 cm</string>
 		<key>format</key>
 		<string>Paperback</string>
 		<key>genre</key>
@@ -681,6 +736,10 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<string>9781585166930</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$5.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.64</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -689,6 +748,8 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>ID#: 121510</string>
 		<key>title</key>
 		<string>NEW TESTAMENT wit Psalms &amp; Proberbs, Good News Translation (Military Ministry Pocket Bible)</string>
 		<key>uid</key>
@@ -711,7 +772,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>dateAdded</key>
 		<date>2016-08-12T22:01:43Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:29:55Z</date>
+		<date>2017-02-03T03:35:58Z</date>
 		<key>dewey</key>
 		<string>829.3</string>
 		<key>dimensions</key>
@@ -821,7 +882,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>dateAdded</key>
 		<date>2016-11-23T21:14:00Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:16:58Z</date>
+		<date>2017-02-03T03:32:12Z</date>
 		<key>dimensions</key>
 		<string>10.9 x 7.1 x 2.5 cm</string>
 		<key>format</key>
@@ -861,6 +922,8 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 	</dict>
 	<key>112</key>
 	<dict>
+		<key>author</key>
+		<string>Seminars Unlimited</string>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
 		<key>customCheckbox2</key>
@@ -868,9 +931,11 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>dateAdded</key>
 		<date>2016-11-23T20:55:18Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:20:01Z</date>
+		<date>2017-02-03T03:32:09Z</date>
 		<key>dimensions</key>
 		<string>20.6 x 13.7 x 4.1 cm</string>
+		<key>edition</key>
+		<string>Referenced, red letter ed., with dictionary, index, and concordance</string>
 		<key>editor</key>
 		<string>A Regency Bible</string>
 		<key>format</key>
@@ -881,6 +946,8 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780915741045</string>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>lowestNewPrice</key>
@@ -921,7 +988,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>dateAdded</key>
 		<date>2016-05-19T01:39:29Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:17:36Z</date>
+		<date>2017-02-03T03:32:07Z</date>
 		<key>dogTag</key>
 		<integer>2057991</integer>
 		<key>format</key>
@@ -978,7 +1045,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:17Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:18:24Z</date>
+		<date>2017-02-03T03:32:05Z</date>
 		<key>dogTag</key>
 		<integer>2049841</integer>
 		<key>edition</key>
@@ -1037,7 +1104,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>dateAdded</key>
 		<date>2016-11-23T20:18:34Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:05Z</date>
+		<date>2017-02-03T03:32:02Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -1116,7 +1183,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-19T01:28:59Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:32:26Z</date>
+		<date>2017-02-03T03:32:00Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -1193,7 +1260,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-12-24T17:29:51Z</date>
 		<key>dateEdited</key>
-		<date>2016-12-24T17:44:26Z</date>
+		<date>2017-02-03T03:31:58Z</date>
 		<key>dimensions</key>
 		<string>7.72 x 5.04 x 0.47 in</string>
 		<key>dogTag</key>
@@ -1208,14 +1275,26 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9781435159587</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.23</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.77</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>224</string>
 		<key>price</key>
 		<string>$10</string>
+		<key>publisher</key>
+		<string>Penguin Classic</string>
+		<key>releaseDate</key>
+		<date>2012-08-28T05:00:00Z</date>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
@@ -1229,6 +1308,8 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<integer>170</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Penguin-English-Library-Picture-Dorian/dp/0141199490?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0141199490</string>
 	</dict>
 	<key>118</key>
 	<dict>
@@ -1243,7 +1324,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:05Z</date>
+		<date>2017-02-03T03:31:56Z</date>
 		<key>dimensions</key>
 		<string>15.5 x 11.2 x 1.3 cm</string>
 		<key>dogTag</key>
@@ -1308,9 +1389,11 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-11-23T21:33:13Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:17:47Z</date>
+		<date>2017-02-03T03:31:53Z</date>
 		<key>dewey</key>
 		<string>919.9</string>
+		<key>dimensions</key>
+		<string>20.8 x 14.5 x 2.3 cm</string>
 		<key>edition</key>
 		<string>[1st ed.]</string>
 		<key>format</key>
@@ -1367,7 +1450,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:51Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:45Z</date>
+		<date>2017-02-03T03:35:56Z</date>
 		<key>dimensions</key>
 		<string>22.90 cm x 15.20 cm x 1.50 cm</string>
 		<key>edition</key>
@@ -1428,7 +1511,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:24Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:33:48Z</date>
+		<date>2017-02-03T03:31:51Z</date>
 		<key>dimensions</key>
 		<string>20.60 cm x 14.00 cm x 2.00 cm</string>
 		<key>edition</key>
@@ -1489,7 +1572,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:06Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:26:50Z</date>
+		<date>2017-02-03T03:31:48Z</date>
 		<key>dimensions</key>
 		<string>23.00 cm</string>
 		<key>edition</key>
@@ -1550,9 +1633,15 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:31Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:52Z</date>
+		<date>2017-02-03T03:31:46Z</date>
+		<key>dimensions</key>
+		<string>20.8 x 13.7 x 1.3 cm</string>
 		<key>dogTag</key>
 		<integer>2049881</integer>
+		<key>edition</key>
+		<string>1st</string>
+		<key>format</key>
+		<string>Paperback</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Catholic, Catechisms</string>
 		<key>hasBeenSold</key>
@@ -1565,12 +1654,20 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<string>en</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.98</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>192</string>
 		<key>placePublished</key>
 		<string>Saint Joseph Baltimore catechism : the truths of our Catholic faith clearly explained and illustrate</string>
+		<key>price</key>
+		<string>$4.75</string>
 		<key>publisher</key>
 		<string>Catholic Book Pub Co</string>
 		<key>releaseDate</key>
@@ -1581,6 +1678,8 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<integer>0</integer>
 		<key>subjects</key>
 		<string>English, Catholic Church, Catechisms</string>
+		<key>summary</key>
+		<string>Introduction to the basic beliefs of the Catholic Church.</string>
 		<key>title</key>
 		<string>Saint Joseph Baltimore Catechism</string>
 		<key>uid</key>
@@ -1601,7 +1700,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-19T01:44:23Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:20:01Z</date>
+		<date>2017-02-03T03:31:44Z</date>
 		<key>dimensions</key>
 		<string>22.7 x 16.2 x 4.9 cm</string>
 		<key>edition</key>
@@ -1669,7 +1768,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:32Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:31:42Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -1681,7 +1780,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>format</key>
 		<string>Paperback</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -1694,6 +1793,10 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$5.23</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -1738,7 +1841,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-19T21:35:32Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:25Z</date>
+		<date>2017-02-03T03:31:39Z</date>
 		<key>dimensions</key>
 		<string>22.9 x 15.2 x 0.8 cm</string>
 		<key>dogTag</key>
@@ -1862,7 +1965,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-11-14T01:32:40Z</date>
 		<key>dateEdited</key>
-		<date>2016-12-11T16:24:38Z</date>
+		<date>2017-02-03T03:31:35Z</date>
 		<key>dogTag</key>
 		<integer>2158721</integer>
 		<key>edition</key>
@@ -1967,7 +2070,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-25T21:21:50Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:53Z</date>
+		<date>2017-02-03T03:31:30Z</date>
 		<key>dimensions</key>
 		<string>24.0 x 16.4 x 5.7 cm</string>
 		<key>dogTag</key>
@@ -2043,9 +2146,15 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:34Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:27:05Z</date>
+		<date>2017-02-03T03:35:54Z</date>
+		<key>dimensions</key>
+		<string>23.6 x 18.8 x 2.2 cm</string>
 		<key>dogTag</key>
 		<integer>2049891</integer>
+		<key>edition</key>
+		<string>1</string>
+		<key>format</key>
+		<string>Paperback</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Reference</string>
 		<key>hasBeenSold</key>
@@ -2058,12 +2167,20 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<string>en</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$13.98</string>
+		<key>lowestUsedPrice</key>
+		<string>$1.15</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>432</string>
 		<key>placePublished</key>
 		<string>The Bible for dummies</string>
+		<key>price</key>
+		<string>$21.99</string>
 		<key>publisher</key>
 		<string>Wiley Pub</string>
 		<key>releaseDate</key>
@@ -2098,7 +2215,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-11-25T20:56:00Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:49Z</date>
+		<date>2017-02-03T03:31:28Z</date>
 		<key>dimensions</key>
 		<string>25.2 x 19.5 x 3.5 cm</string>
 		<key>dogTag</key>
@@ -2167,7 +2284,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:38Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:31:26Z</date>
 		<key>dimensions</key>
 		<string>22.90 cm x 15.20 cm x 3.50 cm</string>
 		<key>dogTag</key>
@@ -2177,7 +2294,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -2229,7 +2346,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-11-23T20:45:14Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:20:01Z</date>
+		<date>2017-02-03T03:31:23Z</date>
 		<key>dimensions</key>
 		<string>9.1 x 6.1 x 1.1 inches</string>
 		<key>edition</key>
@@ -2290,7 +2407,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-11-23T20:29:37Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:26:04Z</date>
+		<date>2017-02-03T03:31:21Z</date>
 		<key>dimensions</key>
 		<string>24.00 cm</string>
 		<key>format</key>
@@ -2349,7 +2466,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>dateAdded</key>
 		<date>2016-11-14T01:32:15Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:56Z</date>
+		<date>2017-02-03T03:31:19Z</date>
 		<key>dewey</key>
 		<string>813</string>
 		<key>dimensions</key>
@@ -2422,11 +2539,13 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>dateAdded</key>
 		<date>2016-05-14T20:41:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:26:09Z</date>
+		<date>2017-02-03T03:31:16Z</date>
 		<key>dimensions</key>
 		<string>2.00 cm</string>
 		<key>dogTag</key>
 		<integer>1767031</integer>
+		<key>format</key>
+		<string>Hardcover</string>
 		<key>genre</key>
 		<string>Fiction, Folklore</string>
 		<key>hasBeenSold</key>
@@ -2439,6 +2558,10 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<string>en</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.10</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -2461,6 +2584,8 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<string>These are the tales that saved the life of Shahrazad, whose husband, the king, executed each of his wives after a single night of marriage. Beginning an enchanting story each evening, Shahrazad always withheld the ending: a thousand and one nights later, her life was spared forever. Full of mischief, valour, ribaldry and romance.</string>
 		<key>title</key>
 		<string>Tales from the Arabian nights</string>
+		<key>translator</key>
+		<string>Sir Richard Francis Burton</string>
 		<key>uid</key>
 		<integer>5</integer>
 		<key>uploaded</key>
@@ -2483,7 +2608,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:44:36Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:27Z</date>
+		<date>2017-02-03T03:31:14Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -2508,6 +2633,10 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$0.68</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -2552,7 +2681,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>dateAdded</key>
 		<date>2016-12-29T02:28:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:10Z</date>
+		<date>2017-02-03T03:31:12Z</date>
 		<key>dimensions</key>
 		<string>24.2 x 16.4 x 0.3 cm</string>
 		<key>format</key>
@@ -2641,19 +2770,27 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-11-23T20:30:29Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:16:18Z</date>
+		<date>2017-02-03T03:31:10Z</date>
 		<key>dimensions</key>
 		<string>16.70 cm x 21.30 cm x 2.40 cm</string>
+		<key>format</key>
+		<string>Hardcover</string>
 		<key>genre</key>
 		<string>Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>illustrator</key>
+		<string>N. C. Wyeth</string>
 		<key>isbn</key>
 		<string>9781435160644</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$10.35</string>
+		<key>lowestUsedPrice</key>
+		<string>$9.50</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -2670,6 +2807,8 @@ By Robert Jordan and Amy Romanczuk
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>This action-packed adventure established the classic pirate story as it was written for more than a century afterward, and it made the literary reputation of its young author, Robert Louis Stevenson.</string>
 		<key>title</key>
 		<string>Treasure Island</string>
 		<key>uid</key>
@@ -2690,7 +2829,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-11-23T20:31:18Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:29:04Z</date>
+		<date>2017-02-03T03:31:07Z</date>
 		<key>dimensions</key>
 		<string>2.20 x 9.21 x 6.22 in</string>
 		<key>dogTag</key>
@@ -2765,13 +2904,17 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:36Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:35:51Z</date>
 		<key>dimensions</key>
 		<string>19.10 cm x 10.60 cm x 3.70 cm</string>
 		<key>dogTag</key>
 		<integer>736391</integer>
+		<key>edition</key>
+		<string>Reprint</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -2827,7 +2970,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:53Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:10:32Z</date>
+		<date>2017-02-03T03:31:05Z</date>
 		<key>dimensions</key>
 		<string>23.8 x 18.4 x 2.0 cm</string>
 		<key>dogTag</key>
@@ -2894,9 +3037,13 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:22Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:16:12Z</date>
+		<date>2017-02-03T03:31:03Z</date>
+		<key>dimensions</key>
+		<string>22.9 x 15.2 x 2.2 cm</string>
 		<key>dogTag</key>
 		<integer>2049861</integer>
+		<key>format</key>
+		<string>Hardcover</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion</string>
 		<key>hasBeenSold</key>
@@ -2909,14 +3056,24 @@ By Robert Jordan and Amy Romanczuk
 		<string>en</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.83</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>240</string>
 		<key>placePublished</key>
 		<string>The way of serenity : finding peace and happiness in the serenity prayer</string>
+		<key>price</key>
+		<string>$24.99</string>
 		<key>publisher</key>
 		<string>HarperOne</string>
+		<key>releaseDate</key>
+		<date>2014-09-16T05:00:00Z</date>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
@@ -2947,9 +3104,13 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:04Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:25:03Z</date>
+		<date>2017-02-03T03:31:01Z</date>
 		<key>dogTag</key>
 		<integer>1132141</integer>
+		<key>edition</key>
+		<string>7</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
 		<key>genre</key>
 		<string>Non-fiction, Language</string>
 		<key>hasBeenSold</key>
@@ -2966,6 +3127,8 @@ By Robert Jordan and Amy Romanczuk
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>608</string>
 		<key>placePublished</key>
 		<string>New York</string>
 		<key>publisher</key>
@@ -3002,7 +3165,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:20Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:16:35Z</date>
+		<date>2017-02-03T03:30:58Z</date>
 		<key>dogTag</key>
 		<integer>2049851</integer>
 		<key>format</key>
@@ -3063,7 +3226,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-11-29T23:22:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:03Z</date>
+		<date>2017-02-03T03:30:56Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -3134,7 +3297,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:03Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:25:05Z</date>
+		<date>2017-02-03T03:30:55Z</date>
 		<key>dimensions</key>
 		<string>23.5 x 18.7 x 2.2 cm</string>
 		<key>dogTag</key>
@@ -3206,7 +3369,7 @@ Perforated pages for hand-in homework assignments and space for the student's na
 		<key>dateAdded</key>
 		<date>2016-05-19T01:25:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:01Z</date>
+		<date>2017-02-03T03:30:53Z</date>
 		<key>dewey</key>
 		<string>813.6</string>
 		<key>dimensions</key>
@@ -3287,7 +3450,11 @@ Eyewitness reports from the first truly global war
 		<key>dateAdded</key>
 		<date>2016-11-23T21:30:24Z</date>
 		<key>dateEdited</key>
-		<date>2016-11-23T21:30:24Z</date>
+		<date>2017-02-03T03:30:50Z</date>
+		<key>dimensions</key>
+		<string>23.2 x 16.7 x 2.8 cm</string>
+		<key>format</key>
+		<string>Unknown Binding</string>
 		<key>genre</key>
 		<string>Fiction</string>
 		<key>hasBeenSold</key>
@@ -3296,6 +3463,12 @@ Eyewitness reports from the first truly global war
 		<integer>0</integer>
 		<key>illustrator</key>
 		<string>Howard Simon</string>
+		<key>isbn</key>
+		<string>9780964594715</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$70.00</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -3318,6 +3491,8 @@ Eyewitness reports from the first truly global war
 		<integer>156</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Adventures-Buffalo-Bill-Cody-Collection/dp/B0006QS78K?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006QS78K</string>
 	</dict>
 	<key>148</key>
 	<dict>
@@ -3330,7 +3505,7 @@ Eyewitness reports from the first truly global war
 		<key>dateAdded</key>
 		<date>2016-05-19T22:23:18Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:26:13Z</date>
+		<date>2017-02-03T03:30:48Z</date>
 		<key>dimensions</key>
 		<string>26.70 cm x 20.30 cm x 1.30 cm</string>
 		<key>dogTag</key>
@@ -3390,7 +3565,7 @@ Eyewitness reports from the first truly global war
 		<key>dateAdded</key>
 		<date>2016-05-19T01:33:17Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:29:08Z</date>
+		<date>2017-02-03T03:35:49Z</date>
 		<key>dimensions</key>
 		<string>1.80 x 6.00 x 9.00 in</string>
 		<key>dogTag</key>
@@ -3409,6 +3584,10 @@ Eyewitness reports from the first truly global war
 		<string>9780061991042</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$2.61</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -3461,7 +3640,7 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>dateAdded</key>
 		<date>2016-05-19T01:33:37Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:35:47Z</date>
 		<key>dimensions</key>
 		<string>1.70 x 6.10 x 9.30 in</string>
 		<key>dogTag</key>
@@ -3471,7 +3650,7 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -3480,6 +3659,10 @@ In the end, be warned: some books should never be found, never opened—until no
 		<string>9780061784798</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$1.89</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -3543,7 +3726,7 @@ Would you live forever?</string>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:39Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:35:44Z</date>
 		<key>dimensions</key>
 		<string>22.90 cm x 15.20 cm x 3.80 cm</string>
 		<key>dogTag</key>
@@ -3553,7 +3736,7 @@ Would you live forever?</string>
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -3613,7 +3796,9 @@ Would you live forever?</string>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:41:00Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:16Z</date>
+		<date>2017-02-03T03:35:42Z</date>
+		<key>dimensions</key>
+		<string>25.4 x 17.8 x 5.1 cm</string>
 		<key>dogTag</key>
 		<integer>1428141</integer>
 		<key>format</key>
@@ -3628,16 +3813,24 @@ Would you live forever?</string>
 		<string>9781476761282</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$14.98</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>832</string>
 		<key>publisher</key>
 		<string>Simon &amp; Schuster</string>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>In The Book of Virtues, the author has collected hundreds of stories in an instructive and inspiring anthology that will help children understand and develop character and help adults teach them. Well-known works including fables, folklore, fiction, drama, and more, by such authors as Aesop, Dickens, Tolstoy, Shakespeare, and Baldwin, are presented to teach virtues, including compassion, courage, honesty, friendship, and faith.</string>
 		<key>title</key>
 		<string>The Book of Virtues: A Treasury of Great Moral Stories</string>
 		<key>uid</key>
@@ -3658,7 +3851,9 @@ Would you live forever?</string>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:36:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:56Z</date>
+		<date>2017-02-03T03:35:40Z</date>
+		<key>format</key>
+		<string>Hardcover</string>
 		<key>genre</key>
 		<string>Non-fiction, Language</string>
 		<key>hasBeenSold</key>
@@ -3667,6 +3862,10 @@ Would you live forever?</string>
 		<integer>0</integer>
 		<key>illustrator</key>
 		<string>Muriel and Jim Collins</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestUsedPrice</key>
+		<string>$50.00</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -3687,6 +3886,8 @@ Would you live forever?</string>
 		<integer>159</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/New-Building-Better-English/dp/B008CRRP1U?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B008CRRP1U</string>
 	</dict>
 	<key>2</key>
 	<dict>
@@ -3701,9 +3902,15 @@ Would you live forever?</string>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:44:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T04:02:18Z</date>
+		<date>2017-02-03T03:36:18Z</date>
+		<key>dimensions</key>
+		<string>14.9 x 13.0 x 1.5 cm</string>
 		<key>dogTag</key>
 		<integer>1706771</integer>
+		<key>edition</key>
+		<string>Unabridged</string>
+		<key>format</key>
+		<string>MP3 CD</string>
 		<key>genre</key>
 		<string>Fiction</string>
 		<key>hasBeenSold</key>
@@ -3716,12 +3923,20 @@ Would you live forever?</string>
 		<string>en</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$31.99</string>
+		<key>lowestUsedPrice</key>
+		<string>$7.92</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>3</string>
 		<key>placePublished</key>
 		<string>New York</string>
+		<key>price</key>
+		<string>$39.99</string>
 		<key>publisher</key>
 		<string>Audioworks</string>
 		<key>releaseDate</key>
@@ -3732,6 +3947,18 @@ Would you live forever?</string>
 		<integer>0</integer>
 		<key>subjects</key>
 		<string>1917-1963, (john Fitzgerald), Kennedy John F</string>
+		<key>summary</key>
+		<string>AN INCREDIBLE UNABRIDGED AUDIO VALUE...OVER 30 HOURS ON ONLY THREE IPOD-READY MP3 CDS!
+
+On November 22, 1963, three shots rang out in Dallas, President Kennedy died, and the world changed. What if you could change it back? Stephen King’s heart-stoppingly dramatic new novel is about a man who travels back in time to prevent the JFK assassination.
+
+Following his massively successful novel "Under the Dome", King sweeps listeners back in time to another moment—a real life moment—when everything went wrong: the JFK assassination. And he introduces listeners to a character who has the power to change the course of history. 
+
+Jake Epping is a thirty-five-year-old high school English teacher in Lisbon Falls, Maine, who makes extra money teaching adults in the GED program. He receives an essay from one of the students—a gruesome, harrowing first person story about the night fifty years ago when his father came home and killed his mother, his sister, and his brother with a hammer. Harry escaped with a smashed leg, as evidenced by his crooked walk.
+
+Not much later, Jake’s friend Al, who runs the local diner, divulges a secret: his storeroom is a portal to 1958. He enlists Jake on an insane—and insanely impossible—mission to try to prevent the Kennedy assassination. So begins Jake’s new life as George Amberson and his new world of Elvis and JFK, of big American cars and sock hops, of a troubled loner named Lee Harvey Oswald and a beautiful high school librarian named Sadie Dunhill, who becomes the love of Jack’s life—a life that transgresses all the normal rules of time. 
+
+A tribute to a simpler era and a devastating exercise in escalating suspense, "11/22/63" is Stephen King at his epic best.</string>
 		<key>title</key>
 		<string>11/22/63</string>
 		<key>uid</key>
@@ -3752,7 +3979,7 @@ Would you live forever?</string>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:11:20Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:11Z</date>
+		<date>2017-02-03T03:35:37Z</date>
 		<key>dewey</key>
 		<string>821.1</string>
 		<key>dimensions</key>
@@ -3823,7 +4050,7 @@ Would you live forever?</string>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:36:06Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:33:39Z</date>
+		<date>2017-02-03T03:35:35Z</date>
 		<key>dimensions</key>
 		<string>17.8 x 12.6 x 0.5 cm</string>
 		<key>dogTag</key>
@@ -3893,7 +4120,7 @@ The step-by-step series that brings expert advice at an affordable price. Gives 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:28Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:27Z</date>
+		<date>2017-02-03T03:35:32Z</date>
 		<key>dewey</key>
 		<string>238.2</string>
 		<key>dimensions</key>
@@ -3966,7 +4193,7 @@ The step-by-step series that brings expert advice at an affordable price. Gives 
 		<key>dateAdded</key>
 		<date>2016-12-31T21:19:31Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:57Z</date>
+		<date>2017-02-03T03:35:30Z</date>
 		<key>dimensions</key>
 		<string>21.1 x 15.7 x 1.1 cm</string>
 		<key>format</key>
@@ -4031,7 +4258,7 @@ There is no better gift you can give to a young child.</string>
 		<key>dateAdded</key>
 		<date>2016-12-24T17:29:15Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:46Z</date>
+		<date>2017-02-03T03:35:28Z</date>
 		<key>dimensions</key>
 		<string>8.14 x 5.50 x 0.82 in</string>
 		<key>dogTag</key>
@@ -4048,6 +4275,8 @@ There is no better gift you can give to a young child.</string>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Alan Lee</string>
 		<key>isbn</key>
 		<string>9780547086057</string>
 		<key>localeLanguage</key>
@@ -4094,25 +4323,41 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-11-23T20:21:01Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:16:01Z</date>
+		<date>2017-02-03T03:35:25Z</date>
+		<key>dimensions</key>
+		<string>19.4 x 13.0 x 1.3 cm</string>
 		<key>dogTag</key>
 		<integer>565761</integer>
+		<key>edition</key>
+		<string>Collectors</string>
+		<key>format</key>
+		<string>Paperback</string>
 		<key>genre</key>
 		<string>Fiction, Fantasy, Christian</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Pauline Baynes</string>
 		<key>isbn</key>
 		<string>9780064409421</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$2.50</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>208</string>
 		<key>placePublished</key>
 		<string>Lion, the witch and the wardrobe.</string>
+		<key>price</key>
+		<string>$8.99</string>
 		<key>publisher</key>
 		<string>Harper Trophy</string>
 		<key>releaseDate</key>
@@ -4125,6 +4370,10 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<integer>0</integer>
 		<key>subjects</key>
 		<string>Fantasy, Fairy tales</string>
+		<key>summary</key>
+		<string>A full-color paperback edition of The Lion, the Witch and the Wardrobe, book two in the classic fantasy series, The Chronicles of Narnia. This edition is complete with full-color cover and interior art by the original illustrator, Pauline Baynes.
+Four adventurous siblings—Peter, Susan, Edmund, and Lucy Pevensie— step through a wardrobe door and into the land of Narnia, a land frozen in eternal winter and enslaved by the power of the White Witch. But when almost all hope is lost, the return of the Great Lion, Aslan, signals a great change . . . and a great sacrifice.
+The Lion, the Witch and the Wardrobe is the second book in C. S. Lewis's classic fantasy series, which has been drawing readers of all ages into a magical land with unforgettable characters for over sixty years. This is a stand-alone read, but if you would like to explore more of the Narnian realm, pick up The Horse and His Boy, the third book in The Chronicles of Narnia.</string>
 		<key>title</key>
 		<string>The Chronicles of Narnia (box set)</string>
 		<key>uid</key>
@@ -4147,7 +4396,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:28Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:22:44Z</date>
+		<date>2017-02-03T03:35:23Z</date>
 		<key>dogTag</key>
 		<integer>803691</integer>
 		<key>format</key>
@@ -4211,7 +4460,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:27:15Z</date>
+		<date>2017-02-03T03:35:21Z</date>
 		<key>dimensions</key>
 		<string>1.34 x 9.06 x 7.01 in</string>
 		<key>dogTag</key>
@@ -4278,7 +4527,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:27:15Z</date>
+		<date>2017-02-03T03:35:19Z</date>
 		<key>dogTag</key>
 		<integer>1304841</integer>
 		<key>edition</key>
@@ -4336,7 +4585,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:05Z</date>
+		<date>2017-02-03T03:35:16Z</date>
 		<key>dimensions</key>
 		<string>20.30 cm x 13.70 cm x 0.90 cm</string>
 		<key>format</key>
@@ -4436,7 +4685,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-12-24T18:11:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:17:41Z</date>
+		<date>2017-02-03T03:35:14Z</date>
 		<key>dimensions</key>
 		<string>26.9 x 19.8 x 4.3 cm</string>
 		<key>format</key>
@@ -4489,7 +4738,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:31Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:40Z</date>
+		<date>2017-02-03T03:35:12Z</date>
 		<key>dimensions</key>
 		<string>21.0 x 15.0 x 2.2 cm</string>
 		<key>edition</key>
@@ -4508,6 +4757,8 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<string>en</string>
 		<key>lowestNewPrice</key>
 		<string>$18.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$19.99</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -4546,7 +4797,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-12-24T18:11:40Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:19:19Z</date>
+		<date>2017-02-03T03:35:09Z</date>
 		<key>dimensions</key>
 		<string>23.4 x 16.5 x 4.5 cm</string>
 		<key>format</key>
@@ -4601,7 +4852,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-05-19T21:34:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:21Z</date>
+		<date>2017-02-03T03:35:07Z</date>
 		<key>dimensions</key>
 		<string>9.29 x 1.42 x 6.34 in</string>
 		<key>dogTag</key>
@@ -4668,9 +4919,13 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-11-23T20:34:35Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:32:12Z</date>
+		<date>2017-02-03T03:35:05Z</date>
+		<key>dimensions</key>
+		<string>24.1 x 15.9 x 4.3 cm</string>
 		<key>dogTag</key>
 		<integer>1014671</integer>
+		<key>format</key>
+		<string>Leather Bound</string>
 		<key>genre</key>
 		<string>Non-fiction, Historical</string>
 		<key>hasBeenSold</key>
@@ -4683,20 +4938,30 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<string>en</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$21.95</string>
+		<key>lowestUsedPrice</key>
+		<string>$19.92</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>840</string>
 		<key>placePublished</key>
 		<string>United States.</string>
 		<key>publisher</key>
 		<string>Barnes &amp; Noble</string>
+		<key>releaseDate</key>
+		<date>2012-10-04T05:00:00Z</date>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
 		<key>subjects</key>
 		<string>United States, Constitutional history, Sources</string>
+		<key>summary</key>
+		<string>This leatherbound collection of classic works traces the founding of America, from the birth of the nation in the late 1760s to the creation of a more perfect union at the end of the early 1800s. It celebrates the pursuit of life, liberty and justice and the freedoms that define America through notable documents as well as significant pieces, writings and speeches by famous figures and the founding fathers commenting on historic events. This volume includes the full texts of "On Civil War" by Benjamin Franklin, "Common Sense" by Thomas Paine, "The Declaration of Independence" and many more. A beautiful addition to any home library, the bonded-leather edition also features a satin-ribbon bookmark, distinctive stained edging, and decorative endpapers.</string>
 		<key>title</key>
 		<string>The Constitution of the United States of America and selected writings of the founding fathers.</string>
 		<key>uid</key>
@@ -4717,7 +4982,7 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<key>dateAdded</key>
 		<date>2016-11-23T20:10:34Z</date>
 		<key>dateEdited</key>
-		<date>2016-12-11T16:21:17Z</date>
+		<date>2017-02-03T03:35:02Z</date>
 		<key>dewey</key>
 		<string>843 DUM</string>
 		<key>dimensions</key>
@@ -4788,7 +5053,7 @@ Secondly, look for the Robin Buss Translation.  Many of the versions of this boo
 		<key>dateAdded</key>
 		<date>2016-11-23T20:10:50Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:18Z</date>
+		<date>2017-02-03T03:35:00Z</date>
 		<key>dogTag</key>
 		<integer>2125041</integer>
 		<key>edition</key>
@@ -4860,7 +5125,7 @@ and an Afterword by Robin Feuer Miller
 		<key>dateAdded</key>
 		<date>2016-12-09T02:42:05Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:38Z</date>
+		<date>2017-02-03T03:34:58Z</date>
 		<key>dimensions</key>
 		<string>24.1 x 16.4 x 0.2 cm</string>
 		<key>dogTag</key>
@@ -4923,7 +5188,7 @@ and an Afterword by Robin Feuer Miller
 		<key>dateAdded</key>
 		<date>2016-11-23T20:14:56Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:41Z</date>
+		<date>2017-02-03T03:34:55Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -4953,6 +5218,10 @@ and an Afterword by Robin Feuer Miller
 		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$12.39</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.50</string>
 		<key>myRating</key>
 		<integer>6</integer>
 		<key>onSale</key>
@@ -4993,7 +5262,7 @@ and an Afterword by Robin Feuer Miller
 		<key>dateAdded</key>
 		<date>2016-05-19T01:34:41Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:09Z</date>
+		<date>2017-02-03T03:34:53Z</date>
 		<key>dimensions</key>
 		<string>21.00 cm x 13.30 cm x 2.50 cm</string>
 		<key>dogTag</key>
@@ -5111,7 +5380,7 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>dateAdded</key>
 		<date>2016-11-23T20:30:03Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:29Z</date>
+		<date>2017-02-03T03:34:51Z</date>
 		<key>dewey</key>
 		<string>813</string>
 		<key>dimensions</key>
@@ -5182,7 +5451,7 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:25Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:00Z</date>
+		<date>2017-02-03T03:34:49Z</date>
 		<key>dimensions</key>
 		<string>21.00 cm x 12.70 cm x 1.90 cm</string>
 		<key>dogTag</key>
@@ -5249,7 +5518,7 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>dateAdded</key>
 		<date>2016-11-23T21:26:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:17:07Z</date>
+		<date>2017-02-03T03:34:46Z</date>
 		<key>edition</key>
 		<string>1St Edition</string>
 		<key>format</key>
@@ -5302,7 +5571,7 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:09Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:01Z</date>
+		<date>2017-02-03T03:34:45Z</date>
 		<key>dimensions</key>
 		<string>21.00 cm x 13.30 cm x 2.20 cm</string>
 		<key>dogTag</key>
@@ -5363,7 +5632,7 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>dateAdded</key>
 		<date>2016-11-23T20:22:42Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:34:42Z</date>
 		<key>dogTag</key>
 		<integer>838361</integer>
 		<key>edition</key>
@@ -5373,7 +5642,7 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>freebase</key>
 		<string>/m/0j7d5ss</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -5434,7 +5703,7 @@ But can Painter discover the truth--one that could topple governments--before it
 		<key>dateAdded</key>
 		<date>2016-05-19T01:37:06Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:25:51Z</date>
+		<date>2017-02-03T03:34:40Z</date>
 		<key>dewey</key>
 		<string>851.1</string>
 		<key>dimensions</key>
@@ -5511,7 +5780,7 @@ But can Painter discover the truth--one that could topple governments--before it
 		<key>dateAdded</key>
 		<date>2016-07-08T20:08:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:34:38Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -5523,7 +5792,7 @@ But can Painter discover the truth--one that could topple governments--before it
 		<key>format</key>
 		<string>Mass Market Paperback</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -5534,6 +5803,10 @@ But can Painter discover the truth--one that could topple governments--before it
 		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.28</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -5584,7 +5857,7 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-05-19T01:34:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:59Z</date>
+		<date>2017-02-03T03:34:35Z</date>
 		<key>dewey</key>
 		<string>823.8</string>
 		<key>dimensions</key>
@@ -5663,7 +5936,7 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:44:55Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:59Z</date>
+		<date>2017-02-03T03:34:33Z</date>
 		<key>dimensions</key>
 		<string>22.9 x 15.0 x 4.3 cm</string>
 		<key>dogTag</key>
@@ -5743,11 +6016,13 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-12-24T17:27:45Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:37:06Z</date>
+		<date>2017-02-03T03:34:32Z</date>
 		<key>dimensions</key>
 		<string>1.66 x 9.34 x 6.30 in</string>
 		<key>dogTag</key>
 		<integer>111255</integer>
+		<key>format</key>
+		<string>Hardcover</string>
 		<key>genre</key>
 		<string>Fiction, Science Fiction</string>
 		<key>hasBeenSold</key>
@@ -5756,14 +6031,26 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780425266540</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$14.99</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.40</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>528</string>
 		<key>price</key>
 		<string>$25</string>
+		<key>publisher</key>
+		<string>Putnam Adult</string>
+		<key>releaseDate</key>
+		<date>1984-04-16T06:00:00Z</date>
 		<key>series</key>
 		<string>Dune</string>
 		<key>signed</key>
@@ -5772,12 +6059,17 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<integer>0</integer>
 		<key>subjects</key>
 		<string>Fiction, Science Fiction, Fiction - Science Fiction, Science Fiction - General, Fiction / Fantasy / Epic, Fiction / Science Fiction / Adventure, Dune (imaginary Place), Herbert, Frank - Prose &amp; Criticism</string>
+		<key>summary</key>
+		<string>Here is the novel that will be forever considered a triumph of the imagination. Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, who would become the mysterious man known as Maud'dib. He would avenge the traitorous plot against his noble family―and would bring to fruition humankind's most ancient and unattainable dream.
+A stunning blend of adventure and mysticism, environmentalism and politics, "Dune" won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction. Frank Herbert's death in 1986 was a tragic loss, yet the astounding legacy of his visionary fiction will live forever.</string>
 		<key>title</key>
 		<string>Dune</string>
 		<key>uid</key>
 		<integer>168</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Dune-Frank-Herbert/dp/0399128964?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0399128964</string>
 	</dict>
 	<key>5</key>
 	<dict>
@@ -5790,9 +6082,13 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-05-19T22:30:56Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:15:39Z</date>
+		<date>2017-02-03T03:36:12Z</date>
+		<key>dimensions</key>
+		<string>24.4 x 16.0 x 4.1 cm</string>
 		<key>edition</key>
 		<string>First</string>
+		<key>editor</key>
+		<string>Easton Press, David Kalvar, MBI Inc., Peter Sydney, Togbew Shelton</string>
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
@@ -5801,14 +6097,22 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Thomas Hart Benton, Hodges Soileau</string>
 		<key>isbn</key>
 		<string>9780677068572</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$22.50</string>
+		<key>lowestUsedPrice</key>
+		<string>$9.00</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>396</string>
 		<key>price</key>
 		<string>$25.0</string>
 		<key>publisher</key>
@@ -5819,6 +6123,8 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>I am proud to present you with a work of genius. This edition of Huckleberry Finn features superb materials and craftsmanship. The premium quality, genuine leather is dyed with a lustrous brown finish, then carefully drawn over raised spine hubs in the finest tradition of bookbinding. The elegant spine is stamped in precious 22-karat gold. The cover features a deeply impressed, beautiful illustration. Gilded page edges, polished mirror-smooth, add a distinctive touch, and they protect your investment from humidity and dust. It's safe to judge this book by its cover because the luxury and quality continue. Inside the covers are shimmering moire endleaves, dyed a deep gold. Endleaves of this quality are prized by lovers of fine books, not only for their elegant appearance and feel, but for the strength and stability they add to the binding. For your convenience, a beautiful and practical satin ribbon page marker is dyed to match. Distinguished artist Thomas Hart Benton made 87 illustrations for this edition of Huckleberry Finn, heightening the enjoyment of reading this all-time classic. For each of them he made an entire drawing in brown wash, and then covered it with a black outline. Opposite the title page is a powerful frontspiece portrait of Mark Twain, painted in watercolors by Hodges Soileau. To add depth and insight to your reading, a revealing introduction was written especially for this edition by renowned scholar historian, Pulitzer Prize winner and writer Bernard DeVoto. He also made sure that this would be the most accurate text of the novel ever published. The paper was specially milled for this edition, using acid-neutral stock of archival quality, a key element for permanence and durability, and each page has been securely sewn in place for added strength, not glued like ordinary hardcover editions. The finished result: A luxurious edition fit for Mark Twain's masterpiece. [text by David Kalvar]</string>
 		<key>title</key>
 		<string>The Adventures of Huckleberry Finn: Tom Sawyer's Companion (2008 Brown Leatherbound Hardcover Easton Press Deluxe Limited Collector's Edition Printing, 0677068573)</string>
 		<key>uid</key>
@@ -5843,7 +6149,7 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:44:53Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:57Z</date>
+		<date>2017-02-03T03:34:30Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -5862,8 +6168,14 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780441172719</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.94</string>
+		<key>lowestUsedPrice</key>
+		<string>$2.53</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -5906,7 +6218,7 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-05-20T21:38:24Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T21:57:20Z</date>
+		<date>2017-02-03T03:34:27Z</date>
 		<key>dimensions</key>
 		<string>23.50 cm x 16.20 cm x 3.40 cm</string>
 		<key>dogTag</key>
@@ -5985,7 +6297,7 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:43:36Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:35Z</date>
+		<date>2017-02-03T03:34:25Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -6008,8 +6320,14 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<string>English</string>
 		<key>lcc</key>
 		<string>1-9908</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -6058,7 +6376,7 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:38Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:34:23Z</date>
 		<key>dimensions</key>
 		<string>22.9 x 15.2 x 3.4 cm</string>
 		<key>dogTag</key>
@@ -6068,7 +6386,7 @@ So, if you're a Rollin's fan you'll no doubt enjoy The Doomsday Key despite its 
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -6133,7 +6451,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>dateAdded</key>
 		<date>2016-05-14T21:44:54Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:56Z</date>
+		<date>2017-02-03T03:34:21Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -6161,8 +6479,14 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 				<date>2016-01-31T06:00:00Z</date>
 			</dict>
 		</array>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$4.49</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>10</integer>
 		<key>onSale</key>
@@ -6205,7 +6529,9 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>dateAdded</key>
 		<date>2016-11-23T20:19:36Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:18Z</date>
+		<date>2017-02-03T03:34:18Z</date>
+		<key>dimensions</key>
+		<string>23.2 x 16.7 x 2.8 cm</string>
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
@@ -6220,6 +6546,8 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<string>en</string>
 		<key>lowestNewPrice</key>
 		<string>$32.99</string>
+		<key>lowestUsedPrice</key>
+		<string>$39.95</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -6236,6 +6564,8 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, and Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.</string>
 		<key>title</key>
 		<string>The Eye of the World (B &amp; N Collector's Edition)</string>
 		<key>uid</key>
@@ -6256,7 +6586,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>dateAdded</key>
 		<date>2016-11-23T20:25:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:19:27Z</date>
+		<date>2017-02-03T03:34:16Z</date>
 		<key>dimensions</key>
 		<string>22.1 x 15.0 x 3.0 cm</string>
 		<key>dogTag</key>
@@ -6325,7 +6655,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>dateAdded</key>
 		<date>2016-06-03T01:41:59Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:49Z</date>
+		<date>2017-02-03T03:34:14Z</date>
 		<key>dimensions</key>
 		<string>24.1 x 16.1 x 5.5 cm</string>
 		<key>dogTag</key>
@@ -6403,7 +6733,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:39Z</date>
 		<key>dateEdited</key>
-		<date>2016-12-11T16:22:08Z</date>
+		<date>2017-02-03T03:34:12Z</date>
 		<key>dewey</key>
 		<string>823 SHE</string>
 		<key>dimensions</key>
@@ -6466,7 +6796,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>dateAdded</key>
 		<date>2016-12-31T21:18:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:36Z</date>
+		<date>2017-02-03T03:34:09Z</date>
 		<key>format</key>
 		<string>Paperback</string>
 		<key>genre</key>
@@ -6580,7 +6910,9 @@ Unparalleled in scope and execution, "A Game of Thrones" is one of those rare re
 		<key>dateAdded</key>
 		<date>2016-12-14T05:36:13Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:16Z</date>
+		<date>2017-02-03T03:34:07Z</date>
+		<key>dimensions</key>
+		<string>24.1 x 16.3 x 5.8 cm</string>
 		<key>dogTag</key>
 		<integer>125241</integer>
 		<key>format</key>
@@ -6595,16 +6927,58 @@ Unparalleled in scope and execution, "A Game of Thrones" is one of those rare re
 		<string>9780765302304</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.91</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>784</string>
+		<key>price</key>
+		<string>$29.99</string>
+		<key>publisher</key>
+		<string>Tor Books</string>
+		<key>releaseDate</key>
+		<date>2009-10-27T05:00:00Z</date>
 		<key>series</key>
 		<string>The Wheel of Time</string>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>Since its debut in 1990, The Wheel of Time® by Robert Jordan has captivated millions of readers around the globe with its scope, originality, and compelling characters.
+The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
+Tarmon Gai'don, the Last Battle, looms. And mankind is not ready.
+The final volume of the Wheel of Time, "A Memory of Light," was partially written by Robert Jordan before his untimely passing in 2007. Brandon Sanderson, "New York Times" bestselling author of the Mistborn books, and now Stormlight Archive, among others, was chosen by Jordan's editor--his wife, Harriet McDougal--to complete the final volume, later expanded to three books.
+In this epic novel, Robert Jordan's international bestselling series begins its dramatic conclusion. Rand al'Thor, the Dragon Reborn, struggles to unite a fractured network of kingdoms and alliances in preparation for the Last Battle. As he attempts to halt the Seanchan encroachment northward--wishing he could form at least a temporary truce with the invaders--his allies watch in terror the shadow that seems to be growing within the heart of the Dragon Reborn himself.
+Egwene al'Vere, the Amyrlin Seat of the rebel Aes Sedai, is a captive of the White Tower and subject to the whims of their tyrannical leader. As days tick toward the Seanchan attack she knows is imminent, Egwene works to hold together the disparate factions of Aes Sedai while providing leadership in the face of increasing uncertainty and despair. Her fight will prove the mettle of the Aes Sedai, and her conflict will decide the future of the White Tower--and possibly the world itself.
+The Wheel of Time®
+"New Spring: The Novel"
+#1 "The Eye of the World"
+#2 "The Great Hunt"
+#3 "The Dragon Reborn"
+#4 "The Shadow Rising"
+#5 "The Fires of Heaven"
+#6 "Lord of Chaos"
+#7 "A Crown of Swords"
+#8 "The Path of Daggers"
+#9 "Winter's Heart"
+#10 "Crossroads of Twilight"
+#11 "Knife of Dreams"
+By Robert Jordan and Brandon Sanderson
+#12 "The Gathering Storm"
+#13 "Towers of Midnight"
+#14 "A Memory of Light"
+By Robert Jordan and Teresa Patterson
+"The World of Robert Jordan's The Wheel of Time"
+By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
+"The Wheel of Time Companion"
+By Robert Jordan and Amy Romanczuk
+"Patterns of the Wheel: ""Coloring Art Based on Robert Jordan's The Wheel of Time"</string>
 		<key>title</key>
 		<string>The Gathering Storm</string>
 		<key>uid</key>
@@ -6625,7 +6999,7 @@ Unparalleled in scope and execution, "A Game of Thrones" is one of those rare re
 		<key>dateAdded</key>
 		<date>2016-05-14T05:00:00Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-06T23:10:25Z</date>
+		<date>2017-02-03T03:34:05Z</date>
 		<key>format</key>
 		<string>Mass Market Paperback</string>
 		<key>genre</key>
@@ -6715,9 +7089,11 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>dateAdded</key>
 		<date>2016-12-02T02:00:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:26:56Z</date>
+		<date>2017-02-03T03:34:02Z</date>
 		<key>dogTag</key>
 		<integer>209702</integer>
+		<key>format</key>
+		<string>Kindle Edition</string>
 		<key>genre</key>
 		<string>Fiction, Horror</string>
 		<key>hasBeenSold</key>
@@ -6732,6 +7108,8 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>1112</string>
 		<key>price</key>
 		<string>$39.99  $36.</string>
 		<key>publisher</key>
@@ -6766,7 +7144,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>dateAdded</key>
 		<date>2016-05-19T22:16:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:19:39Z</date>
+		<date>2017-02-03T03:34:00Z</date>
 		<key>dogTag</key>
 		<integer>169182</integer>
 		<key>edition</key>
@@ -6831,7 +7209,7 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>dateAdded</key>
 		<date>2016-11-23T20:27:18Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:22:16Z</date>
+		<date>2017-02-03T03:33:58Z</date>
 		<key>dimensions</key>
 		<string>19.8 x 12.9 x 2.5 cm</string>
 		<key>dogTag</key>
@@ -6896,9 +7274,13 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>dateAdded</key>
 		<date>2016-11-23T20:28:53Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:21:40Z</date>
+		<date>2017-02-03T03:33:55Z</date>
 		<key>dogTag</key>
 		<integer>2206561</integer>
+		<key>edition</key>
+		<string>Special Rehearsal ed.</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
 		<key>genre</key>
 		<string>Fiction, Fantasy</string>
 		<key>hasBeenSold</key>
@@ -6924,6 +7306,8 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<integer>8</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>320</string>
 		<key>placePublished</key>
 		<string>Harry Potter and the cursed child. Parts one and two</string>
 		<key>publisher</key>
@@ -6968,7 +7352,7 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:37Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:22:02Z</date>
+		<date>2017-02-03T03:33:53Z</date>
 		<key>dewey</key>
 		<string>823.92</string>
 		<key>dimensions</key>
@@ -7043,7 +7427,7 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>dateAdded</key>
 		<date>2016-05-19T22:17:54Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:19:39Z</date>
+		<date>2017-02-03T03:33:51Z</date>
 		<key>dimensions</key>
 		<string>5.30 x 7.40 x 1.90 in</string>
 		<key>dogTag</key>
@@ -7118,7 +7502,7 @@ Long before her fourth installment appeared, Rowling warned that it would be dar
 		<key>dateAdded</key>
 		<date>2016-05-19T22:19:29Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:22:06Z</date>
+		<date>2017-02-03T03:33:48Z</date>
 		<key>dewey</key>
 		<string>823.92</string>
 		<key>dimensions</key>
@@ -7205,7 +7589,7 @@ So it's the home front that takes center stage in the multilayered sixth install
 		<key>dateAdded</key>
 		<date>2016-05-14T21:47:41Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:22:13Z</date>
+		<date>2017-02-03T03:33:46Z</date>
 		<key>dewey</key>
 		<string>823.92</string>
 		<key>dimensions</key>
@@ -7286,7 +7670,7 @@ Suspense, secrets and thrilling action from the pen of J.K. Rowling ensure an el
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:14Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:18:38Z</date>
+		<date>2017-02-03T03:36:07Z</date>
 		<key>dimensions</key>
 		<string>10.2 x 15.2 x 10.2 cm</string>
 		<key>dogTag</key>
@@ -7345,7 +7729,7 @@ Suspense, secrets and thrilling action from the pen of J.K. Rowling ensure an el
 		<key>dateAdded</key>
 		<date>2016-05-19T22:17:26Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:19:39Z</date>
+		<date>2017-02-03T03:33:44Z</date>
 		<key>dimensions</key>
 		<string>1.60 x 7.80 x 5.30 in</string>
 		<key>dogTag</key>
@@ -7444,7 +7828,7 @@ Goblet of Fire.</string>
 		<key>dateAdded</key>
 		<date>2016-05-19T22:15:12Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:22:04Z</date>
+		<date>2017-02-03T03:33:41Z</date>
 		<key>dimensions</key>
 		<string>24.00 cm x 15.20 cm x 2.50 cm</string>
 		<key>dogTag</key>
@@ -7523,7 +7907,7 @@ But all that is about to change when a mysterious letter arrives by owl messenge
 		<key>dateAdded</key>
 		<date>2016-05-19T22:16:14Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:19:39Z</date>
+		<date>2017-02-03T03:33:39Z</date>
 		<key>dimensions</key>
 		<string>0.90 x 7.60 x 5.60 in</string>
 		<key>dogTag</key>
@@ -7600,27 +7984,43 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-06-09T04:01:59Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:22:20Z</date>
+		<date>2017-02-03T03:33:37Z</date>
+		<key>dimensions</key>
+		<string>26.7 x 23.1 x 2.8 cm</string>
 		<key>dogTag</key>
 		<integer>1385251</integer>
+		<key>edition</key>
+		<string>Illustrated</string>
+		<key>format</key>
+		<string>Hardcover</string>
 		<key>genre</key>
 		<string>Fiction, Fantasy</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Jim Kay</string>
 		<key>isbn</key>
 		<string>9780545790352</string>
 		<key>language</key>
 		<string>en</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$19.08</string>
+		<key>lowestUsedPrice</key>
+		<string>$22.78</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>256</string>
 		<key>placePublished</key>
 		<string>Harry potter and the sorcerer's stone.</string>
+		<key>price</key>
+		<string>$39.99</string>
 		<key>publisher</key>
 		<string>Arthur a Levine</string>
 		<key>releaseDate</key>
@@ -7631,6 +8031,14 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>For the first time, J.K. Rowling's beloved Harry Potter books will be presented in lavishly illustrated full-color editions. Kate Greenaway-award-winning artist Jim Kay has created over 100 stunning illustrations, making this deluxe format a perfect gift as much for a child being introduced to the series, as for the dedicated fan.
+  
+ Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility.
+  
+ All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley -- a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years.
+  
+ But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry -- and anyone who reads about him -- will find unforgettable.</string>
 		<key>title</key>
 		<string>Harry Potter and the Sorcerer's Stone (Illustrated Edition)</string>
 		<key>uid</key>
@@ -7651,17 +8059,27 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-11-23T21:31:39Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:15:36Z</date>
+		<date>2017-02-03T03:33:35Z</date>
 		<key>edition</key>
 		<string>[1st ed.]</string>
+		<key>format</key>
+		<string>Paperback</string>
 		<key>genre</key>
 		<string>Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Beth Krush</string>
 		<key>lcc</key>
 		<string>PZ7.C274 Hi</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$6.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$9.99</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -7684,6 +8102,8 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>157</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Higgins-Great-Scare-Rebecca-Caudill/dp/B000O5EWLY?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000O5EWLY</string>
 	</dict>
 	<key>75</key>
 	<dict>
@@ -7696,7 +8116,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-11-23T21:24:01Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:19:44Z</date>
+		<date>2017-02-03T03:33:32Z</date>
 		<key>dimensions</key>
 		<string>17.8 x 12.7 x 1.5 cm</string>
 		<key>edition</key>
@@ -7758,32 +8178,60 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-11-23T20:56:33Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:31Z</date>
+		<date>2017-02-03T03:33:30Z</date>
+		<key>dimensions</key>
+		<string>0.0 x 0.0 cm</string>
+		<key>edition</key>
+		<string>2015/2016</string>
+		<key>format</key>
+		<string>Imitation Leather</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Bible</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781432102401</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$19.03</string>
+		<key>lowestUsedPrice</key>
+		<string>$94.64</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>1002</string>
+		<key>price</key>
+		<string>$24.99</string>
 		<key>publisher</key>
 		<string>Collins</string>
+		<key>releaseDate</key>
+		<date>2013-05-15T05:00:00Z</date>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>Beautifully detailed Burgundy Faux Leather Bound King James Bible. The cover is constructed of quality man-made material imported from Italy, with the look and feel of real leather (trade name LuxLeather). Design features include a detailed engraved decorative border on the front and back cover, gold foiled debossed title, gold gilt-edged pages with thumb indexing and an attached ribbon page marker. Inside, you'll find reader-friendly subheadings, a double-column format, words of Christ printed in red ink, a helpful Scripture verse finder by topic and a one-year Bible reading plan. 1002 Pages. 
+Text Size 9pt 
+ 5 5/8 x 8 5/8 x 1 Inch 1002 Gold Gilt-Edged Pages Faux Leather Flexcover Bound Thumb Indexing Lay-Flat Spine Attached Ribbon Page Marker Words of Christ in Red Ink Unique Scripture Verse Finder One-Year Bible Reading Plan</string>
 		<key>title</key>
 		<string>Holy Bible</string>
 		<key>uid</key>
 		<integer>148</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Holy-Bible-Standard-Thumb-Burgundy/dp/1432102400?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1432102400</string>
 	</dict>
 	<key>77</key>
 	<dict>
+		<key>author</key>
+		<string>Zondervan</string>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
 		<key>customCheckbox2</key>
@@ -7791,7 +8239,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-11-23T20:45:35Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:20:01Z</date>
+		<date>2017-02-03T03:33:27Z</date>
 		<key>dimensions</key>
 		<string>21.1 x 14.2 x 3.3 cm</string>
 		<key>dogTag</key>
@@ -7858,7 +8306,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-11-23T20:43:04Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:20:01Z</date>
+		<date>2017-02-03T03:33:25Z</date>
 		<key>dimensions</key>
 		<string>23.6 x 17.3 x 3.8 cm</string>
 		<key>edition</key>
@@ -7919,7 +8367,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-05-20T21:21:46Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:23:12Z</date>
+		<date>2017-02-03T03:33:22Z</date>
 		<key>dimensions</key>
 		<string>17.50 cm x 10.60 cm x 0.70 cm</string>
 		<key>dogTag</key>
@@ -7985,9 +8433,11 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:12Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:18:33Z</date>
+		<date>2017-02-03T03:36:05Z</date>
 		<key>dogTag</key>
 		<integer>1462561</integer>
+		<key>edition</key>
+		<string>First Edition:</string>
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
@@ -8010,6 +8460,8 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>1</string>
 		<key>placePublished</key>
 		<string>American wife : love, war, faith, and renewal</string>
 		<key>publisher</key>
@@ -8048,7 +8500,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-11-14T01:31:59Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:48Z</date>
+		<date>2017-02-03T03:33:20Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -8067,8 +8519,14 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780060521608</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$0.49</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -8109,7 +8567,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-11-23T20:39:10Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:13Z</date>
+		<date>2017-02-03T03:33:19Z</date>
 		<key>dimensions</key>
 		<string>16.00 cm x 11.20 cm x 1.70 cm</string>
 		<key>edition</key>
@@ -8176,13 +8634,15 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:56Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:27:15Z</date>
+		<date>2017-02-03T03:33:15Z</date>
 		<key>dimensions</key>
 		<string>9.88 x 7.13 x 1.42 in</string>
 		<key>dogTag</key>
 		<integer>245970</integer>
 		<key>edition</key>
 		<string>3</string>
+		<key>format</key>
+		<string>Paperback</string>
 		<key>genre</key>
 		<string>Non-fiction, Tech, Computer Programming, Reference</string>
 		<key>hasBeenSold</key>
@@ -8193,8 +8653,14 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<string>9780321821522</string>
 		<key>language</key>
 		<string>English</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$4.90</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -8211,6 +8677,15 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>summary</key>
+		<string>Winner of a 2012 Jolt Productivity Award!     Updated and expanded to cover iOS 5 and Xcode 4.3," iOS Programming: The Big Nerd Ranch Guide" leads you through the essential concepts, tools, and techniques for developing iOS applications. After completing this book, you will have the understanding, the know-how, and the confidence you need to tackle iOS projects of your own.
+ 
+Based on Big Nerd Ranch’s popular iOS Bootcamp course and its well-tested materials and methodology, this best-selling guide teaches iOS concepts and coding in tandem. The result is instruction that is relevant and useful. 
+ 
+Throughout the book, the authors clearly explain what’s important to know and share their insights into the larger context of the iOS platform. This gives you a real understanding of how iOS development works, the many features that are available, and when and where to apply what you’ve learned.
+ 
+Here are some of the topics covered:
+     Xcode 4.3, Instruments, and Storyboards   ARC, strong and weak references, and retain cycles   Interfacing with iCloud   Handling touch events and gestures   Tool bars, navigation controllers, and split view controllers   Localization and Internationalization   Block syntax and use   Background execution and multi-tasking   Saving/loading data: Archiving and Core Data   Core Location and Map Kit   Communicating with web services   Working with XML, JSON, and NSRegularExpression     Using the Model-View-Controller-Store design pattern</string>
 		<key>title</key>
 		<string>iOS Programming: The Big Nerd Ranch Guide</string>
 		<key>uid</key>
@@ -8233,7 +8708,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:56Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:27:15Z</date>
+		<date>2017-02-03T03:33:13Z</date>
 		<key>dimensions</key>
 		<string>22.60 cm x 19.10 cm x 3.20 cm</string>
 		<key>dogTag</key>
@@ -8310,7 +8785,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:27:15Z</date>
+		<date>2017-02-03T03:33:11Z</date>
 		<key>dimensions</key>
 		<string>23.4 x 18.8 x 2.3 cm</string>
 		<key>dogTag</key>
@@ -8379,7 +8854,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-10-05T04:08:40Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T04:04:43Z</date>
+		<date>2017-02-03T03:33:08Z</date>
 		<key>dimensions</key>
 		<string>24.40 cm x 16.80 cm x 6.10 cm</string>
 		<key>dogTag</key>
@@ -8443,7 +8918,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-06-05T01:06:35Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:33:06Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -8455,7 +8930,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -8466,6 +8941,10 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$4.15</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>8</integer>
 		<key>onSale</key>
@@ -8515,7 +8994,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-11-23T21:18:46Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:17:44Z</date>
+		<date>2017-02-03T03:33:04Z</date>
 		<key>dimensions</key>
 		<string>17.1 x 10.6 x 2.5 cm</string>
 		<key>edition</key>
@@ -8593,7 +9072,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-11-23T20:11:34Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:17:02Z</date>
+		<date>2017-02-03T03:33:02Z</date>
 		<key>dimensions</key>
 		<string>23.9 x 16.3 x 4.3 cm</string>
 		<key>edition</key>
@@ -8652,7 +9131,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-05-19T01:36:23Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:18:47Z</date>
+		<date>2017-02-03T03:33:00Z</date>
 		<key>dimensions</key>
 		<string>22.00 cm</string>
 		<key>edition</key>
@@ -8715,7 +9194,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:18:14Z</date>
+		<date>2017-02-03T03:36:02Z</date>
 		<key>dewey</key>
 		<string>929.20899162073</string>
 		<key>dimensions</key>
@@ -8784,7 +9263,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-05-20T21:15:59Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:31:19Z</date>
+		<date>2017-02-03T03:32:57Z</date>
 		<key>dimensions</key>
 		<string>22.9 x 15.2 x 1.3 cm</string>
 		<key>format</key>
@@ -8856,7 +9335,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:40Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:35:33Z</date>
+		<date>2017-02-03T03:32:55Z</date>
 		<key>dimensions</key>
 		<string>19.10 cm x 10.60 cm x 3.30 cm</string>
 		<key>dogTag</key>
@@ -8923,7 +9402,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>dateAdded</key>
 		<date>2016-05-14T21:44:34Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:28:24Z</date>
+		<date>2017-02-03T03:32:53Z</date>
 		<key>dimensions</key>
 		<string>9.50 x 6.46 x 1.21 in</string>
 		<key>dogTag</key>
@@ -8940,8 +9419,14 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780385508049</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$0.20</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
@@ -8984,7 +9469,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>dateAdded</key>
 		<date>2016-12-09T02:41:45Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:24:01Z</date>
+		<date>2017-02-03T03:32:51Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -9053,7 +9538,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:30Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:26:30Z</date>
+		<date>2017-02-03T03:32:48Z</date>
 		<key>dogTag</key>
 		<integer>1630721</integer>
 		<key>format</key>
@@ -9114,7 +9599,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:45:37Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:17Z</date>
+		<date>2017-02-03T03:32:46Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -9126,7 +9611,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure,  Military,  Science Fiction</string>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
@@ -9197,7 +9682,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>dateAdded</key>
 		<date>2016-05-14T21:44:36Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:21:02Z</date>
+		<date>2017-02-03T03:32:44Z</date>
 		<key>dimensions</key>
 		<string>1.50 x 9.21 x 6.14 in</string>
 		<key>dogTag</key>
@@ -9262,7 +9747,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>dateAdded</key>
 		<date>2016-07-06T22:40:54Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-18T00:52:54Z</date>
+		<date>2017-02-03T03:32:42Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -9339,7 +9824,7 @@ In this sequel to the phenomenal "New York Times" bestseller "The Fires of Heave
 		<key>dateAdded</key>
 		<date>2016-11-23T20:32:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:36:44Z</date>
+		<date>2017-02-03T03:32:39Z</date>
 		<key>dimensions</key>
 		<string>17.8 x 10.9 x 10.8 cm</string>
 		<key>dogTag</key>
@@ -9417,7 +9902,7 @@ In this sequel to the phenomenal "New York Times" bestseller "The Fires of Heave
 		<key>dateAdded</key>
 		<date>2016-05-14T21:43:38Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:32:29Z</date>
+		<date>2017-02-03T03:32:37Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -9436,8 +9921,14 @@ In this sequel to the phenomenal "New York Times" bestseller "The Fires of Heave
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780679740674</string>
+		<key>locale</key>
+		<string>US</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$12.50</string>
+		<key>lowestUsedPrice</key>
+		<string>$1.89</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
