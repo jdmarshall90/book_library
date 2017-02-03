@@ -1,360 +1,1549 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-	<meta name="PageSplit" content="SortLetter" />
-	<meta name="image-width" content="300" />
-	<meta name="image-height" content="420" />
-	<meta name="keywords" content="Bookpedia, book collection, Books, Mac, Catalog" />
-	<meta name="description" content="My book collection created using Bookpedia" />
-	<meta name="author" content="Dan Friml, www.friml.com" />
-	<meta name="robots" content="index, follow" />
-	<title>Library</title>
-	<script type="text/javascript" src="Images/js.js"></script>
-	<link rel="stylesheet" href="Images/style.css" type="text/css" media="screen" charset="utf-8" />
+<title>Bookpedia :: Library</title>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="My book collection, created using Bookpedia and FancyIndex." />
+<meta name="keywords" content="Bookpedia, Mac, Catalog, books, collection, Bruji" />
+<meta name="credits" content="Includes live search, sortable columns, and a details popup." />
+<meta name="PageSplit" content="50000" /> <!-- If you have more than 50000 books... you should start a library! -->
+<meta name="image-export" content="no" />
+<meta name="date-format" content="yyyy-MM-dd" />
+<meta name="PrintLandscape" content="yes" />
+<meta name="details" content="FancyIndexDetails.html" />
+
+<link rel="shortcut icon" href="Images/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="Images/tablesorter/style.css" />
+<link rel="stylesheet" type="text/css" href="Images/colorbox/colorbox.css" />
+<link rel="stylesheet" type="text/css" href="Images/fi.css" />
+<link rel="stylesheet" type="text/css" href="Images/print.css" media="print" />
+
+<script type="text/javascript" src="Images/jquery/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="Images/jquery/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="Images/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="Images/fi.shared.js"></script>
+<script type="text/javascript" src="Images/fi.js"></script>
+
 </head>
-<body id="pageTop">
-<div id="whole">
-	
-<h1>Library</h1>
+<body>
 
-<div id="topInfo">
-	<div id="topInfoL">	
-		<strong>Updated:</strong> Feb 2, 2017<br />
-		<strong>Total number of titles:</strong> 148
-	</div>
-	<div id="topInfoR">	
-		<strong>Page number:</strong> 1<br />
-		<strong>Pages:</strong> 22
-	</div>
-	<div class="clearBoth">&nbsp;</div>
+<div class="content">
+<span id="search">Search:</span> <input id="filter" type="text" />
+<!--IFIndex<span id="index">Page: [Divider: | ]</span>ENDIndex-->
+<div id="emptyresults">Sorry, no results found.</div>
+<table id="sortable" class="tablesorter">
+	<thead>
+		<tr>
+			<!-- There is a 2em padding-right for the arrows if the columns are empty -->
+			<th id="translateTitle">Title</th>
+			<th id="translateAuthor">Author</th>
+			<th id="translatePublisher">Publisher</th>
+			<th id="translateGenre">Genre</th>
+			<th id="translatePages">Pages</th>
+			<th id="translateRating">Rating</th>
+			<th id="translateStarRating">My Rating</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td id="summarytd" colspan="9">TOTAL BOOKS: <span id="globalTotalEntries">148</span></td>
+		</tr>
+	</tfoot>
+	<tbody>
+	<!-- Documentation for Template editors!  You wanted it, you got it!
+	
+	class lbr (let's be reasonable) limits the field length to 20em - good for excessively long fields that would make the table too wide
+	class smr (somewhat reasonable), limits to 40em - good for titles
+	class nw (nowrap) doesn't let the browser break a field to a second line - good for titles that you never want squeezed
+	class cb (colorbox) is for pages that get a popup from a link - any <a> should probably have it
+	class cen (center) is for fields that you'd like center-aligned
+	
+	-->
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/51.html">&#39;Tis: A Memoir</a></td>
+			<td><div class="lbr">Frank McCourt</div></td>
+			<td><div class="lbr">Scribner (2000), Paperback, 368 pages</div></td>
+			<td><div class="lbr">Non-fiction</div></td>
+			<td><div class="cen">368</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/16.html">11/22/63</a></td>
+			<td><div class="lbr">Stephen King</div></td>
+			<td><div class="lbr">Audioworks</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">3</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/108.html">20 Answers: Faith &amp; Science</a></td>
+			<td><div class="lbr">Trent Horn</div></td>
+			<td><div class="lbr">Catholic Answers, Inc.</div></td>
+			<td><div class="lbr">Non-fiction, Religion</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/64.html">2015 Daily Guideposts</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">1899-12-30</div></td>
+			<td><div class="lbr">Non-fiction, Religion</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/104.html">The Adventures of Huckleberry Finn: Tom Sawyer&#39;s Companion (2008 Brown Leatherbound Hardcover Easton Press Deluxe Limited Collector&#39;s Edition Printing, 0677068573)</a></td>
+			<td><div class="lbr">Mark Twain Samuel Langhorne Clemens</div></td>
+			<td><div class="lbr">Easton Press</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">396</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/88.html">Advice for Successful Families</a></td>
+			<td><div class="lbr">Fr. Alain Delagneau</div></td>
+			<td><div class="lbr">Angelus Press</div></td>
+			<td><div class="lbr">Non-fiction</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/54.html">American Sniper : The Autobiography of the Most Lethal Sniper in U.S. Military History</a></td>
+			<td><div class="lbr">Chris Kyle</div></td>
+			<td><div class="lbr">Harper</div></td>
+			<td><div class="lbr">Non-fiction, Biography, American, Personal Narratives</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/53.html">American Wife : Love, War, Faith, and Renewal</a></td>
+			<td><div class="lbr">Taya Kyle</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Non-fiction, Biography</div></td>
+			<td><div class="cen">1</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/52.html">Angela&#39;s Ashes: A Memoir</a></td>
+			<td><div class="lbr">Frank McCourt</div></td>
+			<td><div class="lbr">Simon &amp; Schuster (1999), Paperback, 368 pages</div></td>
+			<td><div class="lbr">Non-fiction, Historical, Biography, Memoir</div></td>
+			<td><div class="cen">368</div></td>
+			<td><div class="cen">2.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/161.html">Anna Karenina</a></td>
+			<td><div class="lbr">Leo Tolstoy</div></td>
+			<td><div class="lbr">Bantam Classics</div></td>
+			<td><div class="lbr">Fiction, Classic</div></td>
+			<td><div class="cen">1008</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/117.html">Beowulf: A New Verse Translation</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">W. W. Norton &amp; Co.</div></td>
+			<td><div class="lbr">Fiction, Poetry</div></td>
+			<td><div class="cen">215</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/40.html">Berserker</a></td>
+			<td><div class="lbr">James Walker</div></td>
+			<td><div class="lbr">CreateSpace Independent Publishing Platform</div></td>
+			<td><div class="lbr">Fiction, Science Fiction</div></td>
+			<td><div class="cen">290</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/70.html">The Bible for dummies</a></td>
+			<td><div class="lbr">Jeffrey C Geoghegan</div></td>
+			<td><div class="lbr">Wiley Pub</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Reference</div></td>
+			<td><div class="cen">432</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/20.html">Black Order</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">HarperCollins</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">622</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/81.html">The Blood Gospel</a></td>
+			<td><div class="lbr">James Rollins, Rebecca Cantrell</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">496</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/82.html">Bloodline</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">464</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/24.html">The Bone Labyrinth</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">496</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/142.html">The Book of Virtues: A Treasury of Great Moral Stories</a></td>
+			<td><div class="lbr">William J. Bennett</div></td>
+			<td><div class="lbr">Simon &amp; Schuster</div></td>
+			<td><div class="lbr">Non-fiction, Religion</div></td>
+			<td><div class="cen">832</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/159.html">Building Better English II</a></td>
+			<td><div class="lbr">Mellie John, Paulene M. Yates</div></td>
+			<td><div class="lbr">Row, Peterson and Company</div></td>
+			<td><div class="lbr">Non-fiction, Language</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/124.html">The Canterbury Tales</a></td>
+			<td><div class="lbr">Geoffrey Chaucer</div></td>
+			<td><div class="lbr">Penguin Books</div></td>
+			<td><div class="lbr">Fiction, Classic</div></td>
+			<td><div class="cen">528</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/140.html">Cat Care</a></td>
+			<td><div class="lbr">A. T. B. Edney</div></td>
+			<td><div class="lbr">Dorling Kindersley ; Boston</div></td>
+			<td><div class="lbr">Non-fiction, Handbooks, manuals, etc</div></td>
+			<td><div class="cen">72</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/68.html">Catechism of the Catholic Church</a></td>
+			<td><div class="lbr">Catholic Church</div></td>
+			<td><div class="lbr">USCCB Publishing</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Catholic</div></td>
+			<td><div class="cen">920</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/176.html">Catholic Tales for Boys and Girls</a></td>
+			<td><div class="lbr">Leslie Silk Eslinger, Caryll Houselander</div></td>
+			<td><div class="lbr">Sophia Institute Press</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Catholic, Children&#39;s Books</div></td>
+			<td><div class="cen">160</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/169.html">The Children of Hurin</a></td>
+			<td><div class="lbr">Christopher Tolkien</div></td>
+			<td><div class="lbr">Mariner Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">320</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/129.html">The Chronicles of Narnia (box set)</a></td>
+			<td><div class="lbr">C. S. Lewis</div></td>
+			<td><div class="lbr">Harper Trophy</div></td>
+			<td><div class="lbr">Fiction, Fantasy, Christian</div></td>
+			<td><div class="cen">208</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/67.html">The City of God</a></td>
+			<td><div class="lbr">St. Augustine</div></td>
+			<td><div class="lbr">Hendrickson Publishers</div></td>
+			<td><div class="lbr">Non-fiction, Classic, Historical, Religion</div></td>
+			<td><div class="cen">804</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/45.html">Cocoa Programming for Mac OS X</a></td>
+			<td><div class="lbr">Aaron Hillegass, Adam Preble</div></td>
+			<td><div class="lbr">Addison-Wesley Professional</div></td>
+			<td><div class="lbr">Non-fiction, Tech, Computer Programming, Reference</div></td>
+			<td><div class="cen">528</div></td>
+			<td><div class="cen">5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/44.html">Cocoa Programming for OS X : The Big Nerd Ranch Guide.</a></td>
+			<td><div class="lbr">Aaron Hillegass</div></td>
+			<td><div class="lbr">Addison-Wesley</div></td>
+			<td><div class="lbr">Non-fiction, Tech, Computer Programming, Reference</div></td>
+			<td><div class="cen">555</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/66.html">Coming Down the Mountain: How to Turn Your Retreat Into Everyday Living</a></td>
+			<td><div class="lbr">Thomas N. Hart</div></td>
+			<td><div class="lbr">Paulist Press</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Christian Life, Personal Growth, Devotional</div></td>
+			<td><div class="cen">101</div></td>
+			<td><div class="cen">4.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/172.html">The Complete Peter Rabbit</a></td>
+			<td><div class="lbr">Beatrix Potter</div></td>
+			<td><div class="lbr">Penguin</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">127</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/17.html">Complete Tales and Poems of Edgar Allan Poe</a></td>
+			<td><div class="lbr">Edgar Allan Poe</div></td>
+			<td><div class="lbr">Barnes &amp; Noble Inc</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">1040</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/173.html">The Complete Tales of Winnie the Pooh</a></td>
+			<td><div class="lbr">A. A. Milne</div></td>
+			<td><div class="lbr">penguin publishing group</div></td>
+			<td><div class="lbr">Fiction, Children&#39;s Books</div></td>
+			<td><div class="cen">368</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/91.html">The Confession</a></td>
+			<td><div class="lbr">John Grisham</div></td>
+			<td><div class="lbr">Doubleday</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">432</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/139.html">The Constitution of the United States of America and selected writings of the founding fathers.</a></td>
+			<td><div class="lbr">The Founding Fathers of the United States of America</div></td>
+			<td><div class="lbr">Barnes &amp; Noble</div></td>
+			<td><div class="lbr">Non-fiction, Historical</div></td>
+			<td><div class="cen">840</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/122.html">The Count of Monte Cristo</a></td>
+			<td><div class="lbr">Alexandre Dumas</div></td>
+			<td><div class="lbr">Wordsworth Editions Ltd</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">928</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/123.html">Crime and Punishment</a></td>
+			<td><div class="lbr">Fyodor Dostoevsky</div></td>
+			<td><div class="lbr">Penguin Publishing Group</div></td>
+			<td><div class="lbr">Fiction, Classic</div></td>
+			<td><div class="cen">560</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/166.html">Crossroads of Twilight</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Fantasy</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">704</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/126.html">A Crown of Swords</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">720</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar6.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/84.html">The Crusaders</a></td>
+			<td><div class="lbr">Régine Pernoud</div></td>
+			<td><div class="lbr">Ignatius Press</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Christianity, Catholic</div></td>
+			<td><div class="cen">354</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/135.html">Cryptonomicon</a></td>
+			<td><div class="lbr">Neal Stephenson</div></td>
+			<td><div class="lbr">Arrow Books Ltd</div></td>
+			<td><div class="lbr">Fiction, Sci-Fi &amp; Fantasy</div></td>
+			<td><div class="cen">1168</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/65.html">The Cube and the Cathedral : Europe, America, and Politics Without God</a></td>
+			<td><div class="lbr">George Weigel</div></td>
+			<td><div class="lbr">Basic Books</div></td>
+			<td><div class="lbr">Non-fiction, Political Science, American Government, National</div></td>
+			<td><div class="cen">202</div></td>
+			<td><div class="cen">5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/155.html">The Curlytops at Cherry Farm</a></td>
+			<td><div class="lbr">Howard R. Garis</div></td>
+			<td><div class="lbr">Cupples &amp; Leon Company</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/50.html">The Da Vinci Hoax : Exposing the Errors in The Da Vinci Code</a></td>
+			<td><div class="lbr">Carl E Olson</div></td>
+			<td><div class="lbr">Ignatius Press</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Christian Life, Christianity, History, Christian Theology</div></td>
+			<td><div class="cen">329</div></td>
+			<td><div class="cen">2.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/130.html">The Devil Colony</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">672</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/87.html">The Divine Comedy</a></td>
+			<td><div class="lbr">Dante Alighieri</div></td>
+			<td><div class="lbr">Barnes &amp; Noble</div></td>
+			<td><div class="lbr">Fiction, Classics</div></td>
+			<td><div class="cen">693</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/116.html">The Doomsday Key</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">Harper</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">560</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/83.html">Dracula</a></td>
+			<td><div class="lbr">Bram Stoker</div></td>
+			<td><div class="lbr">Sterling</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">336</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/15.html">The Dragon Reborn</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Fantasy</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">624</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar10.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/168.html">Dune</a></td>
+			<td><div class="lbr">Frank Herbert</div></td>
+			<td><div class="lbr">Putnam Adult</div></td>
+			<td><div class="lbr">Fiction, Science Fiction</div></td>
+			<td><div class="cen">528</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/13.html">Dune (Dune Chronicles, Book 1)</a></td>
+			<td><div class="lbr">Frank Herbert</div></td>
+			<td><div class="lbr">ACE Charter (1996), Edition: 25th Anniv, Paperback</div></td>
+			<td><div class="lbr">Fiction, Science Fiction</div></td>
+			<td><div class="cen">544</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/109.html">An Ember in the Ashes</a></td>
+			<td><div class="lbr">Sabaa Tahir</div></td>
+			<td><div class="lbr">Razorbill</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">446</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/6.html">Ender&#39;s Game</a></td>
+			<td><div class="lbr">Orson Scott Card</div></td>
+			<td><div class="lbr">Tor Science Fiction</div></td>
+			<td><div class="lbr">Fiction, Science Fiction &amp; Fantasy</div></td>
+			<td><div class="cen">384</div></td>
+			<td><div class="cen">10</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/22.html">The Eye of God</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">448</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/14.html">The Eye of the World</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Fantasy (1990), Edition: 1st Mass, Paperback</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">832</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar10.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/128.html">The Eye of the World (B &amp; N Collector&#39;s Edition)</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Barnes and Noble</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/131.html">Fantastic Beasts and Where to Find Them</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Scholastic (Us)</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">304</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/111.html">The Fires of Heaven</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">992</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar10.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/34.html">Frankenstein</a></td>
+			<td><div class="lbr">Mary Wollstonecraft Shelley</div></td>
+			<td><div class="lbr">Marshall Cevndish</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">244</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/175.html">A Game of Thrones</a></td>
+			<td><div class="lbr">George R. R. Martin</div></td>
+			<td><div class="lbr">Bantam</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">819</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/167.html">The Gathering Storm</a></td>
+			<td><div class="lbr">Robert Jordan, Brandon Sanderson</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">784</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/177.html">The Great Hunt</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Fantasy (1991), Edition: Reissue, Mass Market Paperback</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">705</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar10.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/163.html">H P Lovecraft: Complete Fiction (Leatherbound)</a></td>
+			<td><div class="lbr">H. P. Lovecraft</div></td>
+			<td><div class="lbr">Sterling</div></td>
+			<td><div class="lbr">Fiction, Horror</div></td>
+			<td><div class="cen">1112</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/95.html">Harry Potter and the Chamber of Secrets</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Scholastic Paperbacks</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">352</div></td>
+			<td><div class="cen">8</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/132.html">Harry Potter and the Chamber of Secrets (Illustrated Edition)</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Bloomsbury</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">256</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/133.html">Harry Potter and the Cursed Child: Parts One and Two</a></td>
+			<td><div class="lbr">J  K Rowling, John Tiffany, Jack Thorne</div></td>
+			<td><div class="lbr">Arthur A Levine Books</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">320</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar8.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/33.html">Harry Potter and the Deathly Hallows</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Arthur A. Levine Books</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">759</div></td>
+			<td><div class="cen">5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/97.html">Harry Potter and the Goblet of Fire</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Scholastic Paperbacks</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">752</div></td>
+			<td><div class="cen">4.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/98.html">Harry Potter and the Half-Blood Prince</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Arthur A. Levine Books</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">652</div></td>
+			<td><div class="cen">5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/31.html">Harry Potter and the Order of the Phoenix</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Arthur A. Levine Books</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">870</div></td>
+			<td><div class="cen">8</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/96.html">Harry Potter and the Prisoner of Azkaban</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Scholastic Paperbacks</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">448</div></td>
+			<td><div class="cen">4.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/93.html">Harry Potter and the Sorcerer&#39;s Stone</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Arthur A. Levine Books</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">309</div></td>
+			<td><div class="cen">6</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/94.html">Harry Potter and the Sorcerer&#39;s Stone</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Listening Library</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">320</div></td>
+			<td><div class="cen">10</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/114.html">Harry Potter and the Sorcerer&#39;s Stone (Illustrated Edition)</a></td>
+			<td><div class="lbr">J. K. Rowling</div></td>
+			<td><div class="lbr">Arthur a Levine</div></td>
+			<td><div class="lbr">Fiction, Fantasy</div></td>
+			<td><div class="cen">256</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/157.html">Higgins and the Great Big Scare</a></td>
+			<td><div class="lbr">Rebecca Caudill</div></td>
+			<td><div class="lbr">Holt, Rinehart &amp; Winston</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">87</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/154.html">His Children&#39;s Children</a></td>
+			<td><div class="lbr">Arthur Train</div></td>
+			<td><div class="lbr">Charles Scribner&#39;s Sons</div></td>
+			<td><div class="lbr">Fiction, Children&#39;s Books</div></td>
+			<td><div class="cen">128</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/148.html">Holy Bible</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">Collins</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">1002</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/145.html">Holy Bible : New International Version.</a></td>
+			<td><div class="lbr">Zondervan</div></td>
+			<td><div class="lbr">Zondervan Pub House</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">736</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/143.html">Holy Bible New American Bible Burgandy</a></td>
+			<td><div class="lbr">US Conference of Catholic Bishops</div></td>
+			<td><div class="lbr">Fireside Catholic Publishing</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">1768</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/107.html">How to study the Bible</a></td>
+			<td><div class="lbr">Bob West</div></td>
+			<td><div class="lbr">Barbour Pub</div></td>
+			<td><div class="lbr">Non-fiction, Religion</div></td>
+			<td><div class="cen">95</div></td>
+			<td><div class="cen">4.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/119.html">Ice Hunt</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">Harper</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">544</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/141.html">The Imitation of Christ - Zippered Cover</a></td>
+			<td><div class="lbr">Thomas à Kempis</div></td>
+			<td><div class="lbr">TAN BOOKS &amp; PUBL Incorporated</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Christianity, Catholic, Christian Life, Devotional, Personal Growth, Faith, Prayer, Saints &amp; Sainthood</div></td>
+			<td><div class="cen">272</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/43.html">iOS Programming: The Big Nerd Ranch Guide</a></td>
+			<td><div class="lbr">Aaron Hillegass, Joe Conway</div></td>
+			<td><div class="lbr">Addison-Wesley</div></td>
+			<td><div class="lbr">Non-fiction, Tech, Computer Programming, Reference</div></td>
+			<td><div class="cen">590</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/42.html">Java : An Introduction to Problem Solving &amp; Programming</a></td>
+			<td><div class="lbr">Walter J. Savitch</div></td>
+			<td><div class="lbr">Pearson Prentice Hall</div></td>
+			<td><div class="lbr">Non-fiction, Tech, Computer Programming, Reference</div></td>
+			<td><div class="cen">950</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/46.html">Java for dummies</a></td>
+			<td><div class="lbr">Barry Burd</div></td>
+			<td><div class="lbr">Wiley</div></td>
+			<td><div class="lbr">Non-fiction, Tech, Computer Programming, Reference</div></td>
+			<td><div class="cen">432</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/118.html">Jerusalem</a></td>
+			<td><div class="lbr">Alan Moore</div></td>
+			<td><div class="lbr">Liveright Publishing Corporation</div></td>
+			<td><div class="lbr">Fiction, Fantasy fiction</div></td>
+			<td><div class="cen">1280</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/113.html">The Judas Strain</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">464</div></td>
+			<td><div class="cen">6</div></td>
+			<td><div><img src="Images/darkstar8.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/153.html">Julius Caesar</a></td>
+			<td><div class="lbr">William Shakespeare</div></td>
+			<td><div class="lbr">The Macmillan Company</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">288</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/125.html">Jurassic Park/The Lost World (Barnes &amp; Noble Leatherbound Classics)</a></td>
+			<td><div class="lbr">Michael Crichton</div></td>
+			<td><div class="lbr">Sterling Publishing</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">832</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/85.html">The Kernel and the Bean: The 75-year Story of the Staley Company</a></td>
+			<td><div class="lbr">Dan J. Forrestal</div></td>
+			<td><div class="lbr">Simon and Schuster</div></td>
+			<td><div class="lbr">Non-fiction, Business &amp; Economics, Historical</div></td>
+			<td><div class="cen">315</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/106.html">Key of Heaven</a></td>
+			<td><div class="lbr">Catholic Church</div></td>
+			<td><div class="lbr">The Regina Press</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Spirituality, Devotions, Meditations</div></td>
+			<td><div class="cen">741</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/25.html">The Kill Switch</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">Harper</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military</div></td>
+			<td><div class="cen">576</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/9.html">The King of Torts</a></td>
+			<td><div class="lbr">John Grisham</div></td>
+			<td><div class="lbr">Doubleday Books</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">384</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/165.html">Knife of Dreams</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">783</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/61.html">Know Your Bible</a></td>
+			<td><div class="lbr">Paul Kent, George Knight</div></td>
+			<td><div class="lbr">Barbour</div></td>
+			<td><div class="lbr">Non-fiction, Handbooks, manuals, etc, Outlines, syllabi, Introductions, Outlines and syllabi, Handbooks and manuals</div></td>
+			<td><div class="cen">99</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/21.html">The Last Oracle</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">HarperAudio</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">434</div></td>
+			<td><div class="cen">10</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/10.html">The Litigators</a></td>
+			<td><div class="lbr">John Grisham</div></td>
+			<td><div class="lbr">Hodder &amp; Stoughton</div></td>
+			<td><div class="lbr">Fiction, Crime, Thrillers &amp; Mystery</div></td>
+			<td><div class="cen">400</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/115.html">Lord of Chaos</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">33</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar8.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/138.html">The Lord of the Rings (box set)</a></td>
+			<td><div class="lbr">J. R. R. Tolkien</div></td>
+			<td><div class="lbr">Random House</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">1728</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/7.html">The Man in the High Castle</a></td>
+			<td><div class="lbr">Philip K. Dick</div></td>
+			<td><div class="lbr">Vintage</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">272</div></td>
+			<td><div class="cen">8</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/19.html">Map of Bones</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">Harper</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">560</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/37.html">The Martian</a></td>
+			<td><div class="lbr">Andy Weir</div></td>
+			<td><div class="lbr">Random House Incorporated</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Science Fiction, Hard science fiction</div></td>
+			<td><div class="cen">387</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar10.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/105.html">Me Without You</a></td>
+			<td><div class="lbr">Lisa Swerling, Ralph Lazar</div></td>
+			<td><div class="lbr">Chronicle Books</div></td>
+			<td><div class="lbr">Non-fiction, Romantic, Comic books</div></td>
+			<td><div class="cen">96</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/178.html">A Memory of Light</a></td>
+			<td><div class="lbr">Robert Jordan, Brandon Sanderson</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">912</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/39.html">Messenger</a></td>
+			<td><div class="lbr">James Walker</div></td>
+			<td><div class="lbr">CreateSpace Independent Publishing Platform</div></td>
+			<td><div class="lbr">Fiction, Science Fiction</div></td>
+			<td><div class="cen">340</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/60.html">A Minute in the Church</a></td>
+			<td><div class="lbr">Gus Lloyd</div></td>
+			<td><div class="lbr">Gus Lloyd</div></td>
+			<td><div class="lbr">Non-fiction, Religion</div></td>
+			<td><div class="cen">46</div></td>
+			<td><div class="cen">4.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/179.html">New Spring</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Fantasy</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">336</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/149.html">New Testament (FDR Military Pocket Bible)</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/146.html">New Testament Psalms (Bible)</a></td>
+			<td><div class="lbr">World Bible Publishing St</div></td>
+			<td><div class="lbr">Catholic World Press/World Bible Publishers</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">1394</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/151.html">NEW TESTAMENT wit Psalms &amp; Proberbs, Good News Translation (Military Ministry Pocket Bible)</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/150.html">New Testament, Psalms &amp; Proverbs (Gideon Pocket Bible)</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/152.html">New Testament, Psalms, Proverbs (Gideon Camo/Military Pocket Bible)</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">Gideons International</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">633</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/147.html">New Testament: Red Letter Edition (Bible)</a></td>
+			<td><div class="lbr">Seminars Unlimited</div></td>
+			<td><div class="lbr">Royal Publishers, Inc.</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">610</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/89.html">Novum Testamentum Latine Novam Vulgatam Bibliorum Sacrorum Ed. Secuti Apparatibus Titulisque Additis (Bible)</a></td>
+			<td><div class="lbr">Eberhard Nestle</div></td>
+			<td><div class="lbr">Stuttgart Dt Bibelges</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/55.html">Parish Priest : Father Michael McGivney and American Catholicism</a></td>
+			<td><div class="lbr">Douglas Brinkley</div></td>
+			<td><div class="lbr">Harper Perennial</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Biography</div></td>
+			<td><div class="cen">272</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/127.html">The Path of Daggers</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">604</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/73.html">The Pelican Brief</a></td>
+			<td><div class="lbr">John Grisham</div></td>
+			<td><div class="lbr">Doubleday</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">384</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/170.html">The Picture of Dorian Gray</a></td>
+			<td><div class="lbr">Oscar Wilde</div></td>
+			<td><div class="lbr">Penguin Classic</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">224</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/59.html">Pope Francis Speaks to Our Hearts : Words of Challenge and Hope.</a></td>
+			<td><div class="lbr">Pope Francis</div></td>
+			<td><div class="lbr">The Word Among Us Press</div></td>
+			<td><div class="lbr">Non-fiction, Quotations, Prayers and devotions</div></td>
+			<td><div class="cen">184</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/158.html">The Real Book About the Antarctic</a></td>
+			<td><div class="lbr">Charles S. Strong</div></td>
+			<td><div class="lbr">Garden City Books</div></td>
+			<td><div class="lbr">Non-fiction</div></td>
+			<td><div class="cen">216</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/58.html">Rediscover Catholicism</a></td>
+			<td><div class="lbr">Matthew Kelly</div></td>
+			<td><div class="lbr">Dynamic Catholic Institute</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Catholic</div></td>
+			<td><div class="cen">311</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/49.html">Roman Empire</a></td>
+			<td><div class="lbr">Nigel Rodgers, Hazel Dodge</div></td>
+			<td><div class="lbr">Barnes &amp; Noble, Incorporated</div></td>
+			<td><div class="lbr">Non-fiction, History</div></td>
+			<td><div class="cen">511</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/69.html">Saint Joseph Baltimore Catechism</a></td>
+			<td><div class="lbr">Bennet Kelley</div></td>
+			<td><div class="lbr">Catholic Book Pub Co</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Catholic, Catechisms</div></td>
+			<td><div class="cen">192</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/90.html">Saint Joseph Bible-NABRE-Medium Size</a></td>
+			<td><div class="lbr">Catholic Book Publishing Co</div></td>
+			<td><div class="lbr">Catholic Book Publishing Corp</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">1547</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/18.html">Sandstorm</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">Harper</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">608</div></td>
+			<td><div class="cen">4.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/92.html">The Scarlet Letter</a></td>
+			<td><div class="lbr">Nathaniel Hawthorne</div></td>
+			<td><div class="lbr">CreateSpace Independent Publishing Platform</div></td>
+			<td><div class="lbr">Fiction, Classic</div></td>
+			<td><div class="cen">130</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/164.html">Seven novels</a></td>
+			<td><div class="lbr">Jules Verne</div></td>
+			<td><div class="lbr">Barnes &amp; Noble</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/121.html">Seveneves</a></td>
+			<td><div class="lbr">Neal Stephenson</div></td>
+			<td><div class="lbr">William Morrow an imprint of HarperCollins Publishers</div></td>
+			<td><div class="lbr">Fiction, Science Fiction</div></td>
+			<td><div class="cen">881</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/171.html">The Seventh Plague</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure,  Military,  Science Fiction</div></td>
+			<td><div class="cen"></div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/110.html">The Shadow Rising</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">1008</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar10.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/160.html">The Silmarillion</a></td>
+			<td><div class="lbr">J. R. R. Tolkien</div></td>
+			<td><div class="lbr">HarperCollins</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">400</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/23.html">The Sixth Extinction</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">William Morrow</div></td>
+			<td><div class="lbr">Fiction, Action &amp; Adventure, Military, Science Fiction</div></td>
+			<td><div class="cen">448</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/144.html">Slimline Reference Bible NLT (Black Genuine Leather)</a></td>
+			<td><div class="lbr"></div></td>
+			<td><div class="lbr">Tyndale House Publishers</div></td>
+			<td><div class="lbr">Non-fiction, Religion, Bible</div></td>
+			<td><div class="cen">999</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/134.html">The Star Wars Trilogy</a></td>
+			<td><div class="lbr">Donald F. Glut, James Kahn, George Lucas</div></td>
+			<td><div class="lbr">BOOKS</div></td>
+			<td><div class="lbr">Fiction, Science Fiction</div></td>
+			<td><div class="cen">705</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/120.html">Subterranean</a></td>
+			<td><div class="lbr">James Rollins</div></td>
+			<td><div class="lbr">Harper</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">416</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/5.html">Tales from the Arabian nights</a></td>
+			<td><div class="lbr">Sir Richard Francis Burton</div></td>
+			<td><div class="lbr">Fall River Press</div></td>
+			<td><div class="lbr">Fiction, Folklore</div></td>
+			<td><div class="cen">28</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/11.html">The Testament</a></td>
+			<td><div class="lbr">John Grisham</div></td>
+			<td><div class="lbr">Doubleday</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">544</div></td>
+			<td><div class="cen">8</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/174.html">Towers of Midnight</a></td>
+			<td><div class="lbr">Robert Jordan, Brandon Sanderson</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">861</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/136.html">Treasure Island</a></td>
+			<td><div class="lbr">Robert Louis Stevenson</div></td>
+			<td><div class="lbr">Barnes &amp; Noble, Incorporated</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">272</div></td>
+			<td><div class="cen">4</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/137.html">War and Peace</a></td>
+			<td><div class="lbr">Leo Tolstoy</div></td>
+			<td><div class="lbr">Vintage Classics</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">1296</div></td>
+			<td><div class="cen">9</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/41.html">The War of the Worlds</a></td>
+			<td><div class="lbr">H. G. Wells</div></td>
+			<td><div class="lbr">F Watts</div></td>
+			<td><div class="lbr">Fiction, Juvenile Fiction, Juvenile works</div></td>
+			<td><div class="cen">182</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/57.html">The Way of Serenity</a></td>
+			<td><div class="lbr">Fr. Jonathan Morris</div></td>
+			<td><div class="lbr">HarperOne</div></td>
+			<td><div class="lbr">Non-fiction, Religion</div></td>
+			<td><div class="cen">240</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/48.html">Wheelock&#39;s Latin</a></td>
+			<td><div class="lbr">Frederic M. Wheelock</div></td>
+			<td><div class="lbr">Collins Reference</div></td>
+			<td><div class="lbr">Non-fiction, Language</div></td>
+			<td><div class="cen">608</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/56.html">Why Stay Catholic? : Unexpected Answers to a Life-Changing Question</a></td>
+			<td><div class="lbr">Michael Leach</div></td>
+			<td><div class="lbr">Loyola Press</div></td>
+			<td><div class="lbr">Non-fiction, Religion</div></td>
+			<td><div class="cen">360</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/162.html">Winter&#39;s Heart</a></td>
+			<td><div class="lbr">Robert Jordan</div></td>
+			<td><div class="lbr">Tor Books</div></td>
+			<td><div class="lbr">Fiction, Epic, Fantasy</div></td>
+			<td><div class="cen">625</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/47.html">Workbook for Wheelock&#39;s Latin</a></td>
+			<td><div class="lbr">Paul T. Comeau</div></td>
+			<td><div class="lbr">HarperCollins</div></td>
+			<td><div class="lbr">Non-fiction, Language</div></td>
+			<td><div class="cen">352</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/72.html">World War Z</a></td>
+			<td><div class="lbr">Max Brooks</div></td>
+			<td><div class="lbr">Random House</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">352</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/156.html">Young Buffalo Bill</a></td>
+			<td><div class="lbr">George Gowdy</div></td>
+			<td><div class="lbr">E.M. Hale and Company</div></td>
+			<td><div class="lbr">Fiction</div></td>
+			<td><div class="cen">201</div></td>
+			<td><div class="cen"></div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/103.html">Zombies: A Record of the Year of Infection</a></td>
+			<td><div class="lbr">Paul Jessup</div></td>
+			<td><div class="lbr">Chronicle Books</div></td>
+			<td><div class="lbr">Fiction, Graphic Novels, etc, Comic books, strips, Electronic books, Diary fiction, Horror fiction, Horror comic books</div></td>
+			<td><div class="cen">144</div></td>
+			<td><div class="cen">3.5</div></td>
+			<td><div><img src="Images/darkstar0.png" alt="Rating" /></div></td>
+		</tr>
+		
+	</tbody>
+</table>
 </div>
-
-<h2>Title : #</h2>
-
-<div class="nav">
-	 <div class="index"> <a href="page1.html">#</a> | <a href="page2.html">A</a> | <a href="page3.html">B</a> | <a href="page4.html">C</a> | <a href="page5.html">D</a> | <a href="page6.html">E</a> | <a href="page7.html">F</a> | <a href="page8.html">G</a> | <a href="page9.html">H</a> | <a href="page10.html">I</a> | <a href="page11.html">J</a> | <a href="page12.html">K</a> | <a href="page13.html">L</a> | <a href="page14.html">M</a> | <a href="page15.html">N</a> | <a href="page16.html">P</a> | <a href="page17.html">R</a> | <a href="page18.html">S</a> | <a href="page19.html">T</a> | <a href="page20.html">W</a> | <a href="page21.html">Y</a> | <a href="page22.html">Z</a> </div> 
-		<!--IF_PREVIOUS_PAGE <div class="prev"><a href="" >&laquo; Previous Page</a></div> END_PREVIOUS_PAGE-->
-	 <div class="next"><a href="page2.html" >Next Page &raquo;</a></div>
-		<div class="clearBoth">&nbsp;</div>
-</div>
-	
-
-
-<div class="album">
-
-	<img class="albumBorder" src="Images/album-top.gif" />
-	<div class="albumBG">
-		<div class="albumInner">
-
-	<div id="hideSmallCover1" class="albumCover" style="display: yes;">
-		<a href="#" onclick="view('showCover1'); view('hideSmallCover1'); view('moveInfo1'); view('albumCenter1'); view('showCoverActive1'); return false;"><img src="Images/51.jpg" alt="Cover Zoom [+]" title="Cover Zoom [+]" /></a>
-	</div><!-- albumCover //-->
-	
-	<div id="showCover1" class="coverWindow" style="display: none;">
-		<a href="#" onclick="view('showCover1'); view('hideSmallCover1'); view('moveInfo1'); view('albumCenter1'); view('showCoverActive1'); return false;"><img src="Images/51.jpg" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		<a class="closeWindow" href="#" onclick="view('showCover1'); view('hideSmallCover1'); view('moveInfo1'); view('albumCenter1'); view('showCoverActive1'); view('closeWindow1'); return false;"><img src="Images/m.gif" alt="" onmouseover="view('closeWindow1'); return false;" /><img id="closeWindow1" src="Images/closeWindow.gif" alt="Cover Zoom [-]" title="Cover Zoom [-]" style="display: none;" onmouseout="view('closeWindow1'); return false;" /></a>
-	</div><!-- showCover1 //-->
-
-	<div class="albumRight">	
-		<div class="innerLeft">
-			
-			<div id="moveInfo1" class="movedInfo" style="display: none;">	
-				<p><strong class="artist">Frank McCourt&nbsp;</strong></p>
-				<p>&#39;Tis: A Memoir&nbsp;</p>
-				<p>368 pages&nbsp;</p>
-				<img class="stars" src="Images/darkstar0.png" />
-				<p class="incrNum">(#1)&nbsp;</p>
-			</div><!-- albumCenter //-->
-			
-			<p><strong>Release:</strong> Jun 2000</p>
-			<p><strong>Publisher:</strong> Scribner (2000), Paperback, 368 pages</p>
-			<p><strong>Genre:</strong> Non-fiction</p>
-			<p><strong>Format:</strong> Paperback</p>
-			<p><strong>Date Added:</strong> May 14, 2016</p>
-		</div><!-- innerLeft //-->
-		
-		<div class="innerRight">
-			<a class="m01" href="#pageTop"><img src="Images/m01.gif" alt="Back to top" title="Back to top" onmouseover="view('topActive1'); return false;" /><img id="topActive1" src="Images/m01x.gif" style="display: none;" alt="Back to top" title="Back to top" onmouseout="view('topActive1'); return false;" /></a>
-			<a class="m02" href="#" onclick="view('cdInfo1'); view('cdInfoActive1'); return false;"><img src="Images/m02.gif" alt="Expanded Info" title="Expand Info" /><img id="cdInfoActive1" src="Images/m02x.gif" style="display: none;" alt="Collapse Info" title="Collapse Info" /></a>
-			<a class="m03" href="#" onclick="view('showCover1'); view('hideSmallCover1'); view('moveInfo1'); view('albumCenter1'); view('showCoverActive1'); return false;"><img src="Images/m03.gif" alt="Cover Zoom [+]" title="Cover Zoom [+]" /><img id="showCoverActive1" src="Images/m03x.gif" style="display: none;" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		</div><!-- innerRight //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- albumLeft //-->
-
-	<div id="albumCenter1" class="albumCenter" style="display: yes;">	
-		<p><strong class="artist">Frank McCourt&nbsp;</strong></p>
-		<p>&#39;Tis: A Memoir&nbsp;</p>
-		<p>368 pages&nbsp;</p>
-		<img class="stars" src="Images/darkstar0.png" />
-		<p class="incrNum">(#1)&nbsp;</p>
-	</div><!-- albumCenter //-->
-	<div class="clearBoth">&nbsp;</div>
-	
-	<div id="cdInfo1" class="cdInfo" style="display: none;">
-		<img class="albumLine" src="Images/line.gif" />
-		<div class="tracklist">
-		<br />
-			<strong>Subjects</strong><br />Biography &amp; Autobiography, Educators, Literature: History &amp; Criticism, Biography / Autobiography, Ethnic Cultures - General, Social History, Usa, Biography/autobiography, Immigration &amp; Emigration, Elements In The U.s. Population
-		</div><!-- tracklist //-->
-		<div class="moreInfo">
-			<div class="inner">
-				<p><strong>Price:</strong> $14.00</p>
-				<p><strong>Edition:</strong> 1st Touchstone Ed</p>
-				<p><strong>ISBN:</strong> 9780684865744</p>
-				
-				<p><strong>Summary:</strong> Frank McCourt&#39;s glorious childhood memoir, &quot;Angela&#39;s Ashes,&quot; has been loved and celebrated by listeners everywhere for its spirit, its wit and its profound humanity. A tale of redemption, in which storytelling itself is the source of salvation, it won the National Book Critics Circle Award, the &quot;Los Angeles Times&quot; Book Award and the Pulitzer Prize. Rarely has a book so swiftly found its place on the literary landscape. <br /> And now we have &quot;&#39;Tis,&quot; the story of Frank&#39;s American journey from impoverished immigrant to brilliant teacher and raconteur. Frank lands in New York at nineteen, in the company of a priest he meets on the boat. He gets a job at the Biltmore Hotel, where he immediately encounters the vivid hierarchies of this &quot;classless country,&quot; and then is drafted into the army and is sent to Germany to train dogs and type reports. It is Frank&#39;s incomparable voice -- his uncanny humor and his astonishing ear for dialogue -- that renders these experiences spellbinding. <br /> When Frank returns to America in 1953, he works on the docks, always resisting what everyone tells him, that men and women who have dreamed and toiled for years to get to America should &quot;stick to their own kind&quot; once they arrive. Somehow, Frank knows that he should be getting an education, and though he left school at fourteen, he talks his way into New York University. There, he falls in love with the quintessential Yankee, long-legged and blond, and tries to live his dream. But it is not until he starts to teach -- and to write -- that Frank finds his place in the world. The same vulnerable but invincible spirit that captured the hearts of listeners in &quot;Angela&#39;s Ashes&quot; comes of age. <br /> Frank McCourt&#39;s &quot;&#39;Tis&quot; is one of the most eagerly-awaited audiobooks of our time, and it is a masterpiece.</p>
-			</div><!-- inner //-->
-		</div><!-- moreInfo //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- cdInfo1 //-->
-
-		</div><!-- albumInner //-->
-	</div><!-- albumBG //-->
-	<img class="albumBorder" src="Images/album-bottom.gif" />
-
-</div><!-- album //-->
-
-
-<div class="album">
-
-	<img class="albumBorder" src="Images/album-top.gif" />
-	<div class="albumBG">
-		<div class="albumInner">
-
-	<div id="hideSmallCover2" class="albumCover" style="display: yes;">
-		<a href="#" onclick="view('showCover2'); view('hideSmallCover2'); view('moveInfo2'); view('albumCenter2'); view('showCoverActive2'); return false;"><img src="Images/16.jpg" alt="Cover Zoom [+]" title="Cover Zoom [+]" /></a>
-	</div><!-- albumCover //-->
-	
-	<div id="showCover2" class="coverWindow" style="display: none;">
-		<a href="#" onclick="view('showCover2'); view('hideSmallCover2'); view('moveInfo2'); view('albumCenter2'); view('showCoverActive2'); return false;"><img src="Images/16.jpg" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		<a class="closeWindow" href="#" onclick="view('showCover2'); view('hideSmallCover2'); view('moveInfo2'); view('albumCenter2'); view('showCoverActive2'); view('closeWindow2'); return false;"><img src="Images/m.gif" alt="" onmouseover="view('closeWindow2'); return false;" /><img id="closeWindow2" src="Images/closeWindow.gif" alt="Cover Zoom [-]" title="Cover Zoom [-]" style="display: none;" onmouseout="view('closeWindow2'); return false;" /></a>
-	</div><!-- showCover2 //-->
-
-	<div class="albumRight">	
-		<div class="innerLeft">
-			
-			<div id="moveInfo2" class="movedInfo" style="display: none;">	
-				<p><strong class="artist">Stephen King&nbsp;</strong></p>
-				<p>11/22/63&nbsp;</p>
-				<p>3 pages&nbsp;</p>
-				<img class="stars" src="Images/darkstar0.png" />
-				<p class="incrNum">(#2)&nbsp;</p>
-			</div><!-- albumCenter //-->
-			
-			<p><strong>Release:</strong> Jan 2011</p>
-			<p><strong>Publisher:</strong> Audioworks</p>
-			<p><strong>Genre:</strong> Fiction</p>
-			<p><strong>Format:</strong> MP3 CD</p>
-			<p><strong>Date Added:</strong> May 14, 2016</p>
-		</div><!-- innerLeft //-->
-		
-		<div class="innerRight">
-			<a class="m01" href="#pageTop"><img src="Images/m01.gif" alt="Back to top" title="Back to top" onmouseover="view('topActive2'); return false;" /><img id="topActive2" src="Images/m01x.gif" style="display: none;" alt="Back to top" title="Back to top" onmouseout="view('topActive2'); return false;" /></a>
-			<a class="m02" href="#" onclick="view('cdInfo2'); view('cdInfoActive2'); return false;"><img src="Images/m02.gif" alt="Expanded Info" title="Expand Info" /><img id="cdInfoActive2" src="Images/m02x.gif" style="display: none;" alt="Collapse Info" title="Collapse Info" /></a>
-			<a class="m03" href="#" onclick="view('showCover2'); view('hideSmallCover2'); view('moveInfo2'); view('albumCenter2'); view('showCoverActive2'); return false;"><img src="Images/m03.gif" alt="Cover Zoom [+]" title="Cover Zoom [+]" /><img id="showCoverActive2" src="Images/m03x.gif" style="display: none;" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		</div><!-- innerRight //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- albumLeft //-->
-
-	<div id="albumCenter2" class="albumCenter" style="display: yes;">	
-		<p><strong class="artist">Stephen King&nbsp;</strong></p>
-		<p>11/22/63&nbsp;</p>
-		<p>3 pages&nbsp;</p>
-		<img class="stars" src="Images/darkstar0.png" />
-		<p class="incrNum">(#2)&nbsp;</p>
-	</div><!-- albumCenter //-->
-	<div class="clearBoth">&nbsp;</div>
-	
-	<div id="cdInfo2" class="cdInfo" style="display: none;">
-		<img class="albumLine" src="Images/line.gif" />
-		<div class="tracklist">
-		<br />
-			<strong>Subjects</strong><br />1917-1963, (john Fitzgerald), Kennedy John F
-		</div><!-- tracklist //-->
-		<div class="moreInfo">
-			<div class="inner">
-				<p><strong>Price:</strong> $39.99</p>
-				<p><strong>Edition:</strong> Unabridged</p>
-				<p><strong>ISBN:</strong> 9781442344303</p>
-				
-				<p><strong>Summary:</strong> AN INCREDIBLE UNABRIDGED AUDIO VALUE...OVER 30 HOURS ON ONLY THREE IPOD-READY MP3 CDS!<br /><br />On November 22, 1963, three shots rang out in Dallas, President Kennedy died, and the world changed. What if you could change it back? Stephen King’s heart-stoppingly dramatic new novel is about a man who travels back in time to prevent the JFK assassination.<br /><br />Following his massively successful novel &quot;Under the Dome&quot;, King sweeps listeners back in time to another moment—a real life moment—when everything went wrong: the JFK assassination. And he introduces listeners to a character who has the power to change the course of history. <br /><br />Jake Epping is a thirty-five-year-old high school English teacher in Lisbon Falls, Maine, who makes extra money teaching adults in the GED program. He receives an essay from one of the students—a gruesome, harrowing first person story about the night fifty years ago when his father came home and killed his mother, his sister, and his brother with a hammer. Harry escaped with a smashed leg, as evidenced by his crooked walk.<br /><br />Not much later, Jake’s friend Al, who runs the local diner, divulges a secret: his storeroom is a portal to 1958. He enlists Jake on an insane—and insanely impossible—mission to try to prevent the Kennedy assassination. So begins Jake’s new life as George Amberson and his new world of Elvis and JFK, of big American cars and sock hops, of a troubled loner named Lee Harvey Oswald and a beautiful high school librarian named Sadie Dunhill, who becomes the love of Jack’s life—a life that transgresses all the normal rules of time. <br /><br />A tribute to a simpler era and a devastating exercise in escalating suspense, &quot;11/22/63&quot; is Stephen King at his epic best.</p>
-			</div><!-- inner //-->
-		</div><!-- moreInfo //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- cdInfo2 //-->
-
-		</div><!-- albumInner //-->
-	</div><!-- albumBG //-->
-	<img class="albumBorder" src="Images/album-bottom.gif" />
-
-</div><!-- album //-->
-
-
-<div class="album">
-
-	<img class="albumBorder" src="Images/album-top.gif" />
-	<div class="albumBG">
-		<div class="albumInner">
-
-	<div id="hideSmallCover3" class="albumCover" style="display: yes;">
-		<a href="#" onclick="view('showCover3'); view('hideSmallCover3'); view('moveInfo3'); view('albumCenter3'); view('showCoverActive3'); return false;"><img src="Images/108.jpg" alt="Cover Zoom [+]" title="Cover Zoom [+]" /></a>
-	</div><!-- albumCover //-->
-	
-	<div id="showCover3" class="coverWindow" style="display: none;">
-		<a href="#" onclick="view('showCover3'); view('hideSmallCover3'); view('moveInfo3'); view('albumCenter3'); view('showCoverActive3'); return false;"><img src="Images/108.jpg" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		<a class="closeWindow" href="#" onclick="view('showCover3'); view('hideSmallCover3'); view('moveInfo3'); view('albumCenter3'); view('showCoverActive3'); view('closeWindow3'); return false;"><img src="Images/m.gif" alt="" onmouseover="view('closeWindow3'); return false;" /><img id="closeWindow3" src="Images/closeWindow.gif" alt="Cover Zoom [-]" title="Cover Zoom [-]" style="display: none;" onmouseout="view('closeWindow3'); return false;" /></a>
-	</div><!-- showCover3 //-->
-
-	<div class="albumRight">	
-		<div class="innerLeft">
-			
-			<div id="moveInfo3" class="movedInfo" style="display: none;">	
-				<p><strong class="artist">Trent Horn&nbsp;</strong></p>
-				<p>20 Answers: Faith &amp; Science&nbsp;</p>
-				
-				<img class="stars" src="Images/darkstar0.png" />
-				<p class="incrNum">(#3)&nbsp;</p>
-			</div><!-- albumCenter //-->
-			
-			<p><strong>Release:</strong> May 2014</p>
-			<p><strong>Publisher:</strong> Catholic Answers, Inc.</p>
-			<p><strong>Genre:</strong> Non-fiction, Religion</p>
-			<p><strong>Format:</strong> Paperback</p>
-			<p><strong>Date Added:</strong> May 20, 2016</p>
-		</div><!-- innerLeft //-->
-		
-		<div class="innerRight">
-			<a class="m01" href="#pageTop"><img src="Images/m01.gif" alt="Back to top" title="Back to top" onmouseover="view('topActive3'); return false;" /><img id="topActive3" src="Images/m01x.gif" style="display: none;" alt="Back to top" title="Back to top" onmouseout="view('topActive3'); return false;" /></a>
-			<a class="m02" href="#" onclick="view('cdInfo3'); view('cdInfoActive3'); return false;"><img src="Images/m02.gif" alt="Expanded Info" title="Expand Info" /><img id="cdInfoActive3" src="Images/m02x.gif" style="display: none;" alt="Collapse Info" title="Collapse Info" /></a>
-			<a class="m03" href="#" onclick="view('showCover3'); view('hideSmallCover3'); view('moveInfo3'); view('albumCenter3'); view('showCoverActive3'); return false;"><img src="Images/m03.gif" alt="Cover Zoom [+]" title="Cover Zoom [+]" /><img id="showCoverActive3" src="Images/m03x.gif" style="display: none;" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		</div><!-- innerRight //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- albumLeft //-->
-
-	<div id="albumCenter3" class="albumCenter" style="display: yes;">	
-		<p><strong class="artist">Trent Horn&nbsp;</strong></p>
-		<p>20 Answers: Faith &amp; Science&nbsp;</p>
-		
-		<img class="stars" src="Images/darkstar0.png" />
-		<p class="incrNum">(#3)&nbsp;</p>
-	</div><!-- albumCenter //-->
-	<div class="clearBoth">&nbsp;</div>
-	
-	<div id="cdInfo3" class="cdInfo" style="display: none;">
-		<img class="albumLine" src="Images/line.gif" />
-		<div class="tracklist">
-		<br />
-			<strong>Subjects</strong><br />Religion, Catholic, Faith, Science
-		</div><!-- tracklist //-->
-		<div class="moreInfo">
-			<div class="inner">
-				
-				
-				<p><strong>ISBN:</strong> 9781938983870</p>
-				
-				<p><strong>Summary:</strong> </p>
-			</div><!-- inner //-->
-		</div><!-- moreInfo //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- cdInfo3 //-->
-
-		</div><!-- albumInner //-->
-	</div><!-- albumBG //-->
-	<img class="albumBorder" src="Images/album-bottom.gif" />
-
-</div><!-- album //-->
-
-
-<div class="album">
-
-	<img class="albumBorder" src="Images/album-top.gif" />
-	<div class="albumBG">
-		<div class="albumInner">
-
-	<div id="hideSmallCover4" class="albumCover" style="display: yes;">
-		<a href="#" onclick="view('showCover4'); view('hideSmallCover4'); view('moveInfo4'); view('albumCenter4'); view('showCoverActive4'); return false;"><img src="Images/64.jpg" alt="Cover Zoom [+]" title="Cover Zoom [+]" /></a>
-	</div><!-- albumCover //-->
-	
-	<div id="showCover4" class="coverWindow" style="display: none;">
-		<a href="#" onclick="view('showCover4'); view('hideSmallCover4'); view('moveInfo4'); view('albumCenter4'); view('showCoverActive4'); return false;"><img src="Images/64.jpg" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		<a class="closeWindow" href="#" onclick="view('showCover4'); view('hideSmallCover4'); view('moveInfo4'); view('albumCenter4'); view('showCoverActive4'); view('closeWindow4'); return false;"><img src="Images/m.gif" alt="" onmouseover="view('closeWindow4'); return false;" /><img id="closeWindow4" src="Images/closeWindow.gif" alt="Cover Zoom [-]" title="Cover Zoom [-]" style="display: none;" onmouseout="view('closeWindow4'); return false;" /></a>
-	</div><!-- showCover4 //-->
-
-	<div class="albumRight">	
-		<div class="innerLeft">
-			
-			<div id="moveInfo4" class="movedInfo" style="display: none;">	
-				<p><strong class="artist">&nbsp;</strong></p>
-				<p>2015 Daily Guideposts&nbsp;</p>
-				
-				<img class="stars" src="Images/darkstar0.png" />
-				<p class="incrNum">(#4)&nbsp;</p>
-			</div><!-- albumCenter //-->
-			
-			<p><strong>Release:</strong> Jan 1899</p>
-			<p><strong>Publisher:</strong> 1899-12-30</p>
-			<p><strong>Genre:</strong> Non-fiction, Religion</p>
-			<p><strong>Format:</strong> </p>
-			<p><strong>Date Added:</strong> May 14, 2016</p>
-		</div><!-- innerLeft //-->
-		
-		<div class="innerRight">
-			<a class="m01" href="#pageTop"><img src="Images/m01.gif" alt="Back to top" title="Back to top" onmouseover="view('topActive4'); return false;" /><img id="topActive4" src="Images/m01x.gif" style="display: none;" alt="Back to top" title="Back to top" onmouseout="view('topActive4'); return false;" /></a>
-			<a class="m02" href="#" onclick="view('cdInfo4'); view('cdInfoActive4'); return false;"><img src="Images/m02.gif" alt="Expanded Info" title="Expand Info" /><img id="cdInfoActive4" src="Images/m02x.gif" style="display: none;" alt="Collapse Info" title="Collapse Info" /></a>
-			<a class="m03" href="#" onclick="view('showCover4'); view('hideSmallCover4'); view('moveInfo4'); view('albumCenter4'); view('showCoverActive4'); return false;"><img src="Images/m03.gif" alt="Cover Zoom [+]" title="Cover Zoom [+]" /><img id="showCoverActive4" src="Images/m03x.gif" style="display: none;" alt="Cover Zoom [-]" title="Cover Zoom [-]" /></a>
-		</div><!-- innerRight //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- albumLeft //-->
-
-	<div id="albumCenter4" class="albumCenter" style="display: yes;">	
-		<p><strong class="artist">&nbsp;</strong></p>
-		<p>2015 Daily Guideposts&nbsp;</p>
-		
-		<img class="stars" src="Images/darkstar0.png" />
-		<p class="incrNum">(#4)&nbsp;</p>
-	</div><!-- albumCenter //-->
-	<div class="clearBoth">&nbsp;</div>
-	
-	<div id="cdInfo4" class="cdInfo" style="display: none;">
-		<img class="albumLine" src="Images/line.gif" />
-		<div class="tracklist">
-		<br />
-			<strong>Subjects</strong><br />
-		</div><!-- tracklist //-->
-		<div class="moreInfo">
-			<div class="inner">
-				<p><strong>Price:</strong> $10.0</p>
-				
-				<p><strong>ISBN:</strong> 9780824904708</p>
-				
-				<p><strong>Summary:</strong> </p>
-			</div><!-- inner //-->
-		</div><!-- moreInfo //-->
-		<div class="clearBoth">&nbsp;</div>
-	</div><!-- cdInfo4 //-->
-
-		</div><!-- albumInner //-->
-	</div><!-- albumBG //-->
-	<img class="albumBorder" src="Images/album-bottom.gif" />
-
-</div><!-- album //-->
-
-
-<div class="nav">
-	<!--IF_PREVIOUS_PAGE <div class="prev"><a href="" >&laquo; Previous Page</a></div> END_PREVIOUS_PAGE-->
-	 <div class="next"><a href="page2.html" >Next Page &raquo;</a></div>
-	
-	 <div class="index"> <a href="page1.html">#</a> | <a href="page2.html">A</a> | <a href="page3.html">B</a> | <a href="page4.html">C</a> | <a href="page5.html">D</a> | <a href="page6.html">E</a> | <a href="page7.html">F</a> | <a href="page8.html">G</a> | <a href="page9.html">H</a> | <a href="page10.html">I</a> | <a href="page11.html">J</a> | <a href="page12.html">K</a> | <a href="page13.html">L</a> | <a href="page14.html">M</a> | <a href="page15.html">N</a> | <a href="page16.html">P</a> | <a href="page17.html">R</a> | <a href="page18.html">S</a> | <a href="page19.html">T</a> | <a href="page20.html">W</a> | <a href="page21.html">Y</a> | <a href="page22.html">Z</a> </div> 
-</div>
-
-<div id="footer">
-	created using <a title="Bruji - A Mac's best friend" href="http://www.bruji.com/" onclick="window.open(this.href); return false"><strong>Bookpedia</strong></a> &middot;&middot;&middot;
-	template designed by <a title="Dan Friml - Professional design" href="http://www.friml.com/" onclick="window.open(this.href); return false"><strong>dan.friml.com</strong></a>
-	<span id="version">df.Metal.Box v1.0 &copy; 2007</span>
-</div>
-
-</div>
+<div class="credits">Last updated Feb 2, 2017 :: Exported from <a href="http://www.bruji.com/" title="Bruji, Chiguire LLC">Bruji</a>'s <a href="http://www.bruji.com/bookpedia/">Bookpedia</a> :: FancyIndex by <a href="http://www.twoevils.org/">April King</a></div>
 </body>
 </html>
