@@ -1104,7 +1104,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>dateAdded</key>
 		<date>2016-11-23T20:18:34Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:02Z</date>
+		<date>2017-02-06T02:13:05Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -1123,6 +1123,15 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780312857691</string>
+		<key>lastRead</key>
+		<date>2017-02-05T06:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2017-02-05T06:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>lowestNewPrice</key>
@@ -1130,7 +1139,7 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>lowestUsedPrice</key>
 		<string>$0.79</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>6</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
