@@ -2767,7 +2767,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>dateAdded</key>
 		<date>2016-12-29T02:28:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:12Z</date>
+		<date>2017-02-24T00:05:24Z</date>
 		<key>dimensions</key>
 		<string>24.2 x 16.4 x 0.3 cm</string>
 		<key>format</key>
@@ -3235,6 +3235,93 @@ By Robert Jordan and Amy Romanczuk
 	<key>144</key>
 	<dict>
 		<key>author</key>
+		<string>Robert Jordan, Harriet Mcdougal, Alan Romanczuk, Maria Simons</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-02-24T00:04:54Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-24T00:05:28Z</date>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Fiction, Epic, Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781466881235</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>816</string>
+		<key>publisher</key>
+		<string>Tor Books</string>
+		<key>releaseDate</key>
+		<date>2015-11-03T06:00:00Z</date>
+		<key>series</key>
+		<string>The Wheel of Time</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Since its debut in 1990, The Wheel of Time® by Robert Jordan has captivated millions of readers around the globe with its scope, originality, and compelling characters. 
+Over the course of fifteen books and millions of words, the world that Jordan created grew in depth and complexity. However, only a fraction of what Jordan imagined ended up on the page, the rest going into his personal files.
+Now "The Wheel of Time Companion" sheds light on some of the most intriguing aspects of the world, including biographies and motivations of many characters that never made it into the books, but helped bring Jordan's world to life.
+Included in the volume in an A-to-Z format are:
+An entry for each named character
+An inclusive dictionary of the Old Tongue
+New maps of the Last Battle
+New portraits of many characters
+Histories and customs of the nations of the world
+The strength level of many channelers
+Descriptions of the flora and fauna unique to the world
+And much more!
+"The Wheel of Time Companion" will be required reading for The Wheel of Time's millions of fans.
+The Wheel of Time®
+"New Spring: The Novel"
+#1 "The Eye of the World"
+#2 "The Great Hunt"
+#3 "The Dragon Reborn"
+#4 "The Shadow Rising"
+#5 "The Fires of Heaven"
+#6 "Lord of Chaos"
+#7 "A Crown of Swords"
+#8 "The Path of Daggers"
+#9 "Winter's Heart"
+#10 "Crossroads of Twilight"
+#11 "Knife of Dreams"
+By Robert Jordan and Brandon Sanderson
+#12 "The Gathering Storm"
+#13 "Towers of Midnight"
+#14 "A Memory of Light"
+By Robert Jordan and Teresa Patterson
+"The World of Robert Jordan's The Wheel of Time"
+By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
+"The Wheel of Time Companion"
+By Robert Jordan and Amy Romanczuk
+"Patterns of the Wheel: ""Coloring Art Based on Robert Jordan's The Wheel of Time"
+At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.</string>
+		<key>title</key>
+		<string>The Wheel of Time Companion: The People, Places, and History of the Bestselling Series</string>
+		<key>uid</key>
+		<integer>182</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Wheel-Time-Companion-History-Bestselling-ebook/dp/B00W190USK?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00W190USK</string>
+	</dict>
+	<key>145</key>
+	<dict>
+		<key>author</key>
 		<string>Frederic M. Wheelock</string>
 		<key>comic</key>
 		<integer>0</integer>
@@ -3293,7 +3380,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1132141</string>
 	</dict>
-	<key>145</key>
+	<key>146</key>
 	<dict>
 		<key>author</key>
 		<string>Michael Leach</string>
@@ -3352,7 +3439,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049851</string>
 	</dict>
-	<key>146</key>
+	<key>147</key>
 	<dict>
 		<key>asin</key>
 		<string>B000062UIH</string>
@@ -3425,7 +3512,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/22779</string>
 	</dict>
-	<key>147</key>
+	<key>148</key>
 	<dict>
 		<key>author</key>
 		<string>Paul T. Comeau</string>
@@ -3499,7 +3586,7 @@ Perforated pages for hand-in homework assignments and space for the student's na
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1142071</string>
 	</dict>
-	<key>148</key>
+	<key>149</key>
 	<dict>
 		<key>author</key>
 		<string>Max Brooks</string>
@@ -3580,61 +3667,6 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/23054</string>
 	</dict>
-	<key>149</key>
-	<dict>
-		<key>author</key>
-		<string>George Gowdy</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T21:30:24Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:30:50Z</date>
-		<key>dimensions</key>
-		<string>23.2 x 16.7 x 2.8 cm</string>
-		<key>format</key>
-		<string>Unknown Binding</string>
-		<key>genre</key>
-		<string>Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>illustrator</key>
-		<string>Howard Simon</string>
-		<key>isbn</key>
-		<string>9780964594715</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$70.00</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>201</string>
-		<key>placePublished</key>
-		<string>Eau Claire, Wisconsin</string>
-		<key>publisher</key>
-		<string>E.M. Hale and Company</string>
-		<key>releaseDate</key>
-		<date>1955-11-23T18:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>title</key>
-		<string>Young Buffalo Bill</string>
-		<key>uid</key>
-		<integer>156</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Adventures-Buffalo-Bill-Cody-Collection/dp/B0006QS78K?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006QS78K</string>
-	</dict>
 	<key>15</key>
 	<dict>
 		<key>author</key>
@@ -3711,6 +3743,61 @@ In the end, be warned: some books should never be found, never opened—until no
 		<string>http://doghouse.bruji.com/book/252136</string>
 	</dict>
 	<key>150</key>
+	<dict>
+		<key>author</key>
+		<string>George Gowdy</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-23T21:30:24Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:30:50Z</date>
+		<key>dimensions</key>
+		<string>23.2 x 16.7 x 2.8 cm</string>
+		<key>format</key>
+		<string>Unknown Binding</string>
+		<key>genre</key>
+		<string>Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Howard Simon</string>
+		<key>isbn</key>
+		<string>9780964594715</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$70.00</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>201</string>
+		<key>placePublished</key>
+		<string>Eau Claire, Wisconsin</string>
+		<key>publisher</key>
+		<string>E.M. Hale and Company</string>
+		<key>releaseDate</key>
+		<date>1955-11-23T18:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>title</key>
+		<string>Young Buffalo Bill</string>
+		<key>uid</key>
+		<integer>156</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Adventures-Buffalo-Bill-Cody-Collection/dp/B0006QS78K?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006QS78K</string>
+	</dict>
+	<key>151</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Jessup</string>
