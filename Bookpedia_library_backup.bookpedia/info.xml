@@ -1616,6 +1616,73 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 	<key>121</key>
 	<dict>
 		<key>author</key>
+		<string>Wizards RPG Team</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-03-10T04:52:37Z</date>
+		<key>dateEdited</key>
+		<date>2017-03-10T04:54:37Z</date>
+		<key>dimensions</key>
+		<string>28.4 x 21.6 x 2.2 cm</string>
+		<key>edition</key>
+		<string>26466th</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Science Fiction &amp; Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780786965601</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$21.99</string>
+		<key>lowestUsedPrice</key>
+		<string>$25.99</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>320</string>
+		<key>price</key>
+		<string>$49.95</string>
+		<key>publisher</key>
+		<string>Wizards of the Coast</string>
+		<key>releaseDate</key>
+		<date>2014-08-19T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Everything a player needs to create heroic characters for the world’s greatest roleplaying game
+ 
+The Player’s Handbook® is the essential reference for every Dungeons &amp; Dragons® roleplayer. It contains rules for character creation and advancement, backgrounds and skills, exploration and combat, equipment, spells, and much more.
+ 
+Use this book to create exciting characters from among the most iconic D&amp;D® races and classes.
+ 
+Dungeons &amp; Dragons immerses you in a world of adventure. Explore ancient ruins and deadly dungeons. Battle monsters while searching for legendary treasures. Gain experience and power as you trek across uncharted lands with your companions.
+ 
+The world needs heroes. Will you answer the call?</string>
+		<key>title</key>
+		<string>Player's Handbook</string>
+		<key>uid</key>
+		<integer>186</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0786965606</string>
+	</dict>
+	<key>122</key>
+	<dict>
+		<key>author</key>
 		<string>Pope Francis</string>
 		<key>comic</key>
 		<integer>0</integer>
@@ -1680,7 +1747,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049871</string>
 	</dict>
-	<key>122</key>
+	<key>123</key>
 	<dict>
 		<key>author</key>
 		<string>Charles S. Strong</string>
@@ -1741,7 +1808,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>https://www.amazon.com/Real-Book-About-Antarctic/dp/B004CQYGQW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004CQYGQW</string>
 	</dict>
-	<key>123</key>
+	<key>124</key>
 	<dict>
 		<key>author</key>
 		<string>Matthew Kelly</string>
@@ -1802,7 +1869,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://books.google.com/books?id=SNYSogEACAAJ</string>
 	</dict>
-	<key>124</key>
+	<key>125</key>
 	<dict>
 		<key>author</key>
 		<string>Nigel Rodgers, Hazel Dodge</string>
@@ -1861,7 +1928,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://books.google.com/books?id=DvtXPwAACAAJ</string>
 	</dict>
-	<key>125</key>
+	<key>126</key>
 	<dict>
 		<key>author</key>
 		<string>Bennet Kelley</string>
@@ -1930,7 +1997,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049881</string>
 	</dict>
-	<key>126</key>
+	<key>127</key>
 	<dict>
 		<key>author</key>
 		<string>Catholic Book Publishing Co</string>
@@ -1994,7 +2061,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780899425498</string>
 	</dict>
-	<key>127</key>
+	<key>128</key>
 	<dict>
 		<key>asin</key>
 		<string>0060580674</string>
@@ -2071,7 +2138,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3597</string>
 	</dict>
-	<key>128</key>
+	<key>129</key>
 	<dict>
 		<key>author</key>
 		<string>Nathaniel Hawthorne</string>
@@ -2139,59 +2206,6 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/28114</string>
-	</dict>
-	<key>129</key>
-	<dict>
-		<key>author</key>
-		<string>Jules Verne</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-12-02T02:00:31Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:16:20Z</date>
-		<key>dogTag</key>
-		<integer>1427191</integer>
-		<key>genre</key>
-		<string>Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781435122956</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>es</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>placePublished</key>
-		<string>New York</string>
-		<key>publisher</key>
-		<string>Barnes &amp; Noble</string>
-		<key>releaseDate</key>
-		<date>2010-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Science Fiction</string>
-		<key>title</key>
-		<string>Seven novels</string>
-		<key>uid</key>
-		<integer>164</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/1427191</string>
 	</dict>
 	<key>13</key>
 	<dict>
@@ -2265,6 +2279,59 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 	<key>130</key>
 	<dict>
 		<key>author</key>
+		<string>Jules Verne</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-12-02T02:00:31Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:16:20Z</date>
+		<key>dogTag</key>
+		<integer>1427191</integer>
+		<key>genre</key>
+		<string>Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781435122956</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>es</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>placePublished</key>
+		<string>New York</string>
+		<key>publisher</key>
+		<string>Barnes &amp; Noble</string>
+		<key>releaseDate</key>
+		<date>2010-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Science Fiction</string>
+		<key>title</key>
+		<string>Seven novels</string>
+		<key>uid</key>
+		<integer>164</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/1427191</string>
+	</dict>
+	<key>131</key>
+	<dict>
+		<key>author</key>
 		<string>Neal Stephenson</string>
 		<key>comic</key>
 		<integer>0</integer>
@@ -2324,7 +2391,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2158721</string>
 	</dict>
-	<key>131</key>
+	<key>132</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -2365,7 +2432,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>132</key>
+	<key>133</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854315</string>
@@ -2443,7 +2510,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/72673</string>
 	</dict>
-	<key>133</key>
+	<key>134</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -2512,7 +2579,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/928691</string>
 	</dict>
-	<key>134</key>
+	<key>135</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -2578,7 +2645,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/503011</string>
 	</dict>
-	<key>135</key>
+	<key>136</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -2637,7 +2704,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL8238530M</string>
 	</dict>
-	<key>136</key>
+	<key>137</key>
 	<dict>
 		<key>author</key>
 		<string>Donald F. Glut, James Kahn, George Lucas</string>
@@ -2692,7 +2759,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://books.google.com/books?id=YWEWjwEACAAJ</string>
 	</dict>
-	<key>137</key>
+	<key>138</key>
 	<dict>
 		<key>asin</key>
 		<string>0380792648</string>
@@ -2767,7 +2834,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3598</string>
 	</dict>
-	<key>138</key>
+	<key>139</key>
 	<dict>
 		<key>author</key>
 		<string>Sir Richard Francis Burton</string>
@@ -2834,7 +2901,73 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1767031</string>
 	</dict>
-	<key>139</key>
+	<key>14</key>
+	<dict>
+		<key>author</key>
+		<string>James Rollins</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:45:36Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:35:51Z</date>
+		<key>dimensions</key>
+		<string>19.10 cm x 10.60 cm x 3.70 cm</string>
+		<key>dogTag</key>
+		<integer>736391</integer>
+		<key>edition</key>
+		<string>Reprint</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062017895</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>622</string>
+		<key>placePublished</key>
+		<string>New York, NY</string>
+		<key>publisher</key>
+		<string>HarperCollins</string>
+		<key>rating</key>
+		<string>4</string>
+		<key>releaseDate</key>
+		<date>2006-01-01T06:00:00Z</date>
+		<key>series</key>
+		<string>Sigma Force</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fiction, Women Physicians, Special Forces (military Science)</string>
+		<key>summary</key>
+		<string>A fire in a Copenhagen bookstore ignites a relentless hunt across four continents. Commander Gray Pierce dives headlong into a mystery that dates back to Nazi Germany--and to horrific experiments performed in a now-abandoned laboratory buried in a hollowed-out mountain. Meanwhile, madness ravages a monastery in Nepal, as Buddhist monks turn to cannibalism and torture. Lisa Cummings, investigating the atrocity, is suddenly a target of a brutal assassin working for forces that want the affair buried. Lisa's only ally is a hidden pilgrim, Painter Crowe--director of SIGMA Force, an elite command of American scientists and Special Forces operatives--who is already showing signs of the malady that destroyed the monks. Now Pierce must save both Painter and Lisa, and a world in jeopardy--as SIGMA Force races to expose a century-old plot that threatens to destroy the current world order--and alter the destiny of humankind forever.--From publisher description.
+     Read more...</string>
+		<key>title</key>
+		<string>Black Order</string>
+		<key>uid</key>
+		<integer>20</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/736391</string>
+	</dict>
+	<key>140</key>
 	<dict>
 		<key>asin</key>
 		<string>0385493800</string>
@@ -2911,73 +3044,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/74879</string>
 	</dict>
-	<key>14</key>
-	<dict>
-		<key>author</key>
-		<string>James Rollins</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:45:36Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:35:51Z</date>
-		<key>dimensions</key>
-		<string>19.10 cm x 10.60 cm x 3.70 cm</string>
-		<key>dogTag</key>
-		<integer>736391</integer>
-		<key>edition</key>
-		<string>Reprint</string>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780062017895</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>622</string>
-		<key>placePublished</key>
-		<string>New York, NY</string>
-		<key>publisher</key>
-		<string>HarperCollins</string>
-		<key>rating</key>
-		<string>4</string>
-		<key>releaseDate</key>
-		<date>2006-01-01T06:00:00Z</date>
-		<key>series</key>
-		<string>Sigma Force</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fiction, Women Physicians, Special Forces (military Science)</string>
-		<key>summary</key>
-		<string>A fire in a Copenhagen bookstore ignites a relentless hunt across four continents. Commander Gray Pierce dives headlong into a mystery that dates back to Nazi Germany--and to horrific experiments performed in a now-abandoned laboratory buried in a hollowed-out mountain. Meanwhile, madness ravages a monastery in Nepal, as Buddhist monks turn to cannibalism and torture. Lisa Cummings, investigating the atrocity, is suddenly a target of a brutal assassin working for forces that want the affair buried. Lisa's only ally is a hidden pilgrim, Painter Crowe--director of SIGMA Force, an elite command of American scientists and Special Forces operatives--who is already showing signs of the malady that destroyed the monks. Now Pierce must save both Painter and Lisa, and a world in jeopardy--as SIGMA Force races to expose a century-old plot that threatens to destroy the current world order--and alter the destiny of humankind forever.--From publisher description.
-     Read more...</string>
-		<key>title</key>
-		<string>Black Order</string>
-		<key>uid</key>
-		<integer>20</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/736391</string>
-	</dict>
-	<key>140</key>
+	<key>141</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -3066,7 +3133,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/Towers-Midnight-Wheel-Time-Thirteen/dp/0765325942?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325942</string>
 	</dict>
-	<key>141</key>
+	<key>142</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Louis Stevenson</string>
@@ -3125,7 +3192,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://books.google.com/books?id=POCvDAEACAAJ</string>
 	</dict>
-	<key>142</key>
+	<key>143</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -3180,7 +3247,66 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/Unfinished-Tales-J-R-Tolkien/dp/B00A2M4VZG?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00A2M4VZG</string>
 	</dict>
-	<key>143</key>
+	<key>144</key>
+	<dict>
+		<key>author</key>
+		<string>Anne Rice</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-03-10T04:52:48Z</date>
+		<key>dateEdited</key>
+		<date>2017-03-10T04:55:13Z</date>
+		<key>dimensions</key>
+		<string>24.0 x 16.0 x 6.1 cm</string>
+		<key>format</key>
+		<string>Leather Bound</string>
+		<key>genre</key>
+		<string>Literature &amp; Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780307291653</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$13.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$5.97</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>1279</string>
+		<key>publisher</key>
+		<string>Alfred A. Knopf</string>
+		<key>series</key>
+		<string>The Vampire Chronicles</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>In 1976, nearly 80 years after Bram Stoker published Dracula, Anne Rice's bestselling first novel, Interview with the Vampire, breathed new life into the vampire myth. 
+
+Now, in one chilling volume, here are the first three classic novels of The Vampire Chronicles; Interview with the Vampire, The Vampire Lestat, and Queen of the Damned.
+
+All amazing stories in themselves, together this huge volume presents a classic work bound together into one attractively designed edition.</string>
+		<key>title</key>
+		<string>The Vampire Chronicles: Interview with a Vampire, Vampire Lestat and the Queen of the Damned</string>
+		<key>uid</key>
+		<integer>187</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Vampire-Chronicles-Interview-Leatherbound-Classics/dp/0307291650?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0307291650</string>
+	</dict>
+	<key>145</key>
 	<dict>
 		<key>author</key>
 		<string>Leo Tolstoy</string>
@@ -3253,7 +3379,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/5818</string>
 	</dict>
-	<key>144</key>
+	<key>146</key>
 	<dict>
 		<key>author</key>
 		<string>H. G. Wells</string>
@@ -3320,7 +3446,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1186031</string>
 	</dict>
-	<key>145</key>
+	<key>147</key>
 	<dict>
 		<key>author</key>
 		<string>Fr. Jonathan Morris</string>
@@ -3387,7 +3513,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049861</string>
 	</dict>
-	<key>146</key>
+	<key>148</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Harriet Mcdougal, Alan Romanczuk, Maria Simons</string>
@@ -3474,7 +3600,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>url</key>
 		<string>https://www.amazon.com/Wheel-Time-Companion-History-Bestselling-ebook/dp/B00W190USK?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00W190USK</string>
 	</dict>
-	<key>147</key>
+	<key>149</key>
 	<dict>
 		<key>author</key>
 		<string>Frederic M. Wheelock</string>
@@ -3534,138 +3660,6 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1132141</string>
-	</dict>
-	<key>148</key>
-	<dict>
-		<key>author</key>
-		<string>Michael Leach</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:20Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:30:58Z</date>
-		<key>dogTag</key>
-		<integer>2049851</integer>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780829435375</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>360</string>
-		<key>placePublished</key>
-		<string>Why stay Catholic? : unexpected answers to a life-changing question</string>
-		<key>publisher</key>
-		<string>Loyola Press</string>
-		<key>releaseDate</key>
-		<date>2011-03-15T05:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Catholic Church, Apologetic works, Membership</string>
-		<key>summary</key>
-		<string>National bestselling author Leach offers surprising, inspiring, and timely answers to the life-changing question, Why Stay Catholic? While other authors wax nostalgic about the way things used to be in the Church, Leach offers readers plenty of reasons to celebrate the Catholic faith.</string>
-		<key>title</key>
-		<string>Why Stay Catholic? : Unexpected Answers to a Life-Changing Question</string>
-		<key>uid</key>
-		<integer>56</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2049851</string>
-	</dict>
-	<key>149</key>
-	<dict>
-		<key>asin</key>
-		<string>B000062UIH</string>
-		<key>author</key>
-		<string>Robert Jordan</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-29T23:22:27Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:30:56Z</date>
-		<key>dewey</key>
-		<string>813.54</string>
-		<key>dimensions</key>
-		<string>2.00 x 9.80 x 6.20 in</string>
-		<key>dogTag</key>
-		<integer>22779</integer>
-		<key>edition</key>
-		<string>1st</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction, Epic, Fantasy</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780312864255</string>
-		<key>locale</key>
-		<string>US</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$7.96</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.79</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>625</string>
-		<key>price</key>
-		<string>$29.95</string>
-		<key>publisher</key>
-		<string>Tor Books</string>
-		<key>releaseDate</key>
-		<date>2000-10-31T06:00:00Z</date>
-		<key>series</key>
-		<string>The Wheel of Time</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fantasy, Fiction, Fiction - Fantasy, Fantasy - Series, Fantasy - Epic, Fiction / Fantasy / Epic, Fantasy Fiction, Rand Al'thor (fictitious Chara, Rand Al'thor (fictitious Character)</string>
-		<key>summary</key>
-		<string>The Wheel of Time turns and Ages come and go. What was, what will be, and what is, may yet fall under the Shadow.Let the Dragon ride again on the winds of time.</string>
-		<key>title</key>
-		<string>Winter's Heart</string>
-		<key>uid</key>
-		<integer>162</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/22779</string>
 	</dict>
 	<key>15</key>
 	<dict>
@@ -3745,6 +3739,138 @@ In the end, be warned: some books should never be found, never opened—until no
 	<key>150</key>
 	<dict>
 		<key>author</key>
+		<string>Michael Leach</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:20Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:30:58Z</date>
+		<key>dogTag</key>
+		<integer>2049851</integer>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780829435375</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>360</string>
+		<key>placePublished</key>
+		<string>Why stay Catholic? : unexpected answers to a life-changing question</string>
+		<key>publisher</key>
+		<string>Loyola Press</string>
+		<key>releaseDate</key>
+		<date>2011-03-15T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Catholic Church, Apologetic works, Membership</string>
+		<key>summary</key>
+		<string>National bestselling author Leach offers surprising, inspiring, and timely answers to the life-changing question, Why Stay Catholic? While other authors wax nostalgic about the way things used to be in the Church, Leach offers readers plenty of reasons to celebrate the Catholic faith.</string>
+		<key>title</key>
+		<string>Why Stay Catholic? : Unexpected Answers to a Life-Changing Question</string>
+		<key>uid</key>
+		<integer>56</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2049851</string>
+	</dict>
+	<key>151</key>
+	<dict>
+		<key>asin</key>
+		<string>B000062UIH</string>
+		<key>author</key>
+		<string>Robert Jordan</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-29T23:22:27Z</date>
+		<key>dateEdited</key>
+		<date>2017-03-10T04:53:16Z</date>
+		<key>dewey</key>
+		<string>813.54</string>
+		<key>dimensions</key>
+		<string>2.00 x 9.80 x 6.20 in</string>
+		<key>dogTag</key>
+		<integer>22779</integer>
+		<key>edition</key>
+		<string>1st</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Epic, Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780312864255</string>
+		<key>locale</key>
+		<string>US</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$7.96</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.79</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>625</string>
+		<key>price</key>
+		<string>$29.95</string>
+		<key>publisher</key>
+		<string>Tor Books</string>
+		<key>releaseDate</key>
+		<date>2000-10-31T06:00:00Z</date>
+		<key>series</key>
+		<string>The Wheel of Time</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fantasy, Fiction, Fiction - Fantasy, Fantasy - Series, Fantasy - Epic, Fiction / Fantasy / Epic, Fantasy Fiction, Rand Al'thor (fictitious Chara, Rand Al'thor (fictitious Character)</string>
+		<key>summary</key>
+		<string>The Wheel of Time turns and Ages come and go. What was, what will be, and what is, may yet fall under the Shadow.Let the Dragon ride again on the winds of time.</string>
+		<key>title</key>
+		<string>Winter's Heart</string>
+		<key>uid</key>
+		<integer>162</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/22779</string>
+	</dict>
+	<key>152</key>
+	<dict>
+		<key>author</key>
 		<string>Paul T. Comeau</string>
 		<key>comic</key>
 		<integer>0</integer>
@@ -3816,7 +3942,96 @@ Perforated pages for hand-in homework assignments and space for the student's na
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1142071</string>
 	</dict>
-	<key>151</key>
+	<key>153</key>
+	<dict>
+		<key>author</key>
+		<string>Robert Jordan, Teresa Patterson</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-03-10T04:52:27Z</date>
+		<key>dateEdited</key>
+		<date>2017-03-10T04:53:20Z</date>
+		<key>dimensions</key>
+		<string>21.8 x 54.2 x 27.7 cm</string>
+		<key>edition</key>
+		<string>Reissue</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Fiction, Epic, Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780312869366</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$7.99</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.49</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>304</string>
+		<key>price</key>
+		<string>$25.99</string>
+		<key>publisher</key>
+		<string>Tor Books</string>
+		<key>releaseDate</key>
+		<date>2001-11-10T06:00:00Z</date>
+		<key>series</key>
+		<string>The Wheel of Time</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Since its debut in 1990, The Wheel of Time® by Robert Jordan has captivated millions of readers around the globe with its scope, originality, and compelling characters.
+The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
+In this series companion book, over fourscore full color paintings include stunning new maps of the world, portraits of the central characters, landscapes, objects of Power, and national flags. The reader will learn about the exotic beasts used by the Seanchan and read of the rise and fall of Artur Hawking, peruse the deeper story of the War of the Shadow. Here is the tale of the founding of the White Tower, and the creation of the Ajahs. 
+The inner workings of the closed country, Shara, are revealed, as is the existence of a hitherto unknown continent called The Land of the Madmen. This stunning volume also includes double-page spreads of the seven book jackets by Darrell Sweet so that the art can be enjoyed without type, and all the known maps of the world, including maps of the Seanchan Empire, the nations of the Covenant of the Ten Nations, and the nations as they were when Artur Paendrag Tanreall began his rise to legend. 
+Every Robert Jordan fan needs this book. 
+
+The Wheel of Time®
+"New Spring: The Novel"
+#1 "The Eye of the World"
+#2 "The Great Hunt"
+#3 "The Dragon Reborn"
+#4 "The Shadow Rising"
+#5 "The Fires of Heaven"
+#6 "Lord of Chaos"
+#7 "A Crown of Swords"
+#8 "The Path of Daggers"
+#9 "Winter's Heart"
+#10 "Crossroads of Twilight"
+#11 "Knife of Dreams"
+By Robert Jordan and Brandon Sanderson
+#12 "The Gathering Storm"
+#13 "Towers of Midnight"
+#14 "A Memory of Light"
+By Robert Jordan and Teresa Patterson
+"The World of Robert Jordan's The Wheel of Time"
+By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
+"The Wheel of Time Companion"
+By Robert Jordan and Amy Romanczuk
+"Patterns of the Wheel: ""Coloring Art Based on Robert Jordan's The Wheel of Time"</string>
+		<key>title</key>
+		<string>The World of Robert Jordan's The Wheel of Time</string>
+		<key>uid</key>
+		<integer>185</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/World-Robert-Jordans-Wheel-Time/dp/0312869363?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0312869363</string>
+	</dict>
+	<key>154</key>
 	<dict>
 		<key>author</key>
 		<string>Max Brooks</string>
@@ -3897,7 +4112,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/23054</string>
 	</dict>
-	<key>152</key>
+	<key>155</key>
 	<dict>
 		<key>author</key>
 		<string>George Gowdy</string>
@@ -3952,7 +4167,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>https://www.amazon.com/Adventures-Buffalo-Bill-Cody-Collection/dp/B0006QS78K?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006QS78K</string>
 	</dict>
-	<key>153</key>
+	<key>156</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Jessup</string>
