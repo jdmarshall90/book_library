@@ -154,6 +154,89 @@
 	<key>100</key>
 	<dict>
 		<key>asin</key>
+		<string>0061230944</string>
+		<key>author</key>
+		<string>James Rollins</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:45:37Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:32:46Z</date>
+		<key>dewey</key>
+		<string>813.54</string>
+		<key>dimensions</key>
+		<string>1.50 x 5.70 x 5.30 in</string>
+		<key>dogTag</key>
+		<integer>27449</integer>
+		<key>edition</key>
+		<string>1</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780061230943</string>
+		<key>language</key>
+		<string>English (Unknown), English (Original Language), English (Published)</string>
+		<key>locale</key>
+		<string>US</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$4.37</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>434</string>
+		<key>price</key>
+		<string>$26.95</string>
+		<key>publisher</key>
+		<string>HarperAudio</string>
+		<key>rating</key>
+		<string>10</string>
+		<key>releaseDate</key>
+		<date>2008-07-01T05:00:00Z</date>
+		<key>series</key>
+		<string>Sigma Force</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fiction, Science Fiction, Thrillers, American Mystery &amp; Suspense Fiction, Fiction - Espionage / Thriller, Fiction / Thrillers, Suspense Fiction, Bioterrorism</string>
+		<key>summary</key>
+		<string>What if you could bioengineer the next great world prophet: scientifically produce the next Buddha, the next Muhammad, or the next Jesus? Would it mark the Second Coming or initiate a chain reaction with disastrous consequences?  
+ A master at combining historical and religious intrigue with edge-of-your-seat adventure, "New York Times" bestselling author James Rollins brings back SIGMA Force to battle a group of rogue scientists who've unleashed a bioengineering project that could bring about the extinction of humankind.  
+ In Washington, D.C., a homeless man dies in Commander Gray Pierce's arms, shot by an assassin's bullet. But the death leaves behind a greater mystery: a bloody coin found clutched in the dead man's hand, an ancient relic that can be traced back to the Greek Oracle of Delphi. As ruthless hunters search for the stolen artifact, Gray Pierce discovers that the coin is the key to unlocking a plot that dates back to the Cold War and threatens the very foundation of humanity.  
+ An international think tank of scientists known as the Jasons has discovered a way to bioengineer autistic children who show savant talents—mathematical geniuses, statistical masterminds, brilliant conceptual artists—into something far greater and far more "frightening", in hopes of creating a world prophet for the new millennium, one to be manipulated to create a new era of global peace . . . a peace on their own terms.  
+ Halfway around the world, a man wakes up in a hospital bed with no memory of who he is, knowing only that he's a prisoner in a subterranean research facility. With the help of three unusual children, he makes his escape across a mountainous and radioactive countryside, pursued by savage hunters bred in the same laboratory. But his goal is not escape, nor even survival. In order to thwart a plot to wipe out a quarter of the world's population, he must sacrifice all, even the children who rescued him.  
+ From ancient Greek temples to glittering mausoleums, from the slums of India to the toxic ruins of Russia, two men must race against time to solve a mystery that dates back to the first famous oracle of history—the Greek Oracle of Delphi.  
+ But one question remains: "Will the past be enough to save the future?"</string>
+		<key>title</key>
+		<string>The Last Oracle</string>
+		<key>uid</key>
+		<integer>21</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/27449</string>
+	</dict>
+	<key>101</key>
+	<dict>
+		<key>asin</key>
 		<string>1444729705</string>
 		<key>author</key>
 		<string>John Grisham</string>
@@ -216,7 +299,7 @@
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/75023</string>
 	</dict>
-	<key>101</key>
+	<key>102</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854285</string>
@@ -297,7 +380,7 @@ In this sequel to the phenomenal "New York Times" bestseller "The Fires of Heave
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/73904</string>
 	</dict>
-	<key>102</key>
+	<key>103</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -371,7 +454,7 @@ In this sequel to the phenomenal "New York Times" bestseller "The Fires of Heave
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/516561</string>
 	</dict>
-	<key>103</key>
+	<key>104</key>
 	<dict>
 		<key>asin</key>
 		<string>0679740678</string>
@@ -448,7 +531,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/977</string>
 	</dict>
-	<key>104</key>
+	<key>105</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -511,7 +594,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049791</string>
 	</dict>
-	<key>105</key>
+	<key>106</key>
 	<dict>
 		<key>author</key>
 		<string>Andy Weir</string>
@@ -581,7 +664,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1452331</string>
 	</dict>
-	<key>106</key>
+	<key>107</key>
 	<dict>
 		<key>author</key>
 		<string>Lisa Swerling, Ralph Lazar</string>
@@ -634,7 +717,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://books.google.com/books?id=qN_IGi2qu1kC</string>
 	</dict>
-	<key>107</key>
+	<key>108</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -721,7 +804,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>url</key>
 		<string>https://www.amazon.com/Memory-Light-Wheel-Time-Book/dp/0765325950?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325950</string>
 	</dict>
-	<key>108</key>
+	<key>109</key>
 	<dict>
 		<key>author</key>
 		<string>James Walker</string>
@@ -781,63 +864,6 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://books.google.com/books?id=VRTFoAEACAAJ</string>
-	</dict>
-	<key>109</key>
-	<dict>
-		<key>author</key>
-		<string>Gus Lloyd</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:29Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:32:23Z</date>
-		<key>dimensions</key>
-		<string>20.30 cm x 13.30 cm x 0.60 cm</string>
-		<key>format</key>
-		<string>Pamphlet</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780615420950</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$24.34</string>
-		<key>lowestUsedPrice</key>
-		<string>$8.09</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>46</string>
-		<key>publisher</key>
-		<string>Gus Lloyd</string>
-		<key>rating</key>
-		<string>4.5</string>
-		<key>releaseDate</key>
-		<date>2010-12-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>One minute Catholic apologetics teachings</string>
-		<key>title</key>
-		<string>A Minute in the Church</string>
-		<key>uid</key>
-		<integer>60</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://books.google.com/books?id=soSluQAACAAJ</string>
 	</dict>
 	<key>11</key>
 	<dict>
@@ -919,6 +945,63 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 	<key>110</key>
 	<dict>
 		<key>author</key>
+		<string>Gus Lloyd</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:29Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:32:23Z</date>
+		<key>dimensions</key>
+		<string>20.30 cm x 13.30 cm x 0.60 cm</string>
+		<key>format</key>
+		<string>Pamphlet</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780615420950</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$24.34</string>
+		<key>lowestUsedPrice</key>
+		<string>$8.09</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>46</string>
+		<key>publisher</key>
+		<string>Gus Lloyd</string>
+		<key>rating</key>
+		<string>4.5</string>
+		<key>releaseDate</key>
+		<date>2010-12-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>One minute Catholic apologetics teachings</string>
+		<key>title</key>
+		<string>A Minute in the Church</string>
+		<key>uid</key>
+		<integer>60</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://books.google.com/books?id=soSluQAACAAJ</string>
+	</dict>
+	<key>111</key>
+	<dict>
+		<key>author</key>
 		<string>Robert Jordan</string>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -979,7 +1062,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>url</key>
 		<string>https://www.amazon.com/Spring-Wheel-Time-Prequel-Novel/dp/B000ENWILW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000ENWILW</string>
 	</dict>
-	<key>111</key>
+	<key>112</key>
 	<dict>
 		<key>comments</key>
 		<string>I am pretty sure Uncle Bob Starbody gave this to me.</string>
@@ -1012,7 +1095,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>112</key>
+	<key>113</key>
 	<dict>
 		<key>author</key>
 		<string>World Bible Publishing St</string>
@@ -1084,7 +1167,7 @@ Red letter (except 2401)</string>
 		<key>url</key>
 		<string>https://www.amazon.com/American-Bible-Revised-Psalms-Testament/dp/0529064847?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0529064847</string>
 	</dict>
-	<key>113</key>
+	<key>114</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -1133,7 +1216,7 @@ Red letter (except 2401)</string>
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL12315056M</string>
 	</dict>
-	<key>114</key>
+	<key>115</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -1168,7 +1251,7 @@ Red letter (except 2401)</string>
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>115</key>
+	<key>116</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -1217,7 +1300,7 @@ Red letter (except 2401)</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Testament-Proverbs-International-Published-Publishing/dp/B00IKFD702?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00IKFD702</string>
 	</dict>
-	<key>116</key>
+	<key>117</key>
 	<dict>
 		<key>author</key>
 		<string>Seminars Unlimited</string>
@@ -1274,7 +1357,7 @@ Red letter (except 2401)</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Holy-Bible-King-James-Version/dp/B000H3VC0M?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000H3VC0M</string>
 	</dict>
-	<key>117</key>
+	<key>118</key>
 	<dict>
 		<key>author</key>
 		<string>Eberhard Nestle</string>
@@ -1329,7 +1412,7 @@ Red letter (except 2401)</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2057991</string>
 	</dict>
-	<key>118</key>
+	<key>119</key>
 	<dict>
 		<key>author</key>
 		<string>Douglas Brinkley</string>
@@ -1390,7 +1473,68 @@ Red letter (except 2401)</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049841</string>
 	</dict>
-	<key>119</key>
+	<key>12</key>
+	<dict>
+		<key>author</key>
+		<string>James Walker</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:48:51Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:35:56Z</date>
+		<key>dimensions</key>
+		<string>22.90 cm x 15.20 cm x 1.50 cm</string>
+		<key>edition</key>
+		<string>1</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Fiction, Science Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781508948360</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$9.20</string>
+		<key>lowestUsedPrice</key>
+		<string>$11.48</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>290</string>
+		<key>price</key>
+		<string>$11.98</string>
+		<key>publisher</key>
+		<string>CreateSpace Independent Publishing Platform</string>
+		<key>releaseDate</key>
+		<date>2015-03-25T05:00:00Z</date>
+		<key>series</key>
+		<string>Messenger</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Victory is short-lived for the colonial forces on the world of Chalice when the Theran Union launches a devastating counterattack, employing its full power to stamp out the rebellion for good. In desperation, the new colonial government unleashes a plague, bringing widespread death and destruction to the imperial occupiers and its own citizens alike. Janice Runner is but one of many victims forced to wander a plague-infested wasteland as the two despotic regimes engage in a death struggle for control of Chalice. Her only hope of salvation lies with an idealistic rebel named Vic Shown and his allies in the resistance movement. But even they cannot save her from an alien voice growing inside her mind, promising her release if only she will allow it to draw out the monster that lies dormant inside her.</string>
+		<key>title</key>
+		<string>Berserker</string>
+		<key>uid</key>
+		<integer>40</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://books.google.com/books?id=Yp1MrgEACAAJ</string>
+	</dict>
+	<key>120</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -1476,68 +1620,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/70026</string>
 	</dict>
-	<key>12</key>
-	<dict>
-		<key>author</key>
-		<string>James Walker</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:48:51Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:35:56Z</date>
-		<key>dimensions</key>
-		<string>22.90 cm x 15.20 cm x 1.50 cm</string>
-		<key>edition</key>
-		<string>1</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Fiction, Science Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781508948360</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$9.20</string>
-		<key>lowestUsedPrice</key>
-		<string>$11.48</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>290</string>
-		<key>price</key>
-		<string>$11.98</string>
-		<key>publisher</key>
-		<string>CreateSpace Independent Publishing Platform</string>
-		<key>releaseDate</key>
-		<date>2015-03-25T05:00:00Z</date>
-		<key>series</key>
-		<string>Messenger</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>Victory is short-lived for the colonial forces on the world of Chalice when the Theran Union launches a devastating counterattack, employing its full power to stamp out the rebellion for good. In desperation, the new colonial government unleashes a plague, bringing widespread death and destruction to the imperial occupiers and its own citizens alike. Janice Runner is but one of many victims forced to wander a plague-infested wasteland as the two despotic regimes engage in a death struggle for control of Chalice. Her only hope of salvation lies with an idealistic rebel named Vic Shown and his allies in the resistance movement. But even they cannot save her from an alien voice growing inside her mind, promising her release if only she will allow it to draw out the monster that lies dormant inside her.</string>
-		<key>title</key>
-		<string>Berserker</string>
-		<key>uid</key>
-		<integer>40</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://books.google.com/books?id=Yp1MrgEACAAJ</string>
-	</dict>
-	<key>120</key>
+	<key>121</key>
 	<dict>
 		<key>author</key>
 		<string>John Grisham</string>
@@ -1612,7 +1695,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/6152</string>
 	</dict>
-	<key>121</key>
+	<key>122</key>
 	<dict>
 		<key>asin</key>
 		<string>0141199490</string>
@@ -1678,7 +1761,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>https://www.amazon.com/Penguin-English-Library-Picture-Dorian/dp/0141199490?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0141199490</string>
 	</dict>
-	<key>122</key>
+	<key>123</key>
 	<dict>
 		<key>author</key>
 		<string>Wizards RPG Team</string>
@@ -1745,7 +1828,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0786965606</string>
 	</dict>
-	<key>123</key>
+	<key>124</key>
 	<dict>
 		<key>author</key>
 		<string>Pope Francis</string>
@@ -1812,7 +1895,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049871</string>
 	</dict>
-	<key>124</key>
+	<key>125</key>
 	<dict>
 		<key>author</key>
 		<string>Charles S. Strong</string>
@@ -1873,7 +1956,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Real-Book-About-Antarctic/dp/B004CQYGQW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004CQYGQW</string>
 	</dict>
-	<key>125</key>
+	<key>126</key>
 	<dict>
 		<key>author</key>
 		<string>Matthew Kelly</string>
@@ -1934,7 +2017,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://books.google.com/books?id=SNYSogEACAAJ</string>
 	</dict>
-	<key>126</key>
+	<key>127</key>
 	<dict>
 		<key>author</key>
 		<string>Nigel Rodgers, Hazel Dodge</string>
@@ -1993,7 +2076,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://books.google.com/books?id=DvtXPwAACAAJ</string>
 	</dict>
-	<key>127</key>
+	<key>128</key>
 	<dict>
 		<key>author</key>
 		<string>Bennet Kelley</string>
@@ -2062,7 +2145,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049881</string>
 	</dict>
-	<key>128</key>
+	<key>129</key>
 	<dict>
 		<key>author</key>
 		<string>Catholic Book Publishing Co</string>
@@ -2126,7 +2209,76 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780899425498</string>
 	</dict>
-	<key>129</key>
+	<key>13</key>
+	<dict>
+		<key>author</key>
+		<string>Jeffrey C Geoghegan</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:51:34Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:35:54Z</date>
+		<key>dimensions</key>
+		<string>23.6 x 18.8 x 2.2 cm</string>
+		<key>dogTag</key>
+		<integer>2049891</integer>
+		<key>edition</key>
+		<string>1</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Reference</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780764552960</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$13.98</string>
+		<key>lowestUsedPrice</key>
+		<string>$1.15</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>432</string>
+		<key>placePublished</key>
+		<string>The Bible for dummies</string>
+		<key>price</key>
+		<string>$21.99</string>
+		<key>publisher</key>
+		<string>Wiley Pub</string>
+		<key>releaseDate</key>
+		<date>2003-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Bible, Introductions</string>
+		<key>summary</key>
+		<string>Offers a guide on how to read sections of the Old and New Testaments, gives advice on how to apply the wisdom of the Bible to everyday life, and provides tips on how to find passages on a range of topics.</string>
+		<key>title</key>
+		<string>The Bible for dummies</string>
+		<key>uid</key>
+		<integer>70</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2049891</string>
+	</dict>
+	<key>130</key>
 	<dict>
 		<key>asin</key>
 		<string>0060580674</string>
@@ -2203,76 +2355,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3597</string>
 	</dict>
-	<key>13</key>
-	<dict>
-		<key>author</key>
-		<string>Jeffrey C Geoghegan</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:51:34Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:35:54Z</date>
-		<key>dimensions</key>
-		<string>23.6 x 18.8 x 2.2 cm</string>
-		<key>dogTag</key>
-		<integer>2049891</integer>
-		<key>edition</key>
-		<string>1</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Reference</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780764552960</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$13.98</string>
-		<key>lowestUsedPrice</key>
-		<string>$1.15</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>432</string>
-		<key>placePublished</key>
-		<string>The Bible for dummies</string>
-		<key>price</key>
-		<string>$21.99</string>
-		<key>publisher</key>
-		<string>Wiley Pub</string>
-		<key>releaseDate</key>
-		<date>2003-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Bible, Introductions</string>
-		<key>summary</key>
-		<string>Offers a guide on how to read sections of the Old and New Testaments, gives advice on how to apply the wisdom of the Bible to everyday life, and provides tips on how to find passages on a range of topics.</string>
-		<key>title</key>
-		<string>The Bible for dummies</string>
-		<key>uid</key>
-		<integer>70</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2049891</string>
-	</dict>
-	<key>130</key>
+	<key>131</key>
 	<dict>
 		<key>author</key>
 		<string>Nathaniel Hawthorne</string>
@@ -2341,7 +2424,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/28114</string>
 	</dict>
-	<key>131</key>
+	<key>132</key>
 	<dict>
 		<key>author</key>
 		<string>Jules Verne</string>
@@ -2394,7 +2477,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1427191</string>
 	</dict>
-	<key>132</key>
+	<key>133</key>
 	<dict>
 		<key>author</key>
 		<string>Neal Stephenson</string>
@@ -2456,7 +2539,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2158721</string>
 	</dict>
-	<key>133</key>
+	<key>134</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -2497,7 +2580,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>134</key>
+	<key>135</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854315</string>
@@ -2575,7 +2658,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/72673</string>
 	</dict>
-	<key>135</key>
+	<key>136</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -2644,7 +2727,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/928691</string>
 	</dict>
-	<key>136</key>
+	<key>137</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -2710,7 +2793,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/503011</string>
 	</dict>
-	<key>137</key>
+	<key>138</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
@@ -2769,7 +2852,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL8238530M</string>
 	</dict>
-	<key>138</key>
+	<key>139</key>
 	<dict>
 		<key>author</key>
 		<string>Donald F. Glut, James Kahn, George Lucas</string>
@@ -2824,7 +2907,73 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://books.google.com/books?id=YWEWjwEACAAJ</string>
 	</dict>
-	<key>139</key>
+	<key>14</key>
+	<dict>
+		<key>author</key>
+		<string>James Rollins</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:45:36Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:35:51Z</date>
+		<key>dimensions</key>
+		<string>19.10 cm x 10.60 cm x 3.70 cm</string>
+		<key>dogTag</key>
+		<integer>736391</integer>
+		<key>edition</key>
+		<string>Reprint</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062017895</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>622</string>
+		<key>placePublished</key>
+		<string>New York, NY</string>
+		<key>publisher</key>
+		<string>HarperCollins</string>
+		<key>rating</key>
+		<string>4</string>
+		<key>releaseDate</key>
+		<date>2006-01-01T06:00:00Z</date>
+		<key>series</key>
+		<string>Sigma Force</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fiction, Women Physicians, Special Forces (military Science)</string>
+		<key>summary</key>
+		<string>A fire in a Copenhagen bookstore ignites a relentless hunt across four continents. Commander Gray Pierce dives headlong into a mystery that dates back to Nazi Germany--and to horrific experiments performed in a now-abandoned laboratory buried in a hollowed-out mountain. Meanwhile, madness ravages a monastery in Nepal, as Buddhist monks turn to cannibalism and torture. Lisa Cummings, investigating the atrocity, is suddenly a target of a brutal assassin working for forces that want the affair buried. Lisa's only ally is a hidden pilgrim, Painter Crowe--director of SIGMA Force, an elite command of American scientists and Special Forces operatives--who is already showing signs of the malady that destroyed the monks. Now Pierce must save both Painter and Lisa, and a world in jeopardy--as SIGMA Force races to expose a century-old plot that threatens to destroy the current world order--and alter the destiny of humankind forever.--From publisher description.
+     Read more...</string>
+		<key>title</key>
+		<string>Black Order</string>
+		<key>uid</key>
+		<integer>20</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/736391</string>
+	</dict>
+	<key>140</key>
 	<dict>
 		<key>asin</key>
 		<string>0380792648</string>
@@ -2899,73 +3048,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3598</string>
 	</dict>
-	<key>14</key>
-	<dict>
-		<key>author</key>
-		<string>James Rollins</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:45:36Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:35:51Z</date>
-		<key>dimensions</key>
-		<string>19.10 cm x 10.60 cm x 3.70 cm</string>
-		<key>dogTag</key>
-		<integer>736391</integer>
-		<key>edition</key>
-		<string>Reprint</string>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780062017895</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>622</string>
-		<key>placePublished</key>
-		<string>New York, NY</string>
-		<key>publisher</key>
-		<string>HarperCollins</string>
-		<key>rating</key>
-		<string>4</string>
-		<key>releaseDate</key>
-		<date>2006-01-01T06:00:00Z</date>
-		<key>series</key>
-		<string>Sigma Force</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fiction, Women Physicians, Special Forces (military Science)</string>
-		<key>summary</key>
-		<string>A fire in a Copenhagen bookstore ignites a relentless hunt across four continents. Commander Gray Pierce dives headlong into a mystery that dates back to Nazi Germany--and to horrific experiments performed in a now-abandoned laboratory buried in a hollowed-out mountain. Meanwhile, madness ravages a monastery in Nepal, as Buddhist monks turn to cannibalism and torture. Lisa Cummings, investigating the atrocity, is suddenly a target of a brutal assassin working for forces that want the affair buried. Lisa's only ally is a hidden pilgrim, Painter Crowe--director of SIGMA Force, an elite command of American scientists and Special Forces operatives--who is already showing signs of the malady that destroyed the monks. Now Pierce must save both Painter and Lisa, and a world in jeopardy--as SIGMA Force races to expose a century-old plot that threatens to destroy the current world order--and alter the destiny of humankind forever.--From publisher description.
-     Read more...</string>
-		<key>title</key>
-		<string>Black Order</string>
-		<key>uid</key>
-		<integer>20</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/736391</string>
-	</dict>
-	<key>140</key>
+	<key>141</key>
 	<dict>
 		<key>author</key>
 		<string>Sir Richard Francis Burton</string>
@@ -3032,7 +3115,7 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1767031</string>
 	</dict>
-	<key>141</key>
+	<key>142</key>
 	<dict>
 		<key>asin</key>
 		<string>0385493800</string>
@@ -3109,7 +3192,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/74879</string>
 	</dict>
-	<key>142</key>
+	<key>143</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -3198,7 +3281,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/Towers-Midnight-Wheel-Time-Thirteen/dp/0765325942?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325942</string>
 	</dict>
-	<key>143</key>
+	<key>144</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Louis Stevenson</string>
@@ -3257,7 +3340,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://books.google.com/books?id=POCvDAEACAAJ</string>
 	</dict>
-	<key>144</key>
+	<key>145</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -3312,7 +3395,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/Unfinished-Tales-J-R-Tolkien/dp/B00A2M4VZG?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00A2M4VZG</string>
 	</dict>
-	<key>145</key>
+	<key>146</key>
 	<dict>
 		<key>author</key>
 		<string>Anne Rice</string>
@@ -3371,7 +3454,7 @@ All amazing stories in themselves, together this huge volume presents a classic 
 		<key>url</key>
 		<string>https://www.amazon.com/Vampire-Chronicles-Interview-Leatherbound-Classics/dp/0307291650?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0307291650</string>
 	</dict>
-	<key>146</key>
+	<key>147</key>
 	<dict>
 		<key>author</key>
 		<string>Leo Tolstoy</string>
@@ -3444,7 +3527,7 @@ All amazing stories in themselves, together this huge volume presents a classic 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/5818</string>
 	</dict>
-	<key>147</key>
+	<key>148</key>
 	<dict>
 		<key>author</key>
 		<string>H. G. Wells</string>
@@ -3511,7 +3594,7 @@ All amazing stories in themselves, together this huge volume presents a classic 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1186031</string>
 	</dict>
-	<key>148</key>
+	<key>149</key>
 	<dict>
 		<key>author</key>
 		<string>Fr. Jonathan Morris</string>
@@ -3578,7 +3661,82 @@ All amazing stories in themselves, together this huge volume presents a classic 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049861</string>
 	</dict>
-	<key>149</key>
+	<key>15</key>
+	<dict>
+		<key>author</key>
+		<string>James Rollins, Rebecca Cantrell</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-19T01:33:17Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:35:49Z</date>
+		<key>dimensions</key>
+		<string>1.80 x 6.00 x 9.00 in</string>
+		<key>dogTag</key>
+		<integer>252136</integer>
+		<key>edition</key>
+		<string>ARC</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780061991042</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$2.61</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>496</string>
+		<key>price</key>
+		<string>$27.99</string>
+		<key>publisher</key>
+		<string>William Morrow</string>
+		<key>releaseDate</key>
+		<date>2013-01-08T06:00:00Z</date>
+		<key>series</key>
+		<string>The Order of the Sanguines</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Suspense</string>
+		<key>summary</key>
+		<string>n his first-ever collaboration, New York Times bestselling author James Rollins combines his skill for cutting-edge science and historical mystery with award-winning novelist Rebecca Cantrell's talent for haunting suspense and sensual atmosphere in a gothic tale about an ancient order and the hunt for a miraculous book known only as . . . The Blood Gospel
+
+An earthquake in Masada, Israel, kills hundreds and reveals a tomb buried in the heart of the mountain. A trio of investigators—Sergeant Jordan Stone, a military forensic expert; Father Rhun Korza, a Vatican priest; and Dr. Erin Granger, a brilliant but disillusioned archaeologist—are sent to explore the macabre discovery, a subterranean temple holding the crucified body of a mummified girl.
+
+But a brutal attack at the site sets the three on the run, thrusting them into a race to recover what was once preserved in the tomb's sarcophagus: a book rumored to have been written by Christ's own hand, a tome that is said to hold the secrets to His divinity. The enemy who hounds them is like no other, a force of ancient evil directed by a leader of impossible ambitions and incalculable cunning.
+
+From crumbling tombs to splendorous churches, Erin and her two companions must confront a past that traces back thousands of years, to a time when ungodly beasts hunted the dark spaces of the world, to a moment in history when Christ made a miraculous offer, a pact of salvation for those who were damned for eternity.
+
+Here is a novel that is explosive in its revelation of a secret history. Why do Catholic priests wear pectoral crosses? Why are they sworn to celibacy? Why do the monks hide their countenances under hoods? And why does Catholicism insist that the consecration of wine during Mass results in its transformation to Christ's own blood? The answers to all go back to a secret sect within the Vatican, one whispered as rumor but whose very existence was painted for all to see by Rembrandt himself, a shadowy order known simply as the Sanguines.
+
+In the end, be warned: some books should never be found, never opened—until now.</string>
+		<key>title</key>
+		<string>The Blood Gospel</string>
+		<key>uid</key>
+		<integer>81</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/252136</string>
+	</dict>
+	<key>150</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Harriet Mcdougal, Alan Romanczuk, Maria Simons</string>
@@ -3665,82 +3823,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>url</key>
 		<string>https://www.amazon.com/Wheel-Time-Companion-History-Bestselling-ebook/dp/B00W190USK?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00W190USK</string>
 	</dict>
-	<key>15</key>
-	<dict>
-		<key>author</key>
-		<string>James Rollins, Rebecca Cantrell</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-19T01:33:17Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:35:49Z</date>
-		<key>dimensions</key>
-		<string>1.80 x 6.00 x 9.00 in</string>
-		<key>dogTag</key>
-		<integer>252136</integer>
-		<key>edition</key>
-		<string>ARC</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780061991042</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$2.61</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>496</string>
-		<key>price</key>
-		<string>$27.99</string>
-		<key>publisher</key>
-		<string>William Morrow</string>
-		<key>releaseDate</key>
-		<date>2013-01-08T06:00:00Z</date>
-		<key>series</key>
-		<string>The Order of the Sanguines</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Suspense</string>
-		<key>summary</key>
-		<string>n his first-ever collaboration, New York Times bestselling author James Rollins combines his skill for cutting-edge science and historical mystery with award-winning novelist Rebecca Cantrell's talent for haunting suspense and sensual atmosphere in a gothic tale about an ancient order and the hunt for a miraculous book known only as . . . The Blood Gospel
-
-An earthquake in Masada, Israel, kills hundreds and reveals a tomb buried in the heart of the mountain. A trio of investigators—Sergeant Jordan Stone, a military forensic expert; Father Rhun Korza, a Vatican priest; and Dr. Erin Granger, a brilliant but disillusioned archaeologist—are sent to explore the macabre discovery, a subterranean temple holding the crucified body of a mummified girl.
-
-But a brutal attack at the site sets the three on the run, thrusting them into a race to recover what was once preserved in the tomb's sarcophagus: a book rumored to have been written by Christ's own hand, a tome that is said to hold the secrets to His divinity. The enemy who hounds them is like no other, a force of ancient evil directed by a leader of impossible ambitions and incalculable cunning.
-
-From crumbling tombs to splendorous churches, Erin and her two companions must confront a past that traces back thousands of years, to a time when ungodly beasts hunted the dark spaces of the world, to a moment in history when Christ made a miraculous offer, a pact of salvation for those who were damned for eternity.
-
-Here is a novel that is explosive in its revelation of a secret history. Why do Catholic priests wear pectoral crosses? Why are they sworn to celibacy? Why do the monks hide their countenances under hoods? And why does Catholicism insist that the consecration of wine during Mass results in its transformation to Christ's own blood? The answers to all go back to a secret sect within the Vatican, one whispered as rumor but whose very existence was painted for all to see by Rembrandt himself, a shadowy order known simply as the Sanguines.
-
-In the end, be warned: some books should never be found, never opened—until now.</string>
-		<key>title</key>
-		<string>The Blood Gospel</string>
-		<key>uid</key>
-		<integer>81</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/252136</string>
-	</dict>
-	<key>150</key>
+	<key>151</key>
 	<dict>
 		<key>author</key>
 		<string>Frederic M. Wheelock</string>
@@ -3801,7 +3884,7 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1132141</string>
 	</dict>
-	<key>151</key>
+	<key>152</key>
 	<dict>
 		<key>author</key>
 		<string>Michael Leach</string>
@@ -3860,7 +3943,7 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049851</string>
 	</dict>
-	<key>152</key>
+	<key>153</key>
 	<dict>
 		<key>asin</key>
 		<string>B000062UIH</string>
@@ -3942,7 +4025,7 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/22779</string>
 	</dict>
-	<key>153</key>
+	<key>154</key>
 	<dict>
 		<key>author</key>
 		<string>Paul T. Comeau</string>
@@ -4016,7 +4099,7 @@ Perforated pages for hand-in homework assignments and space for the student's na
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1142071</string>
 	</dict>
-	<key>154</key>
+	<key>155</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Teresa Patterson</string>
@@ -4105,7 +4188,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/World-Robert-Jordans-Wheel-Time/dp/0312869363?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0312869363</string>
 	</dict>
-	<key>155</key>
+	<key>156</key>
 	<dict>
 		<key>author</key>
 		<string>Max Brooks</string>
@@ -4186,7 +4269,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/23054</string>
 	</dict>
-	<key>156</key>
+	<key>157</key>
 	<dict>
 		<key>author</key>
 		<string>George Gowdy</string>
@@ -4241,7 +4324,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>https://www.amazon.com/Adventures-Buffalo-Bill-Cody-Collection/dp/B0006QS78K?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006QS78K</string>
 	</dict>
-	<key>157</key>
+	<key>158</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Jessup</string>
@@ -7216,6 +7299,59 @@ A stunning blend of adventure and mysticism, environmentalism and politics, "Dun
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-04-12T00:57:14Z</date>
+		<key>dateEdited</key>
+		<date>2017-04-12T00:57:14Z</date>
+		<key>edition</key>
+		<string>Reprint</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Literature &amp; Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780061742002</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>448</string>
+		<key>publisher</key>
+		<string>William Morrow</string>
+		<key>releaseDate</key>
+		<date>2009-10-13T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>High in the Andes, Dr. Henry Conklin discovers a 500-year-old mummy that should not be there. While deep in the South American jungle, Conklin's nephew, Sam, stumbles upon a remarkable site nestled between two towering peaks, a place hidden from human eyes for thousands of years.
+
+Ingenious traps have been laid to ensnare the careless and unsuspecting, and wealth beyond imagining could be the reward for those with the courage to face the terrible unknown. But where the perilous journey inward ends--in the cold, shrouded heart of a breathtaking necropolis--something else is waiting for Sam Conklin and his exploratory party. A thing created by Man, yet not humanly possible. Something wondrous . . . something terrifying.</string>
+		<key>title</key>
+		<string>Excavation</string>
+		<key>uid</key>
+		<integer>189</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Excavation-James-Rollins-ebook/dp/B000FC1SA4?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B000FC1SA4</string>
+	</dict>
+	<key>57</key>
+	<dict>
+		<key>author</key>
+		<string>James Rollins</string>
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
@@ -7285,7 +7421,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2029071</string>
 	</dict>
-	<key>57</key>
+	<key>58</key>
 	<dict>
 		<key>asin</key>
 		<string>0812511816</string>
@@ -7367,7 +7503,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/7758</string>
 	</dict>
-	<key>58</key>
+	<key>59</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -7424,7 +7560,54 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780765390974</string>
 	</dict>
-	<key>59</key>
+	<key>6</key>
+	<dict>
+		<key>author</key>
+		<string>Fr. Alain Delagneau</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-19T01:38:37Z</date>
+		<key>dateEdited</key>
+		<date>2017-01-01T22:15:42Z</date>
+		<key>format</key>
+		<string>Softcover</string>
+		<key>genre</key>
+		<string>Non-fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781937843212</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>price</key>
+		<string>£13.92</string>
+		<key>publisher</key>
+		<string>Angelus Press</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Religion, Christianity, Catholicism, Religion, Christianity, Education, Children &amp; Youth</string>
+		<key>title</key>
+		<string>Advice for Successful Families</string>
+		<key>uid</key>
+		<integer>88</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://abebooks.com/products/isbn/9781937843212</string>
+	</dict>
+	<key>60</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -7489,54 +7672,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2288681</string>
 	</dict>
-	<key>6</key>
-	<dict>
-		<key>author</key>
-		<string>Fr. Alain Delagneau</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-19T01:38:37Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T22:15:42Z</date>
-		<key>format</key>
-		<string>Softcover</string>
-		<key>genre</key>
-		<string>Non-fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781937843212</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>price</key>
-		<string>£13.92</string>
-		<key>publisher</key>
-		<string>Angelus Press</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Religion, Christianity, Catholicism, Religion, Christianity, Education, Children &amp; Youth</string>
-		<key>title</key>
-		<string>Advice for Successful Families</string>
-		<key>uid</key>
-		<integer>88</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://abebooks.com/products/isbn/9781937843212</string>
-	</dict>
-	<key>60</key>
+	<key>61</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854277</string>
@@ -7614,7 +7750,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/74282</string>
 	</dict>
-	<key>61</key>
+	<key>62</key>
 	<dict>
 		<key>author</key>
 		<string>Isaac Asimov</string>
@@ -7671,7 +7807,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>url</key>
 		<string>https://www.amazon.com/Foundation-Trilogy-Isaac-Asimov/dp/0307292061?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0307292061</string>
 	</dict>
-	<key>62</key>
+	<key>63</key>
 	<dict>
 		<key>asin</key>
 		<string>0863076823</string>
@@ -7738,7 +7874,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/180150</string>
 	</dict>
-	<key>63</key>
+	<key>64</key>
 	<dict>
 		<key>author</key>
 		<string>George R. R. Martin</string>
@@ -7803,7 +7939,7 @@ Unparalleled in scope and execution, "A Game of Thrones" is one of those rare re
 		<key>url</key>
 		<string>https://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000QCS8TW</string>
 	</dict>
-	<key>64</key>
+	<key>65</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -7894,7 +8030,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/125241</string>
 	</dict>
-	<key>65</key>
+	<key>66</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -7982,7 +8118,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/8586</string>
 	</dict>
-	<key>66</key>
+	<key>67</key>
 	<dict>
 		<key>author</key>
 		<string>H. P. Lovecraft</string>
@@ -8037,7 +8173,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/209702</string>
 	</dict>
-	<key>67</key>
+	<key>68</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8104,7 +8240,7 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/169182</string>
 	</dict>
-	<key>68</key>
+	<key>69</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8169,7 +8305,66 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/552811</string>
 	</dict>
-	<key>69</key>
+	<key>7</key>
+	<dict>
+		<key>author</key>
+		<string>Chris Kyle</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:14Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:36:07Z</date>
+		<key>dimensions</key>
+		<string>10.2 x 15.2 x 10.2 cm</string>
+		<key>dogTag</key>
+		<integer>990941</integer>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, Biography, American, Personal Narratives</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062376572</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$16.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$9.00</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>placePublished</key>
+		<string>Kyle, Chris, 1974-2013.</string>
+		<key>publisher</key>
+		<string>Harper</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Iraq War 2003-2011, Kyle Chris, 1974-2013</string>
+		<key>summary</key>
+		<string>A member of Navy SEAL Team 3 describes his life as a father and husband, and as the serviceman with the most confirmed sniper kills in the history of the United States military while serving in Iraq and Afghanistan.</string>
+		<key>title</key>
+		<string>American Sniper : The Autobiography of the Most Lethal Sniper in U.S. Military History</string>
+		<key>uid</key>
+		<integer>54</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/990941</string>
+	</dict>
+	<key>70</key>
 	<dict>
 		<key>author</key>
 		<string>J  K Rowling, John Tiffany, Jack Thorne</string>
@@ -8239,66 +8434,7 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2206561</string>
 	</dict>
-	<key>7</key>
-	<dict>
-		<key>author</key>
-		<string>Chris Kyle</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:14Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:36:07Z</date>
-		<key>dimensions</key>
-		<string>10.2 x 15.2 x 10.2 cm</string>
-		<key>dogTag</key>
-		<integer>990941</integer>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Biography, American, Personal Narratives</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780062376572</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$16.00</string>
-		<key>lowestUsedPrice</key>
-		<string>$9.00</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>placePublished</key>
-		<string>Kyle, Chris, 1974-2013.</string>
-		<key>publisher</key>
-		<string>Harper</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Iraq War 2003-2011, Kyle Chris, 1974-2013</string>
-		<key>summary</key>
-		<string>A member of Navy SEAL Team 3 describes his life as a father and husband, and as the serviceman with the most confirmed sniper kills in the history of the United States military while serving in Iraq and Afghanistan.</string>
-		<key>title</key>
-		<string>American Sniper : The Autobiography of the Most Lethal Sniper in U.S. Military History</string>
-		<key>uid</key>
-		<integer>54</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/990941</string>
-	</dict>
-	<key>70</key>
+	<key>71</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8379,7 +8515,7 @@ Harry Potter's summer has included the worst birthday ever, doomy warnings from 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1070</string>
 	</dict>
-	<key>71</key>
+	<key>72</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8452,7 +8588,7 @@ Long before her fourth installment appeared, Rowling warned that it would be dar
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/21177</string>
 	</dict>
-	<key>72</key>
+	<key>73</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8535,7 +8671,7 @@ So it's the home front that takes center stage in the multilayered sixth install
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1310</string>
 	</dict>
-	<key>73</key>
+	<key>74</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8622,7 +8758,7 @@ Suspense, secrets and thrilling action from the pen of J.K. Rowling ensure an el
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1017</string>
 	</dict>
-	<key>74</key>
+	<key>75</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8717,7 +8853,7 @@ Goblet of Fire.</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/25600</string>
 	</dict>
-	<key>75</key>
+	<key>76</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8796,7 +8932,7 @@ But all that is about to change when a mysterious letter arrives by owl messenge
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1240</string>
 	</dict>
-	<key>76</key>
+	<key>77</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8877,7 +9013,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2882</string>
 	</dict>
-	<key>77</key>
+	<key>78</key>
 	<dict>
 		<key>author</key>
 		<string>J. K. Rowling</string>
@@ -8954,7 +9090,7 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1385251</string>
 	</dict>
-	<key>78</key>
+	<key>79</key>
 	<dict>
 		<key>author</key>
 		<string>Rebecca Caudill</string>
@@ -9010,70 +9146,6 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>0</integer>
 		<key>url</key>
 		<string>https://www.amazon.com/Higgins-Great-Scare-Rebecca-Caudill/dp/B000O5EWLY?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000O5EWLY</string>
-	</dict>
-	<key>79</key>
-	<dict>
-		<key>author</key>
-		<string>Arthur Train</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T21:24:01Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:33:32Z</date>
-		<key>dimensions</key>
-		<string>17.8 x 12.7 x 1.5 cm</string>
-		<key>edition</key>
-		<string>First Thus</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction, Children's Books</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780684865379</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$2.98</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>128</string>
-		<key>placePublished</key>
-		<string>New York</string>
-		<key>price</key>
-		<string>$16.00</string>
-		<key>publisher</key>
-		<string>Charles Scribner's Sons</string>
-		<key>releaseDate</key>
-		<date>1923-11-23T18:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>"Charles Dickens's" other "Christmas classic, with a new introduction by Dickens's great-great-grandson, Gerald Charles Dickens." 
- Charles Dickens wrote "The Life of Our Lord" during the years 1846-1849, just about the time he was completing "David Copperfield." In this charming, simple retelling of the life of Jesus Christ, adapted from the Gospel of St. Luke, Dickens hoped to teach his young children about religion and faith. Since he wrote it exclusively for his children, Dickens refused to allow publication. 
- For eighty-five years the manuscript was guarded as a precious family secret, and it was handed down from one relative to the next. When Dickens died in 1870, it was left to his sister-in-law, Georgina Hogarth. From there it fell to Dickens's son, Sir Henry Fielding Dickens, with the admonition that it should not be published while any child of Dickens lived. 
- Just before the 1933 holidays, Sir Henry, then the only living child of Dickens, died, leaving his father's manuscript to his wife and children. He also bequeathed to them the right to make the decision to publish "The Life of Our Lord." By majority vote, Sir Henry's widow and children decided to publish the book in London. In 1934, Simon &amp; Schuster published the first American edition, which became one of the year's biggest bestsellers.</string>
-		<key>title</key>
-		<string>His Children's Children</string>
-		<key>uid</key>
-		<integer>154</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Life-Our-Lord-Written-Children/dp/0684865378?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0684865378</string>
 	</dict>
 	<key>8</key>
 	<dict>
@@ -9142,6 +9214,70 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 	</dict>
 	<key>80</key>
 	<dict>
+		<key>author</key>
+		<string>Arthur Train</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-23T21:24:01Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:33:32Z</date>
+		<key>dimensions</key>
+		<string>17.8 x 12.7 x 1.5 cm</string>
+		<key>edition</key>
+		<string>First Thus</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Children's Books</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780684865379</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$2.98</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>128</string>
+		<key>placePublished</key>
+		<string>New York</string>
+		<key>price</key>
+		<string>$16.00</string>
+		<key>publisher</key>
+		<string>Charles Scribner's Sons</string>
+		<key>releaseDate</key>
+		<date>1923-11-23T18:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>"Charles Dickens's" other "Christmas classic, with a new introduction by Dickens's great-great-grandson, Gerald Charles Dickens." 
+ Charles Dickens wrote "The Life of Our Lord" during the years 1846-1849, just about the time he was completing "David Copperfield." In this charming, simple retelling of the life of Jesus Christ, adapted from the Gospel of St. Luke, Dickens hoped to teach his young children about religion and faith. Since he wrote it exclusively for his children, Dickens refused to allow publication. 
+ For eighty-five years the manuscript was guarded as a precious family secret, and it was handed down from one relative to the next. When Dickens died in 1870, it was left to his sister-in-law, Georgina Hogarth. From there it fell to Dickens's son, Sir Henry Fielding Dickens, with the admonition that it should not be published while any child of Dickens lived. 
+ Just before the 1933 holidays, Sir Henry, then the only living child of Dickens, died, leaving his father's manuscript to his wife and children. He also bequeathed to them the right to make the decision to publish "The Life of Our Lord." By majority vote, Sir Henry's widow and children decided to publish the book in London. In 1934, Simon &amp; Schuster published the first American edition, which became one of the year's biggest bestsellers.</string>
+		<key>title</key>
+		<string>His Children's Children</string>
+		<key>uid</key>
+		<integer>154</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Life-Our-Lord-Written-Children/dp/0684865378?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0684865378</string>
+	</dict>
+	<key>81</key>
+	<dict>
 		<key>customCheckbox1</key>
 		<integer>0</integer>
 		<key>customCheckbox2</key>
@@ -9199,7 +9335,7 @@ Text Size 9pt
 		<key>url</key>
 		<string>https://www.amazon.com/Holy-Bible-Standard-Thumb-Burgundy/dp/1432102400?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1432102400</string>
 	</dict>
-	<key>81</key>
+	<key>82</key>
 	<dict>
 		<key>author</key>
 		<string>Zondervan</string>
@@ -9266,7 +9402,7 @@ Text Size 9pt
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2058001</string>
 	</dict>
-	<key>82</key>
+	<key>83</key>
 	<dict>
 		<key>author</key>
 		<string>US Conference of Catholic Bishops</string>
@@ -9327,7 +9463,7 @@ Text Size 9pt
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL26020559M</string>
 	</dict>
-	<key>83</key>
+	<key>84</key>
 	<dict>
 		<key>author</key>
 		<string>Bob West</string>
@@ -9391,7 +9527,7 @@ Text Size 9pt
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1289171</string>
 	</dict>
-	<key>84</key>
+	<key>85</key>
 	<dict>
 		<key>asin</key>
 		<string>0060521600</string>
@@ -9462,7 +9598,7 @@ Text Size 9pt
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3594</string>
 	</dict>
-	<key>85</key>
+	<key>86</key>
 	<dict>
 		<key>author</key>
 		<string>Thomas à Kempis</string>
@@ -9525,7 +9661,7 @@ Text Size 9pt
 		<key>url</key>
 		<string>http://books.google.com/books?id=wFEWnwEACAAJ</string>
 	</dict>
-	<key>86</key>
+	<key>87</key>
 	<dict>
 		<key>asin</key>
 		<string>0321821521</string>
@@ -9601,7 +9737,7 @@ Here are some of the topics covered:
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/245970</string>
 	</dict>
-	<key>87</key>
+	<key>88</key>
 	<dict>
 		<key>author</key>
 		<string>Walter J. Savitch</string>
@@ -9678,7 +9814,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049811</string>
 	</dict>
-	<key>88</key>
+	<key>89</key>
 	<dict>
 		<key>author</key>
 		<string>Barry Burd</string>
@@ -9746,68 +9882,6 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049821</string>
-	</dict>
-	<key>89</key>
-	<dict>
-		<key>author</key>
-		<string>Alan Moore</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-10-05T04:08:40Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:33:08Z</date>
-		<key>dimensions</key>
-		<string>24.40 cm x 16.80 cm x 6.10 cm</string>
-		<key>dogTag</key>
-		<integer>2319761</integer>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Fiction, Fantasy fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781631491344</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>1280</string>
-		<key>placePublished</key>
-		<string>Jerusalem : a novel</string>
-		<key>publisher</key>
-		<string>Liveright Publishing Corporation</string>
-		<key>releaseDate</key>
-		<date>2016-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fiction, Space and time, Slums</string>
-		<key>summary</key>
-		<string>In the half a square mile of decay and demolition that was England's Saxon capital, eternity is loitering between the firetrap housing projects. Embedded in the grubby amber of the district's narrative among its saints, kings, prostitutes, and derelicts a different kind of human time is happening, a soiled simultaneity that does not differentiate between the petrolcolored puddles and the fractured dreams of those who navigate them. Fiends last mentioned in the second-century Book of Tobit wait in urine-scented stairwells, the delinquent specters of unlucky children undermine a century with tunnels, and in upstairs parlors laborers with golden blood reduce fate to a snooker tournament. An opulent mythology for those without a pot to piss in, through the labyrinthine streets and pages of Jerusalem tread ghosts that sing of wealth and poverty; of Africa, and hymns, and our threadbare millennium. They discuss English as a visionary language from John Bunyan to James Joyce, hold forth on the illusion of mortality post-Einstein, and insist upon the meanest slum as Blake's eternal holy city."--
-     Read more...</string>
-		<key>title</key>
-		<string>Jerusalem</string>
-		<key>uid</key>
-		<integer>118</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2319761</string>
 	</dict>
 	<key>9</key>
 	<dict>
@@ -9881,6 +9955,68 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<string>http://doghouse.bruji.com/book/8351</string>
 	</dict>
 	<key>90</key>
+	<dict>
+		<key>author</key>
+		<string>Alan Moore</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-10-05T04:08:40Z</date>
+		<key>dateEdited</key>
+		<date>2017-02-03T03:33:08Z</date>
+		<key>dimensions</key>
+		<string>24.40 cm x 16.80 cm x 6.10 cm</string>
+		<key>dogTag</key>
+		<integer>2319761</integer>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Fiction, Fantasy fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781631491344</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>1280</string>
+		<key>placePublished</key>
+		<string>Jerusalem : a novel</string>
+		<key>publisher</key>
+		<string>Liveright Publishing Corporation</string>
+		<key>releaseDate</key>
+		<date>2016-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fiction, Space and time, Slums</string>
+		<key>summary</key>
+		<string>In the half a square mile of decay and demolition that was England's Saxon capital, eternity is loitering between the firetrap housing projects. Embedded in the grubby amber of the district's narrative among its saints, kings, prostitutes, and derelicts a different kind of human time is happening, a soiled simultaneity that does not differentiate between the petrolcolored puddles and the fractured dreams of those who navigate them. Fiends last mentioned in the second-century Book of Tobit wait in urine-scented stairwells, the delinquent specters of unlucky children undermine a century with tunnels, and in upstairs parlors laborers with golden blood reduce fate to a snooker tournament. An opulent mythology for those without a pot to piss in, through the labyrinthine streets and pages of Jerusalem tread ghosts that sing of wealth and poverty; of Africa, and hymns, and our threadbare millennium. They discuss English as a visionary language from John Bunyan to James Joyce, hold forth on the illusion of mortality post-Einstein, and insist upon the meanest slum as Blake's eternal holy city."--
+     Read more...</string>
+		<key>title</key>
+		<string>Jerusalem</string>
+		<key>uid</key>
+		<integer>118</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2319761</string>
+	</dict>
+	<key>91</key>
 	<dict>
 		<key>asin</key>
 		<string>0060763892</string>
@@ -9960,7 +10096,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/96272</string>
 	</dict>
-	<key>91</key>
+	<key>92</key>
 	<dict>
 		<key>author</key>
 		<string>William Shakespeare</string>
@@ -10038,7 +10174,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>https://www.amazon.com/Julius-Caesar-Folger-Shakespeare-Library/dp/0743482743?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0743482743</string>
 	</dict>
-	<key>92</key>
+	<key>93</key>
 	<dict>
 		<key>author</key>
 		<string>Michael Crichton</string>
@@ -10097,7 +10233,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780307291844</string>
 	</dict>
-	<key>93</key>
+	<key>94</key>
 	<dict>
 		<key>author</key>
 		<string>Dan J. Forrestal</string>
@@ -10156,7 +10292,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://books.google.com/books?id=E_0JAQAAMAAJ</string>
 	</dict>
-	<key>94</key>
+	<key>95</key>
 	<dict>
 		<key>author</key>
 		<string>Catholic Church</string>
@@ -10228,7 +10364,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>https://www.amazon.com/Principle-Power-Kingdom-Citizenship-Experiencing/dp/0768408687?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0768408687</string>
 	</dict>
-	<key>95</key>
+	<key>96</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -10293,7 +10429,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1756871</string>
 	</dict>
-	<key>96</key>
+	<key>97</key>
 	<dict>
 		<key>asin</key>
 		<string>0385508042</string>
@@ -10364,7 +10500,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/85773</string>
 	</dict>
-	<key>97</key>
+	<key>98</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -10431,7 +10567,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/13036</string>
 	</dict>
-	<key>98</key>
+	<key>99</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Kent, George Knight</string>
@@ -10489,89 +10625,6 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1630721</string>
-	</dict>
-	<key>99</key>
-	<dict>
-		<key>asin</key>
-		<string>0061230944</string>
-		<key>author</key>
-		<string>James Rollins</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:45:37Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:32:46Z</date>
-		<key>dewey</key>
-		<string>813.54</string>
-		<key>dimensions</key>
-		<string>1.50 x 5.70 x 5.30 in</string>
-		<key>dogTag</key>
-		<integer>27449</integer>
-		<key>edition</key>
-		<string>1</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction, Action &amp; Adventure, Military, Science Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780061230943</string>
-		<key>language</key>
-		<string>English (Unknown), English (Original Language), English (Published)</string>
-		<key>locale</key>
-		<string>US</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$4.37</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>434</string>
-		<key>price</key>
-		<string>$26.95</string>
-		<key>publisher</key>
-		<string>HarperAudio</string>
-		<key>rating</key>
-		<string>10</string>
-		<key>releaseDate</key>
-		<date>2008-07-01T05:00:00Z</date>
-		<key>series</key>
-		<string>Sigma Force</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fiction, Science Fiction, Thrillers, American Mystery &amp; Suspense Fiction, Fiction - Espionage / Thriller, Fiction / Thrillers, Suspense Fiction, Bioterrorism</string>
-		<key>summary</key>
-		<string>What if you could bioengineer the next great world prophet: scientifically produce the next Buddha, the next Muhammad, or the next Jesus? Would it mark the Second Coming or initiate a chain reaction with disastrous consequences?  
- A master at combining historical and religious intrigue with edge-of-your-seat adventure, "New York Times" bestselling author James Rollins brings back SIGMA Force to battle a group of rogue scientists who've unleashed a bioengineering project that could bring about the extinction of humankind.  
- In Washington, D.C., a homeless man dies in Commander Gray Pierce's arms, shot by an assassin's bullet. But the death leaves behind a greater mystery: a bloody coin found clutched in the dead man's hand, an ancient relic that can be traced back to the Greek Oracle of Delphi. As ruthless hunters search for the stolen artifact, Gray Pierce discovers that the coin is the key to unlocking a plot that dates back to the Cold War and threatens the very foundation of humanity.  
- An international think tank of scientists known as the Jasons has discovered a way to bioengineer autistic children who show savant talents—mathematical geniuses, statistical masterminds, brilliant conceptual artists—into something far greater and far more "frightening", in hopes of creating a world prophet for the new millennium, one to be manipulated to create a new era of global peace . . . a peace on their own terms.  
- Halfway around the world, a man wakes up in a hospital bed with no memory of who he is, knowing only that he's a prisoner in a subterranean research facility. With the help of three unusual children, he makes his escape across a mountainous and radioactive countryside, pursued by savage hunters bred in the same laboratory. But his goal is not escape, nor even survival. In order to thwart a plot to wipe out a quarter of the world's population, he must sacrifice all, even the children who rescued him.  
- From ancient Greek temples to glittering mausoleums, from the slums of India to the toxic ruins of Russia, two men must race against time to solve a mystery that dates back to the first famous oracle of history—the Greek Oracle of Delphi.  
- But one question remains: "Will the past be enough to save the future?"</string>
-		<key>title</key>
-		<string>The Last Oracle</string>
-		<key>uid</key>
-		<integer>21</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/27449</string>
 	</dict>
 	<key>Version</key>
 	<string>New</string>
