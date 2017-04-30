@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Bookpedia :: [global:collectionName]</title>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="My book collection, created using Bookpedia and FancyIndex." />
+<meta name="keywords" content="Bookpedia, Mac, Catalog, books, collection, Bruji" />
+<meta name="credits" content="Includes live search, sortable columns, and a details popup." />
+<meta name="PageSplit" content="50000" /> <!-- If you have more than 50000 books... you should start a library! -->
+<meta name="image-export" content="no" />
+<meta name="date-format" content="yyyy-MM-dd" />
+<meta name="PrintLandscape" content="yes" />
+<meta name="details" content="MyFancyIndexDetails.html" />
+
+<link rel="shortcut icon" href="Images/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="Images/tablesorter/style.css" />
+<link rel="stylesheet" type="text/css" href="Images/colorbox/colorbox.css" />
+<link rel="stylesheet" type="text/css" href="Images/fi.css" />
+<link rel="stylesheet" type="text/css" href="Images/print.css" media="print" />
+
+<script type="text/javascript" src="Images/jquery/jquery-3.2.0.min.js"></script>
+<script type="text/javascript" src="Images/jquery/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="Images/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="Images/fi.shared.js"></script>
+<script type="text/javascript" src="Images/fi.js"></script>
+
+</head>
+<body>
+
+<div class="content">
+<span id="search">Search:</span> <input id="filter" type="text" />
+<!--IFIndex<span id="index">Page: [Divider: | ]</span>ENDIndex-->
+<div id="emptyresults">Sorry, no results found.</div>
+<table id="sortable" class="tablesorter">
+	<thead>
+		<tr>
+			<!-- There is a 2em padding-right for the arrows if the columns are empty -->
+			<th id="translateTitle">[translate:title]</th>
+			<th id="translateAuthor">[translate:author]</th>
+			<th id="translatePublisher">[translate:publisher]</th>
+			<th id="translateGenre">[translate:genre]</th>
+			<th id="translatePages">[translate:pages]</th>
+			<th id="translateRating">[translate:rating]</th>
+			<th id="translateStarRating">My Rating</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td id="summarytd" colspan="9">TOTAL BOOKS: <span id="globalTotalEntries">[global:totalEntries]</span></td>
+		</tr>
+	</tfoot>
+	<tbody>
+	<!-- Documentation for Template editors!  You wanted it, you got it!
+	
+	class lbr (let's be reasonable) limits the field length to 20em - good for excessively long fields that would make the table too wide
+	class smr (somewhat reasonable), limits to 40em - good for titles
+	class nw (nowrap) doesn't let the browser break a field to a second line - good for titles that you never want squeezed
+	class cb (colorbox) is for pages that get a popup from a link - any <a> should probably have it
+	class cen (center) is for fields that you'd like center-aligned
+	
+	-->
+		<!--BeginRepeat-->
+		<tr>
+			<td class="smr"><a class="cb nw" href="details/[key:uid].html">[key:title]</a></td>
+			<td><div class="lbr">[key:author]</div></td>
+			<td><div class="lbr">[key:publisher]</div></td>
+			<td><div class="lbr">[key:genre]</div></td>
+			<td><div class="cen">[key:pages]</div></td>
+			<td><div class="cen">[key:rating]</div></td>
+			<td><div><img src="Images/darkstar[key:myRating].png" alt="Rating" /></div></td>
+		</tr>
+		<!--EndRepeat-->
+	</tbody>
+</table>
+</div>
+<div class="credits">Last updated [global:dateUpdated] :: Exported from <a href="http://www.bruji.com/" title="Bruji, Chiguire LLC">Bruji</a>'s <a href="http://www.bruji.com/bookpedia/">Bookpedia</a> :: FancyIndex by <a href="http://www.twoevils.org/">April King</a></div>
+</body>
+</html>
