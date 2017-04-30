@@ -13,11 +13,13 @@
 		<string>Adam Preble</string>
 		<string>Alan Moore</string>
 		<string>Alan Romanczuk</string>
+		<string>Alex Flinn</string>
 		<string>Alexandre Dumas</string>
 		<string>Andy Weir</string>
 		<string>Anne Rice</string>
 		<string>Arthur Train</string>
 		<string>Augustine</string>
+		<string>Barbara Delinsky</string>
 		<string>Barnes &amp; Noble.</string>
 		<string>Barry Burd</string>
 		<string>Beatrix Potter</string>
@@ -45,6 +47,8 @@
 		<string>Douglas Brinkley</string>
 		<string>Eberhard Nestle</string>
 		<string>Edgar Allan Poe</string>
+		<string>Elin Hilderbrand</string>
+		<string>Elizabeth Eulberg</string>
 		<string>Fr Alain Delagneau</string>
 		<string>Fr. Jonathan Morris</string>
 		<string>Frank Herbert</string>
@@ -83,18 +87,25 @@
 		<string>Joe Conway</string>
 		<string>John Grisham</string>
 		<string>John Tiffany</string>
+		<string>Jone Cotner</string>
+		<string>Julia Hoban</string>
+		<string>Kristin Cast</string>
 		<string>Leo Tolstoy</string>
 		<string>Leslie Silk Eslinger</string>
 		<string>Lev Nikolaevič Tolstoj</string>
+		<string>Lisa Scottoline</string>
 		<string>Lisa Swerling</string>
+		<string>M. E. Kerr</string>
 		<string>Maria Simons</string>
 		<string>Mark Twain Samuel Langhorne Clemens</string>
 		<string>Mary Grandpré</string>
 		<string>Mary Grandpré J. K. Rowling</string>
+		<string>Mary Higgins Clark</string>
 		<string>Mary Wollstonecraft Shelley</string>
 		<string>Matthew Kelly</string>
 		<string>Max</string>
 		<string>Max Brooks</string>
+		<string>Max Lucado</string>
 		<string>Melinda Corey</string>
 		<string>Mellie John</string>
 		<string>Mich.)</string>
@@ -104,10 +115,13 @@
 		<string>Michael Mucci</string>
 		<string>Nathaniel Hawthorne</string>
 		<string>Neal Stephenson</string>
+		<string>Nicholas Sparks</string>
 		<string>Nigel Rodgers</string>
+		<string>Nora Roberts</string>
 		<string>Oliver Ready</string>
 		<string>Orson Scott Card</string>
 		<string>Oscar Wilde</string>
+		<string>P. C. Cast</string>
 		<string>Paul Jessup</string>
 		<string>Paul Kent</string>
 		<string>Paul T Comeau</string>
@@ -126,16 +140,20 @@
 		<string>Sabaa Tahir</string>
 		<string>Saint  Bishop of Hippo.</string>
 		<string>Seminars Unlimited</string>
+		<string>Simone Elkeles</string>
 		<string>Sir</string>
 		<string>Sir Richard Francis Burton</string>
 		<string>St. Augustine</string>
 		<string>Stephen King</string>
+		<string>Stephenie Meyer</string>
+		<string>Tabitha Suzuma</string>
 		<string>Taya Kyle</string>
 		<string>Teresa Patterson</string>
 		<string>The Founding Fathers of the United States of America</string>
 		<string>Thomas à Kempis</string>
 		<string>Thomas N. Hart</string>
 		<string>Trent Horn</string>
+		<string>Us Catholic Conference Of Bishops</string>
 		<string>US Conference of Catholic Bishops</string>
 		<string>Walter J Savitch</string>
 		<string>Walter J. Savitch</string>
@@ -344,6 +362,7 @@
 		<string>Suspense Fiction</string>
 		<string>syllabi</string>
 		<string>Tech</string>
+		<string>Teen &amp; Young Adult</string>
 		<string>Teens</string>
 		<string>Thriller</string>
 		<string>Thriller &amp; Suspense</string>
@@ -429,12 +448,14 @@
 		<string>Addison-Wesley</string>
 		<string>Addison-Wesley Professional</string>
 		<string>Alfred A. Knopf</string>
+		<string>Anchor</string>
 		<string>Angelus Press</string>
 		<string>Arrow Books Ltd</string>
 		<string>Arthur a Levine</string>
 		<string>Arthur A Levine Books</string>
 		<string>Arthur A. Levine Books</string>
 		<string>Audioworks</string>
+		<string>Back Bay Books</string>
 		<string>Ballantine Books</string>
 		<string>Bantam</string>
 		<string>Bantam Classics</string>
@@ -446,7 +467,10 @@
 		<string>Barnes &amp; Noble, Incorporated</string>
 		<string>Barnes and Noble</string>
 		<string>Basic Books</string>
+		<string>Beacon Publishing</string>
+		<string>Berkley</string>
 		<string>Bloomsbury</string>
+		<string>Bloomsbury USA Childrens</string>
 		<string>BOOKS</string>
 		<string>Catholic Answers, Inc.</string>
 		<string>Catholic Book Pub Co</string>
@@ -457,6 +481,7 @@
 		<string>Collins</string>
 		<string>Collins Reference</string>
 		<string>CreateSpace Independent Publishing Platform</string>
+		<string>Crown</string>
 		<string>Cupples &amp; Leon Company</string>
 		<string>Del Rey</string>
 		<string>Del Rey Books</string>
@@ -471,19 +496,23 @@
 		<string>Fireside Catholic Publishing</string>
 		<string>Garden City Books</string>
 		<string>Gideons International</string>
+		<string>Grand Central Publishing</string>
 		<string>Gus Lloyd</string>
+		<string>Harcourt Paperbacks</string>
 		<string>Harper</string>
 		<string>Harper Perennial</string>
 		<string>Harper Trophy</string>
 		<string>HarperAudio</string>
 		<string>HarperCollins</string>
 		<string>HarperOne</string>
+		<string>HarperTeen</string>
 		<string>Hendrickson Publishers</string>
 		<string>Hodder &amp; Stoughton</string>
 		<string>Holt, Rinehart &amp; Winston</string>
 		<string>Houghton Mifflin</string>
 		<string>Ignatius Press</string>
 		<string>Listening Library</string>
+		<string>Little, Brown Books for Young Readers</string>
 		<string>Liveright Publishing Corporation</string>
 		<string>Loyola Press</string>
 		<string>Mariner Books</string>
@@ -494,6 +523,7 @@
 		<string>Penguin Books</string>
 		<string>Penguin Classic</string>
 		<string>Penguin Publishing Group</string>
+		<string>Point</string>
 		<string>Putnam Adult</string>
 		<string>Random House</string>
 		<string>Random House Incorporated</string>
@@ -509,8 +539,11 @@
 		<string>Simon &amp; Schuster</string>
 		<string>Simon &amp; Schuster (1999), Paperback, 368 pages</string>
 		<string>Simon and Schuster</string>
+		<string>Simon Pulse</string>
 		<string>Sony CONNECT Inc.</string>
 		<string>Sophia Institute Press</string>
+		<string>Speak</string>
+		<string>St. Martin's Griffin</string>
 		<string>Sterling</string>
 		<string>Sterling Publishing</string>
 		<string>Stuttgart Dt Bibelges</string>
@@ -518,6 +551,7 @@
 		<string>The Macmillan Company</string>
 		<string>The Regina Press</string>
 		<string>The Word Among Us Press</string>
+		<string>Thomas Nelson</string>
 		<string>Tor Books</string>
 		<string>Tor Fantasy</string>
 		<string>Tor Fantasy (1990), Edition: 1st Mass, Paperback</string>
@@ -528,6 +562,7 @@
 		<string>Vintage</string>
 		<string>Vintage Classics</string>
 		<string>W. W. Norton &amp; Co.</string>
+		<string>Walker Books for Young Readers</string>
 		<string>Wiley</string>
 		<string>Wiley Pub</string>
 		<string>William Morrow</string>
@@ -559,6 +594,10 @@
 		<string>Faith</string>
 		<string>Religion</string>
 		<string>Science</string>
+	</array>
+	<key>tags</key>
+	<array>
+		<string>Erin</string>
 	</array>
 </dict>
 </plist>
