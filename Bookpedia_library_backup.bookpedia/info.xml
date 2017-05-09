@@ -11,13 +11,13 @@
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:36:19Z</date>
+		<date>2017-05-09T22:12:48Z</date>
 		<key>dimensions</key>
 		<string>1.00 x 8.30 x 5.50 in</string>
 		<key>dogTag</key>
@@ -81,13 +81,13 @@
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:12Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:36:05Z</date>
+		<date>2017-05-09T22:11:42Z</date>
 		<key>dogTag</key>
 		<integer>1462561</integer>
 		<key>edition</key>
@@ -144,13 +144,13 @@
 		<key>author</key>
 		<string>Thomas à Kempis</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:39:10Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:19Z</date>
+		<date>2017-05-09T22:21:29Z</date>
 		<key>dimensions</key>
 		<string>16.00 cm x 11.20 cm x 1.70 cm</string>
 		<key>edition</key>
@@ -211,13 +211,13 @@
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:56Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:15Z</date>
+		<date>2017-05-09T21:59:59Z</date>
 		<key>dimensions</key>
 		<string>9.88 x 7.13 x 1.42 in</string>
 		<key>dogTag</key>
@@ -285,13 +285,13 @@ Here are some of the topics covered:
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:56Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:13Z</date>
+		<date>2017-05-09T22:05:21Z</date>
 		<key>dimensions</key>
 		<string>22.60 cm x 19.10 cm x 3.20 cm</string>
 		<key>dogTag</key>
@@ -362,13 +362,13 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:02Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:11Z</date>
+		<date>2017-05-09T21:59:08Z</date>
 		<key>dimensions</key>
 		<string>23.4 x 18.8 x 2.3 cm</string>
 		<key>dogTag</key>
@@ -571,13 +571,13 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>author</key>
 		<string>William Shakespeare</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:18:46Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:04Z</date>
+		<date>2017-05-09T21:55:08Z</date>
 		<key>dimensions</key>
 		<string>17.1 x 10.6 x 2.5 cm</string>
 		<key>edition</key>
@@ -767,13 +767,13 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>author</key>
 		<string>Dan J. Forrestal</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-19T01:36:23Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:00Z</date>
+		<date>2017-05-09T22:09:07Z</date>
 		<key>dimensions</key>
 		<string>22.00 cm</string>
 		<key>edition</key>
@@ -830,13 +830,13 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:36:02Z</date>
+		<date>2017-05-09T22:12:18Z</date>
 		<key>dewey</key>
 		<string>929.20899162073</string>
 		<key>dimensions</key>
@@ -899,13 +899,13 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>comments</key>
 		<string>Very worn, leatherback, several imprimaturs, not sure on the exact date, but I found one on eBay and I’m basing the 1952 date on that</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-20T21:15:59Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:57Z</date>
+		<date>2017-05-09T22:20:50Z</date>
 		<key>dimensions</key>
 		<string>22.9 x 15.2 x 1.3 cm</string>
 		<key>format</key>
@@ -1174,13 +1174,13 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:30Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:48Z</date>
+		<date>2017-05-09T22:19:51Z</date>
 		<key>dogTag</key>
 		<integer>1630721</integer>
 		<key>format</key>
@@ -2432,13 +2432,13 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>author</key>
 		<string>Gus Lloyd</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:29Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:23Z</date>
+		<date>2017-05-09T22:19:31Z</date>
 		<key>dimensions</key>
 		<string>20.30 cm x 13.30 cm x 0.60 cm</string>
 		<key>format</key>
@@ -3219,13 +3219,13 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:17Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-06T23:33:52Z</date>
+		<date>2017-05-09T22:08:14Z</date>
 		<key>dogTag</key>
 		<integer>2049841</integer>
 		<key>edition</key>
@@ -3634,13 +3634,13 @@ The world needs heroes. Will you answer the call?</string>
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:56Z</date>
+		<date>2017-05-09T22:19:11Z</date>
 		<key>dimensions</key>
 		<string>15.5 x 11.2 x 1.3 cm</string>
 		<key>dogTag</key>
@@ -3933,13 +3933,13 @@ The world needs heroes. Will you answer the call?</string>
 		<key>author</key>
 		<string>Charles S. Strong</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:33:13Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:53Z</date>
+		<date>2017-05-09T21:55:58Z</date>
 		<key>dewey</key>
 		<string>919.9</string>
 		<key>dimensions</key>
@@ -3994,13 +3994,13 @@ The world needs heroes. Will you answer the call?</string>
 		<key>author</key>
 		<string>Matthew Kelly</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:24Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:51Z</date>
+		<date>2017-05-09T22:18:03Z</date>
 		<key>dimensions</key>
 		<string>20.60 cm x 14.00 cm x 2.00 cm</string>
 		<key>edition</key>
@@ -4200,13 +4200,13 @@ The world needs heroes. Will you answer the call?</string>
 		<key>author</key>
 		<string>Nigel Rodgers, Hazel Dodge</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:06Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:48Z</date>
+		<date>2017-05-09T22:14:49Z</date>
 		<key>dimensions</key>
 		<string>23.00 cm</string>
 		<key>edition</key>
@@ -4318,13 +4318,13 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:31Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:46Z</date>
+		<date>2017-05-09T22:26:18Z</date>
 		<key>dimensions</key>
 		<string>20.8 x 13.7 x 1.3 cm</string>
 		<key>dogTag</key>
@@ -4597,13 +4597,13 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:34Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:54Z</date>
+		<date>2017-05-09T22:27:12Z</date>
 		<key>dimensions</key>
 		<string>23.6 x 18.8 x 2.2 cm</string>
 		<key>dogTag</key>
@@ -6321,13 +6321,13 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:22Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:03Z</date>
+		<date>2017-05-09T22:17:25Z</date>
 		<key>dimensions</key>
 		<string>22.9 x 15.2 x 2.2 cm</string>
 		<key>dogTag</key>
@@ -6475,13 +6475,13 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:04Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:01Z</date>
+		<date>2017-05-09T22:04:55Z</date>
 		<key>dogTag</key>
 		<integer>1132141</integer>
 		<key>edition</key>
@@ -6536,13 +6536,13 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:20Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:30:58Z</date>
+		<date>2017-05-09T22:16:40Z</date>
 		<key>dogTag</key>
 		<integer>2049851</integer>
 		<key>format</key>
@@ -6866,13 +6866,13 @@ Told in an arresting, fresh voice, "Willow" is an unforgettable novel about one 
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:03Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:30:55Z</date>
+		<date>2017-05-09T22:04:57Z</date>
 		<key>dimensions</key>
 		<string>23.5 x 18.7 x 2.2 cm</string>
 		<key>dogTag</key>
@@ -7192,13 +7192,13 @@ Eyewitness reports from the first truly global war
 		<key>author</key>
 		<string>George Gowdy</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:30:24Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:30:50Z</date>
+		<date>2017-05-09T21:55:40Z</date>
 		<key>dimensions</key>
 		<string>23.2 x 16.7 x 2.8 cm</string>
 		<key>format</key>
@@ -7445,13 +7445,13 @@ Eyewitness reports from the first truly global war
 		<key>author</key>
 		<string>William J. Bennett</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:41:00Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:42Z</date>
+		<date>2017-05-09T22:25:40Z</date>
 		<key>dimensions</key>
 		<string>25.4 x 17.8 x 5.1 cm</string>
 		<key>dogTag</key>
@@ -7640,13 +7640,13 @@ A rich, moving exploration of the critical questions of human existence, "The Br
 		<key>author</key>
 		<string>Mellie John, Paulene M. Yates</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:36:11Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:40Z</date>
+		<date>2017-05-09T21:56:02Z</date>
 		<key>format</key>
 		<string>Hardcover</string>
 		<key>genre</key>
@@ -7757,72 +7757,6 @@ A rich, moving exploration of the critical questions of human existence, "The Br
 	</dict>
 	<key>26</key>
 	<dict>
-		<key>author</key>
-		<string>A. T. B. Edney</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T20:36:06Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:35:35Z</date>
-		<key>dimensions</key>
-		<string>17.8 x 12.6 x 0.5 cm</string>
-		<key>dogTag</key>
-		<integer>746461</integer>
-		<key>edition</key>
-		<string>First Edition</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Handbooks, manuals, etc</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781564589866</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$0.01</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>72</string>
-		<key>placePublished</key>
-		<string>New York</string>
-		<key>price</key>
-		<string>$4.95</string>
-		<key>publisher</key>
-		<string>Dorling Kindersley ; Boston</string>
-		<key>releaseDate</key>
-		<date>1995-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Cats, Handbooks Manuals Etc</string>
-		<key>summary</key>
-		<string>Know-how in a nutshell.  
-The step-by-step series that brings expert advice at an affordable price. Gives quick answers to all questions. Each point can be absorbed in an instant.</string>
-		<key>title</key>
-		<string>Cat Care</string>
-		<key>uid</key>
-		<integer>140</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/746461</string>
-	</dict>
-	<key>27</key>
-	<dict>
 		<key>asin</key>
 		<string>1574551108</string>
 		<key>author</key>
@@ -7830,13 +7764,13 @@ The step-by-step series that brings expert advice at an affordable price. Gives 
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:28Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:32Z</date>
+		<date>2017-05-09T22:25:10Z</date>
 		<key>dewey</key>
 		<string>238.2</string>
 		<key>dimensions</key>
@@ -7898,18 +7832,18 @@ The step-by-step series that brings expert advice at an affordable price. Gives 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/13820</string>
 	</dict>
-	<key>28</key>
+	<key>27</key>
 	<dict>
 		<key>author</key>
 		<string>Leslie Silk Eslinger, Caryll Houselander</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-12-31T21:19:31Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:30Z</date>
+		<date>2017-05-09T22:18:28Z</date>
 		<key>dimensions</key>
 		<string>21.1 x 15.7 x 1.1 cm</string>
 		<key>format</key>
@@ -7961,7 +7895,7 @@ There is no better gift you can give to a young child.</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Catholic-Tales-Girls-Leslie-Eslinger/dp/1928832741?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1928832741</string>
 	</dict>
-	<key>29</key>
+	<key>28</key>
 	<dict>
 		<key>author</key>
 		<string>Christopher Tolkien</string>
@@ -8027,6 +7961,68 @@ The paperback edition of The Children of Húrin includes eight color paintings b
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/235857</string>
+	</dict>
+	<key>29</key>
+	<dict>
+		<key>author</key>
+		<string>St. Augustine</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:51:28Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-09T22:24:59Z</date>
+		<key>dogTag</key>
+		<integer>803691</integer>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Non-fiction, Classic, Historical, Religion</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781598563375</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>804</string>
+		<key>placePublished</key>
+		<string>Peabody, Mass.</string>
+		<key>publisher</key>
+		<string>Hendrickson Publishers</string>
+		<key>releaseDate</key>
+		<date>2016-04-20T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Early works to 1800, Apologetics, Kingdom of God</string>
+		<key>summary</key>
+		<string>The City of God by Augustine of Hippo Shaw from Coterie Classics 
+ All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. 
+ “God is always trying to give good things to us, but our hands are too full to receive them.” ― Augustine of Hippo, City of God 
+ City of God was written just as Rome was coming to an end and is essential for understanding the history of Western Christendom.</string>
+		<key>title</key>
+		<string>The City of God</string>
+		<key>translator</key>
+		<string>Marcus Dods</string>
+		<key>uid</key>
+		<integer>67</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/803691</string>
 	</dict>
 	<key>3</key>
 	<dict>
@@ -8109,68 +8105,6 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 	</dict>
 	<key>30</key>
 	<dict>
-		<key>author</key>
-		<string>St. Augustine</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:51:28Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:35:23Z</date>
-		<key>dogTag</key>
-		<integer>803691</integer>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Non-fiction, Classic, Historical, Religion</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781598563375</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>804</string>
-		<key>placePublished</key>
-		<string>Peabody, Mass.</string>
-		<key>publisher</key>
-		<string>Hendrickson Publishers</string>
-		<key>releaseDate</key>
-		<date>2016-04-20T05:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Early works to 1800, Apologetics, Kingdom of God</string>
-		<key>summary</key>
-		<string>The City of God by Augustine of Hippo Shaw from Coterie Classics 
- All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. 
- “God is always trying to give good things to us, but our hands are too full to receive them.” ― Augustine of Hippo, City of God 
- City of God was written just as Rome was coming to an end and is essential for understanding the history of Western Christendom.</string>
-		<key>title</key>
-		<string>The City of God</string>
-		<key>translator</key>
-		<string>Marcus Dods</string>
-		<key>uid</key>
-		<integer>67</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/803691</string>
-	</dict>
-	<key>31</key>
-	<dict>
 		<key>asin</key>
 		<string>0321774086</string>
 		<key>author</key>
@@ -8178,13 +8112,13 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:21Z</date>
+		<date>2017-05-09T22:03:03Z</date>
 		<key>dimensions</key>
 		<string>1.34 x 9.06 x 7.01 in</string>
 		<key>dogTag</key>
@@ -8238,20 +8172,20 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/38927</string>
 	</dict>
-	<key>32</key>
+	<key>31</key>
 	<dict>
 		<key>author</key>
 		<string>Aaron Hillegass</string>
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:48:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:19Z</date>
+		<date>2017-05-09T22:03:13Z</date>
 		<key>dogTag</key>
 		<integer>1304841</integer>
 		<key>edition</key>
@@ -8298,18 +8232,18 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1304841</string>
 	</dict>
-	<key>33</key>
+	<key>32</key>
 	<dict>
 		<key>author</key>
 		<string>Thomas N. Hart</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:16Z</date>
+		<date>2017-05-09T22:24:39Z</date>
 		<key>dimensions</key>
 		<string>20.30 cm x 13.70 cm x 0.90 cm</string>
 		<key>format</key>
@@ -8351,7 +8285,7 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>http://books.google.com/books?id=P28i2MHShWEC</string>
 	</dict>
-	<key>34</key>
+	<key>33</key>
 	<dict>
 		<key>author</key>
 		<string>Beatrix Potter</string>
@@ -8404,7 +8338,7 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>https://www.amazon.com/Complete-Peter-Rabbit-Beatrix-Potter/dp/0448489473?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0448489473</string>
 	</dict>
-	<key>35</key>
+	<key>34</key>
 	<dict>
 		<key>author</key>
 		<string>Edgar Allan Poe</string>
@@ -8463,7 +8397,7 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9781435154469</string>
 	</dict>
-	<key>36</key>
+	<key>35</key>
 	<dict>
 		<key>author</key>
 		<string>A. A. Milne</string>
@@ -8518,7 +8452,7 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>https://www.amazon.com/Complete-Tales-Winnie-Pooh/dp/1101948175?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1101948175</string>
 	</dict>
-	<key>37</key>
+	<key>36</key>
 	<dict>
 		<key>author</key>
 		<string>John Grisham</string>
@@ -8585,18 +8519,18 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/446001</string>
 	</dict>
-	<key>38</key>
+	<key>37</key>
 	<dict>
 		<key>author</key>
 		<string>The Founding Fathers of the United States of America</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:34:35Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:05Z</date>
+		<date>2017-05-09T22:08:01Z</date>
 		<key>dimensions</key>
 		<string>24.1 x 15.9 x 4.3 cm</string>
 		<key>dogTag</key>
@@ -8648,7 +8582,7 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1014671</string>
 	</dict>
-	<key>39</key>
+	<key>38</key>
 	<dict>
 		<key>author</key>
 		<string>Alexandre Dumas</string>
@@ -8719,54 +8653,7 @@ Secondly, look for the Robin Buss Translation.  Many of the versions of this boo
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/63069</string>
 	</dict>
-	<key>4</key>
-	<dict>
-		<key>author</key>
-		<string>Trent Horn</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-20T21:27:43Z</date>
-		<key>dateEdited</key>
-		<date>2017-01-01T23:04:09Z</date>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781938983870</string>
-		<key>localeLanguage</key>
-		<string>it</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>placePublished</key>
-		<string>El Cajon, California</string>
-		<key>publisher</key>
-		<string>Catholic Answers, Inc.</string>
-		<key>releaseDate</key>
-		<date>2014-05-20T17:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Religion, Catholic, Faith, Science</string>
-		<key>title</key>
-		<string>20 Answers: Faith &amp; Science</string>
-		<key>uid</key>
-		<integer>108</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-	</dict>
-	<key>40</key>
+	<key>39</key>
 	<dict>
 		<key>author</key>
 		<string>Fyodor Dostoevsky</string>
@@ -8838,7 +8725,54 @@ and an Afterword by Robin Feuer Miller
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2125041</string>
 	</dict>
-	<key>41</key>
+	<key>4</key>
+	<dict>
+		<key>author</key>
+		<string>Trent Horn</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-20T21:27:43Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-09T22:22:27Z</date>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781938983870</string>
+		<key>localeLanguage</key>
+		<string>it</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>placePublished</key>
+		<string>El Cajon, California</string>
+		<key>publisher</key>
+		<string>Catholic Answers, Inc.</string>
+		<key>releaseDate</key>
+		<date>2014-05-20T17:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Religion, Catholic, Faith, Science</string>
+		<key>title</key>
+		<string>20 Answers: Faith &amp; Science</string>
+		<key>uid</key>
+		<integer>108</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+	</dict>
+	<key>40</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -8910,7 +8844,7 @@ and an Afterword by Robin Feuer Miller
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/72954</string>
 	</dict>
-	<key>42</key>
+	<key>41</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -8984,18 +8918,18 @@ and an Afterword by Robin Feuer Miller
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/73831</string>
 	</dict>
-	<key>43</key>
+	<key>42</key>
 	<dict>
 		<key>author</key>
 		<string>Régine Pernoud</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-19T01:34:41Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:34:53Z</date>
+		<date>2017-05-09T22:14:12Z</date>
 		<key>dimensions</key>
 		<string>21.00 cm x 13.30 cm x 2.50 cm</string>
 		<key>dogTag</key>
@@ -9053,7 +8987,7 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2057981</string>
 	</dict>
-	<key>44</key>
+	<key>43</key>
 	<dict>
 		<key>author</key>
 		<string>Neal Stephenson</string>
@@ -9126,20 +9060,20 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2978</string>
 	</dict>
-	<key>45</key>
+	<key>44</key>
 	<dict>
 		<key>author</key>
 		<string>George Weigel</string>
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:51:25Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:34:49Z</date>
+		<date>2017-05-09T22:24:13Z</date>
 		<key>dimensions</key>
 		<string>21.00 cm x 12.70 cm x 1.90 cm</string>
 		<key>dogTag</key>
@@ -9195,18 +9129,18 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/652761</string>
 	</dict>
-	<key>46</key>
+	<key>45</key>
 	<dict>
 		<key>author</key>
 		<string>Howard R. Garis</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:26:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:34:46Z</date>
+		<date>2017-05-09T21:55:35Z</date>
 		<key>edition</key>
 		<string>1St Edition</string>
 		<key>format</key>
@@ -9246,20 +9180,20 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<key>url</key>
 		<string>https://www.amazon.com/Curlytops-Touring-Around-Playmates-Cherry/dp/B00JFF8GK2?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00JFF8GK2</string>
 	</dict>
-	<key>47</key>
+	<key>46</key>
 	<dict>
 		<key>author</key>
 		<string>Carl E Olson</string>
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:09Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:34:45Z</date>
+		<date>2017-05-09T22:13:16Z</date>
 		<key>dimensions</key>
 		<string>21.00 cm x 13.30 cm x 2.20 cm</string>
 		<key>dogTag</key>
@@ -9308,6 +9242,51 @@ Régine Pernoud, a renowned French archivist and historian, is among the greates
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049831</string>
+	</dict>
+	<key>47</key>
+	<dict>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:51:24Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-09T22:23:50Z</date>
+		<key>genre</key>
+		<string>Non-fiction, Religion</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780824904708</string>
+		<key>locale</key>
+		<string>US</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>price</key>
+		<string>$10.0</string>
+		<key>publisher</key>
+		<string>1899-12-30</string>
+		<key>releaseDate</key>
+		<date>1899-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>title</key>
+		<string>Daily Guideposts 2015</string>
+		<key>uid</key>
+		<integer>64</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://abebooks.com/products/isbn/9780824904708</string>
 	</dict>
 	<key>48</key>
 	<dict>
@@ -9435,48 +9414,69 @@ But can Painter discover the truth--one that could topple governments--before it
 	</dict>
 	<key>5</key>
 	<dict>
+		<key>author</key>
+		<string>A. T. B. Edney</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
-		<date>2016-05-14T21:51:24Z</date>
+		<date>2016-11-23T20:36:06Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:14Z</date>
+		<date>2017-05-09T22:07:33Z</date>
+		<key>dimensions</key>
+		<string>17.8 x 12.6 x 0.5 cm</string>
+		<key>dogTag</key>
+		<integer>746461</integer>
+		<key>edition</key>
+		<string>First Edition</string>
+		<key>format</key>
+		<string>Paperback</string>
 		<key>genre</key>
-		<string>Non-fiction, Religion</string>
+		<string>Non-fiction, Handbooks, manuals, etc</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
 		<key>isbn</key>
-		<string>9780824904708</string>
-		<key>locale</key>
-		<string>US</string>
+		<string>9781564589866</string>
 		<key>localeLanguage</key>
 		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$0.01</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
+		<key>pages</key>
+		<string>72</string>
+		<key>placePublished</key>
+		<string>New York</string>
 		<key>price</key>
-		<string>$10.0</string>
+		<string>$4.95</string>
 		<key>publisher</key>
-		<string>1899-12-30</string>
+		<string>Dorling Kindersley ; Boston</string>
 		<key>releaseDate</key>
-		<date>1899-01-01T06:00:00Z</date>
+		<date>1995-01-01T06:00:00Z</date>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
+		<key>subjects</key>
+		<string>Cats, Handbooks Manuals Etc</string>
+		<key>summary</key>
+		<string>Know-how in a nutshell.  
+The step-by-step series that brings expert advice at an affordable price. Gives quick answers to all questions. Each point can be absorbed in an instant.</string>
 		<key>title</key>
-		<string>2015 Daily Guideposts</string>
+		<string>101 Essential Tips: Cat Care</string>
 		<key>uid</key>
-		<integer>64</integer>
+		<integer>140</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
 		<key>url</key>
-		<string>http://abebooks.com/products/isbn/9780824904708</string>
+		<string>http://doghouse.bruji.com/book/746461</string>
 	</dict>
 	<key>50</key>
 	<dict>
@@ -9487,13 +9487,13 @@ But can Painter discover the truth--one that could topple governments--before it
 		<key>children</key>
 		<string>Ages 16+</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-19T01:37:06Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:34:40Z</date>
+		<date>2017-05-09T22:23:04Z</date>
 		<key>dewey</key>
 		<string>851.1</string>
 		<key>dimensions</key>
@@ -10969,13 +10969,13 @@ Seventeen-year-old Lochan and sixteen-year-old Maya have always felt more like f
 		<key>author</key>
 		<string>Fr. Alain Delagneau</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-19T01:38:37Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:15:42Z</date>
+		<date>2017-05-09T22:26:45Z</date>
 		<key>format</key>
 		<string>Softcover</string>
 		<key>genre</key>
@@ -12402,13 +12402,13 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>author</key>
 		<string>Rebecca Caudill</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:31:39Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:35Z</date>
+		<date>2017-05-09T21:55:51Z</date>
 		<key>edition</key>
 		<string>[1st ed.]</string>
 		<key>format</key>
@@ -12459,13 +12459,13 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>author</key>
 		<string>Arthur Train</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:24:01Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:32Z</date>
+		<date>2017-05-09T21:49:15Z</date>
 		<key>dimensions</key>
 		<string>17.8 x 12.7 x 1.5 cm</string>
 		<key>edition</key>
@@ -12525,13 +12525,13 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>comic</key>
 		<integer>0</integer>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-14T21:49:14Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:36:07Z</date>
+		<date>2017-05-09T22:10:23Z</date>
 		<key>dimensions</key>
 		<string>10.2 x 15.2 x 10.2 cm</string>
 		<key>dogTag</key>
@@ -13102,13 +13102,13 @@ When sixteen-year-old Zoey Redbird is "Marked" by a vampyre tracker and begins t
 		<key>author</key>
 		<string>Bob West</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-20T21:21:46Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:22Z</date>
+		<date>2017-05-09T22:22:05Z</date>
 		<key>dimensions</key>
 		<string>17.50 cm x 10.60 cm x 0.70 cm</string>
 		<key>dogTag</key>
