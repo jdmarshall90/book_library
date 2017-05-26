@@ -1305,7 +1305,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>dateAdded</key>
 		<date>2016-12-09T02:41:45Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-07T20:24:40Z</date>
+		<date>2017-05-23T02:37:53Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -1324,6 +1324,15 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780312873073</string>
+		<key>lastRead</key>
+		<date>2017-05-22T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2017-05-22T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>lowestNewPrice</key>
