@@ -41,6 +41,7 @@
 		<string>Charles S. Strong</string>
 		<string>Chris Kyle</string>
 		<string>Christopher Tolkien</string>
+		<string>Courtney Cole</string>
 		<string>Dan J. Forrestal</string>
 		<string>Dante Alighieri</string>
 		<string>Donald F. Glut</string>
@@ -69,6 +70,7 @@
 		<string>H.G. Wells</string>
 		<string>Harriet Mcdougal</string>
 		<string>Hazel Dodge</string>
+		<string>Homer</string>
 		<string>Howard R. Garis</string>
 		<string>Isaac Asimov</string>
 		<string>J  K Rowling</string>
@@ -116,6 +118,7 @@
 		<string>Michael Leach</string>
 		<string>Michael Mucci</string>
 		<string>Miguel De Cervantes</string>
+		<string>Multiple Authors</string>
 		<string>Nathaniel Hawthorne</string>
 		<string>Neal Stephenson</string>
 		<string>Nicholas Sparks</string>
@@ -156,11 +159,13 @@
 		<string>The Founding Fathers of the United States of America</string>
 		<string>Thomas à Kempis</string>
 		<string>Thomas N. Hart</string>
+		<string>Tiffany King</string>
 		<string>Trent Horn</string>
 		<string>Us Catholic Conference Of Bishops</string>
 		<string>US Conference of Catholic Bishops</string>
 		<string>Walter J Savitch</string>
 		<string>Walter J. Savitch</string>
+		<string>Weta</string>
 		<string>William J. Bennett</string>
 		<string>William Shakespeare</string>
 		<string>Wizards Rpg Team</string>
@@ -501,12 +506,14 @@
 		<string>F Watts</string>
 		<string>Fall River Press</string>
 		<string>Fireside Catholic Publishing</string>
+		<string>Forever</string>
 		<string>Garden City Books</string>
 		<string>Gideons International</string>
 		<string>Grand Central Publishing</string>
 		<string>Gus Lloyd</string>
 		<string>Harcourt Paperbacks</string>
 		<string>Harper</string>
+		<string>Harper Design</string>
 		<string>Harper Perennial</string>
 		<string>Harper Trophy</string>
 		<string>HarperAudio</string>
