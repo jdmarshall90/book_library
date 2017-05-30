@@ -518,13 +518,13 @@ When sixteen-year-old Zoey Redbird is "Marked" by a vampyre tracker and begins t
 		<key>author</key>
 		<string>Courtney Cole</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2017-05-28T01:33:16Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-28T01:36:41Z</date>
+		<date>2017-05-30T21:58:43Z</date>
 		<key>dimensions</key>
 		<string>20.3 x 13.3 x 2.5 cm</string>
 		<key>edition</key>
@@ -583,13 +583,13 @@ Sweet, beautiful Mila Hill is the fresh air that Pax has never known in his life
 		<key>author</key>
 		<string>Homer</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2017-05-28T01:34:08Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-28T01:34:08Z</date>
+		<date>2017-05-30T21:58:26Z</date>
 		<key>dimensions</key>
 		<string>23.8 x 16.7 x 4.7 cm</string>
 		<key>edition</key>
@@ -3234,13 +3234,13 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>author</key>
 		<string>Multiple Authors</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2017-05-28T01:33:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-28T01:36:07Z</date>
+		<date>2017-05-30T21:55:26Z</date>
 		<key>dimensions</key>
 		<string>24.3 x 16.9 x 4.2 cm</string>
 		<key>format</key>
@@ -3354,13 +3354,13 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>comments</key>
 		<string>I am pretty sure Uncle Bob Starbody gave this to me.</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:01:37Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:36Z</date>
+		<date>2017-05-30T22:15:28Z</date>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Bible</string>
 		<key>hasBeenSold</key>
@@ -3384,20 +3384,16 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 	</dict>
 	<key>142</key>
 	<dict>
-		<key>author</key>
-		<string>World Bible Publishing St</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:54:58Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:18Z</date>
+		<date>2017-05-30T22:30:11Z</date>
 		<key>dimensions</key>
 		<string>21.8 x 13.7 x 5.1 cm</string>
-		<key>edition</key>
-		<string>New American Bible Revised ed.</string>
 		<key>format</key>
 		<string>Paperback</string>
 		<key>genre</key>
@@ -3406,8 +3402,6 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780529064844</string>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>lowestNewPrice</key>
@@ -3418,54 +3412,31 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
-		<key>pages</key>
-		<string>1394</string>
-		<key>price</key>
-		<string>$6.95</string>
 		<key>publisher</key>
-		<string>Catholic World Press/World Bible Publishers</string>
-		<key>releaseDate</key>
-		<date>2011-05-27T05:00:00Z</date>
+		<string>The Gideons International</string>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
-		<key>summary</key>
-		<string>Uniquely American, this popular translation is the easiest to understand Catholic edition of the Bible. This modern translation was prepared by over 50 scholars to capture the thought and individual style of the inspired writers while still making this translation easy to use for all ages.
-The New American Bible is the perfect Bible for your Catholic family and friends, and these editions from Catholic World Press will make perfect gifts. It's the official Catholic Bible -- as authorized by the Bishop's Committee of Christian Doctrine.
-Special versions of the official Catholic translation with features for students and gift giving.
-Concise, authoritative notes
-Revised New Testament and Psalms
-Family register and full-color maps (2405 and 2406 editions only)
-Chronological listing of Christ's miracles and discourses
-List of the Popes
-Book introductions
-Cross references
-Footnotes
-Maps
-Presentation page
-Red letter (except 2401)</string>
 		<key>title</key>
-		<string>New Testament Psalms (Bible)</string>
+		<string>New Testament Psalms</string>
 		<key>uid</key>
 		<integer>146</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/American-Bible-Revised-Psalms-Testament/dp/0529064847?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0529064847</string>
 	</dict>
 	<key>143</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:09:51Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:15Z</date>
+		<date>2017-05-30T22:11:53Z</date>
 		<key>dimensions</key>
 		<string>11.7 x 8.4 x 1.8 cm</string>
 		<key>format</key>
@@ -3508,13 +3479,13 @@ Red letter (except 2401)</string>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:06:32Z</date>
 		<key>dateEdited</key>
-		<date>2017-01-01T22:30:48Z</date>
+		<date>2017-05-30T22:11:28Z</date>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Bible</string>
 		<key>hasBeenSold</key>
@@ -3543,13 +3514,13 @@ Red letter (except 2401)</string>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T21:14:00Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:12Z</date>
+		<date>2017-05-30T22:13:28Z</date>
 		<key>dimensions</key>
 		<string>10.9 x 7.1 x 2.5 cm</string>
 		<key>format</key>
@@ -3589,73 +3560,53 @@ Red letter (except 2401)</string>
 	</dict>
 	<key>146</key>
 	<dict>
-		<key>author</key>
-		<string>Seminars Unlimited</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:55:18Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:09Z</date>
+		<date>2017-05-30T22:31:36Z</date>
 		<key>dimensions</key>
 		<string>20.6 x 13.7 x 4.1 cm</string>
-		<key>edition</key>
-		<string>Referenced, red letter ed., with dictionary, index, and concordance</string>
-		<key>editor</key>
-		<string>A Regency Bible</string>
-		<key>format</key>
-		<string>Hardcover</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Bible</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780915741045</string>
 		<key>localeLanguage</key>
 		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$79.09</string>
-		<key>lowestUsedPrice</key>
-		<string>$11.01</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
-		<key>pages</key>
-		<string>610</string>
 		<key>publisher</key>
-		<string>Royal Publishers, Inc.</string>
+		<string>The World Publishing Company</string>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
-		<key>summary</key>
-		<string>This coffee-table size Bible includes an illustrated Bible Dictionary, a family registry, asection for geneology record keeping, index, concordance, and beautiful full-page color illustrations.</string>
 		<key>title</key>
 		<string>New Testament: Red Letter Edition (Bible)</string>
 		<key>uid</key>
 		<integer>147</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Holy-Bible-King-James-Version/dp/B000H3VC0M?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000H3VC0M</string>
 	</dict>
 	<key>147</key>
 	<dict>
 		<key>author</key>
 		<string>Tiffany King</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2017-05-28T01:33:41Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-28T01:36:27Z</date>
+		<date>2017-05-30T21:58:54Z</date>
 		<key>edition</key>
 		<string>Reprint</string>
 		<key>format</key>
@@ -3706,13 +3657,13 @@ Love can come when you least expect it. The question is: If the odds are stacked
 		<key>author</key>
 		<string>Eberhard Nestle</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-19T01:39:29Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:32:07Z</date>
+		<date>2017-05-30T22:08:53Z</date>
 		<key>dogTag</key>
 		<integer>2057991</integer>
 		<key>format</key>
@@ -3724,7 +3675,7 @@ Love can come when you least expect it. The question is: If the odds are stacked
 		<key>hasMovieLink</key>
 		<integer>0</integer>
 		<key>isbn</key>
-		<string>9783438053008</string>
+		<string>9783438053004</string>
 		<key>language</key>
 		<string>de</string>
 		<key>localeLanguage</key>
@@ -4186,13 +4137,13 @@ When Brittany Ellis walks into chemistry class on the first day of senior year, 
 		<key>author</key>
 		<string>Wizards RPG Team</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2017-03-10T04:52:37Z</date>
 		<key>dateEdited</key>
-		<date>2017-03-10T04:54:37Z</date>
+		<date>2017-05-30T22:17:53Z</date>
 		<key>dimensions</key>
 		<string>28.4 x 21.6 x 2.2 cm</string>
 		<key>edition</key>
@@ -5006,13 +4957,13 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>author</key>
 		<string>Catholic Book Publishing Co</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-05-19T01:44:23Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:44Z</date>
+		<date>2017-05-30T22:00:38Z</date>
 		<key>dimensions</key>
 		<string>22.7 x 16.2 x 4.9 cm</string>
 		<key>edition</key>
@@ -5829,13 +5780,13 @@ But when Amelia gets hurt, it sets off a chain of events that forces them to con
 	<key>176</key>
 	<dict>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:45:14Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:31:23Z</date>
+		<date>2017-05-30T22:22:27Z</date>
 		<key>dimensions</key>
 		<string>9.1 x 6.1 x 1.1 inches</string>
 		<key>edition</key>
@@ -5849,7 +5800,7 @@ But when Amelia gets hurt, it sets off a chain of events that forces them to con
 		<key>hasMovieLink</key>
 		<integer>0</integer>
 		<key>isbn</key>
-		<string>9780842334266</string>
+		<string>0842319093</string>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>lowestNewPrice</key>
@@ -9023,13 +8974,13 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>author</key>
 		<string>Beatrix Potter</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-12-24T18:11:27Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:14Z</date>
+		<date>2017-05-30T21:55:48Z</date>
 		<key>dimensions</key>
 		<string>26.9 x 19.8 x 4.3 cm</string>
 		<key>format</key>
@@ -9135,13 +9086,13 @@ A tribute to a simpler era and a devastating exercise in escalating suspense, "1
 		<key>author</key>
 		<string>A. A. Milne</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-12-24T18:11:40Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:35:09Z</date>
+		<date>2017-05-30T21:56:17Z</date>
 		<key>dimensions</key>
 		<string>23.4 x 16.5 x 4.5 cm</string>
 		<key>format</key>
@@ -13599,13 +13550,13 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<key>author</key>
 		<string>Weta</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2017-05-28T01:32:57Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-28T01:37:46Z</date>
+		<date>2017-05-30T21:57:29Z</date>
 		<key>dimensions</key>
 		<string>1.9 x 31.8 x 24.8 cm</string>
 		<key>edition</key>
@@ -13719,141 +13670,50 @@ Chock full of insider stories, details, and insights, The Hobbit: The Battle of 
 	<key>97</key>
 	<dict>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:56:33Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:30Z</date>
+		<date>2017-05-30T22:34:15Z</date>
 		<key>dimensions</key>
 		<string>0.0 x 0.0 cm</string>
-		<key>edition</key>
-		<string>2015/2016</string>
-		<key>format</key>
-		<string>Imitation Leather</string>
 		<key>genre</key>
 		<string>Non-fiction, Religion, Bible</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781432102401</string>
 		<key>localeLanguage</key>
 		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$19.03</string>
-		<key>lowestUsedPrice</key>
-		<string>$94.64</string>
 		<key>myRating</key>
 		<integer>0</integer>
 		<key>onSale</key>
 		<integer>0</integer>
-		<key>pages</key>
-		<string>1002</string>
-		<key>price</key>
-		<string>$24.99</string>
-		<key>publisher</key>
-		<string>Collins</string>
-		<key>releaseDate</key>
-		<date>2013-05-15T05:00:00Z</date>
 		<key>signed</key>
 		<integer>0</integer>
 		<key>status</key>
 		<integer>0</integer>
-		<key>summary</key>
-		<string>Beautifully detailed Burgundy Faux Leather Bound King James Bible. The cover is constructed of quality man-made material imported from Italy, with the look and feel of real leather (trade name LuxLeather). Design features include a detailed engraved decorative border on the front and back cover, gold foiled debossed title, gold gilt-edged pages with thumb indexing and an attached ribbon page marker. Inside, you'll find reader-friendly subheadings, a double-column format, words of Christ printed in red ink, a helpful Scripture verse finder by topic and a one-year Bible reading plan. 1002 Pages. 
-Text Size 9pt 
- 5 5/8 x 8 5/8 x 1 Inch 1002 Gold Gilt-Edged Pages Faux Leather Flexcover Bound Thumb Indexing Lay-Flat Spine Attached Ribbon Page Marker Words of Christ in Red Ink Unique Scripture Verse Finder One-Year Bible Reading Plan</string>
 		<key>title</key>
 		<string>Holy Bible</string>
 		<key>uid</key>
 		<integer>148</integer>
 		<key>uploaded</key>
 		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Holy-Bible-Standard-Thumb-Burgundy/dp/1432102400?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1432102400</string>
 	</dict>
 	<key>98</key>
 	<dict>
 		<key>author</key>
-		<string>Zondervan</string>
-		<key>customCheckbox1</key>
-		<integer>0</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T20:45:35Z</date>
-		<key>dateEdited</key>
-		<date>2017-02-03T03:33:27Z</date>
-		<key>dimensions</key>
-		<string>21.1 x 14.2 x 3.3 cm</string>
-		<key>dogTag</key>
-		<integer>2058001</integer>
-		<key>edition</key>
-		<string>Revised</string>
-		<key>format</key>
-		<string>Leather Bound</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Bible</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780310926160</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$6.46</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>736</string>
-		<key>placePublished</key>
-		<string>Holy Bible : New International Version.</string>
-		<key>price</key>
-		<string>$7.99</string>
-		<key>publisher</key>
-		<string>Zondervan Pub House</string>
-		<key>releaseDate</key>
-		<date>2001-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Bible, New International</string>
-		<key>summary</key>
-		<string>Contains the King James Version of the Holy Bible both Old and New Testaments.</string>
-		<key>title</key>
-		<string>Holy Bible : New International Version.</string>
-		<key>uid</key>
-		<integer>145</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2058001</string>
-	</dict>
-	<key>99</key>
-	<dict>
-		<key>author</key>
 		<string>US Conference of Catholic Bishops</string>
 		<key>customCheckbox1</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
 		<date>2016-11-23T20:43:04Z</date>
 		<key>dateEdited</key>
-		<date>2017-02-03T03:33:25Z</date>
+		<date>2017-05-30T22:01:24Z</date>
 		<key>dimensions</key>
 		<string>23.6 x 17.3 x 3.8 cm</string>
 		<key>edition</key>
@@ -13902,6 +13762,73 @@ Text Size 9pt
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL26020559M</string>
+	</dict>
+	<key>99</key>
+	<dict>
+		<key>author</key>
+		<string>Zondervan</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-23T20:45:35Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-30T22:25:14Z</date>
+		<key>dimensions</key>
+		<string>21.1 x 14.2 x 3.3 cm</string>
+		<key>dogTag</key>
+		<integer>2058001</integer>
+		<key>edition</key>
+		<string>Revised</string>
+		<key>format</key>
+		<string>Leather Bound</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Bible</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>0310926165</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$6.46</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>736</string>
+		<key>placePublished</key>
+		<string>Holy Bible : New International Version.</string>
+		<key>price</key>
+		<string>$7.99</string>
+		<key>publisher</key>
+		<string>Zondervan Pub House</string>
+		<key>releaseDate</key>
+		<date>2001-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Bible, New International</string>
+		<key>summary</key>
+		<string>Contains the King James Version of the Holy Bible both Old and New Testaments.</string>
+		<key>title</key>
+		<string>Holy Bible: New International Version.</string>
+		<key>uid</key>
+		<integer>145</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2058001</string>
 	</dict>
 	<key>Version</key>
 	<string>New</string>
