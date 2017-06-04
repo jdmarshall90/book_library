@@ -45,6 +45,7 @@
 		<string>Dan J. Forrestal</string>
 		<string>Dante Alighieri</string>
 		<string>Donald F. Glut</string>
+		<string>Douglas Adams</string>
 		<string>Douglas Brinkley</string>
 		<string>Eberhard Nestle</string>
 		<string>Edgar Allan Poe</string>
@@ -379,6 +380,7 @@
 		<string>Thrillers &amp; Mystery</string>
 		<string>Topic</string>
 		<string>Travel</string>
+		<string>Young Adult</string>
 	</array>
 	<key>gift</key>
 	<array>
@@ -512,6 +514,7 @@
 		<string>Grand Central Publishing</string>
 		<string>Gus Lloyd</string>
 		<string>Harcourt Paperbacks</string>
+		<string>Harmony Books</string>
 		<string>Harper</string>
 		<string>Harper Design</string>
 		<string>Harper Perennial</string>

@@ -142,6 +142,73 @@
 	<key>100</key>
 	<dict>
 		<key>author</key>
+		<string>Zondervan</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-23T20:45:35Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-30T22:25:14Z</date>
+		<key>dimensions</key>
+		<string>21.1 x 14.2 x 3.3 cm</string>
+		<key>dogTag</key>
+		<integer>2058001</integer>
+		<key>edition</key>
+		<string>Revised</string>
+		<key>format</key>
+		<string>Leather Bound</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Bible</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>0310926165</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$6.46</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>736</string>
+		<key>placePublished</key>
+		<string>Holy Bible : New International Version.</string>
+		<key>price</key>
+		<string>$7.99</string>
+		<key>publisher</key>
+		<string>Zondervan Pub House</string>
+		<key>releaseDate</key>
+		<date>2001-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Bible, New International</string>
+		<key>summary</key>
+		<string>Contains the King James Version of the Holy Bible both Old and New Testaments.</string>
+		<key>title</key>
+		<string>Holy Bible: New International Version.</string>
+		<key>uid</key>
+		<integer>145</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2058001</string>
+	</dict>
+	<key>101</key>
+	<dict>
+		<key>author</key>
 		<string>C. S Lewis</string>
 		<key>customCheckbox1</key>
 		<integer>1</integer>
@@ -257,7 +324,7 @@
 		<key>url</key>
 		<string>https://www.amazon.com/horse-his-boy-Chronicles-Narnia/dp/0590254774?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0590254774</string>
 	</dict>
-	<key>101</key>
+	<key>102</key>
 	<dict>
 		<key>author</key>
 		<string>P. C. Cast, Kristin Cast</string>
@@ -319,7 +386,7 @@ When sixteen-year-old Zoey Redbird is "Marked" by a vampyre tracker and begins t
 		<key>url</key>
 		<string>https://www.amazon.com/House-Night-Beginning-Marked-Betrayed/dp/1250037239?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1250037239</string>
 	</dict>
-	<key>102</key>
+	<key>103</key>
 	<dict>
 		<key>author</key>
 		<string>Bob West</string>
@@ -383,7 +450,7 @@ When sixteen-year-old Zoey Redbird is "Marked" by a vampyre tracker and begins t
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1289171</string>
 	</dict>
-	<key>103</key>
+	<key>104</key>
 	<dict>
 		<key>author</key>
 		<string>M. E. Kerr</string>
@@ -442,7 +509,7 @@ When sixteen-year-old Zoey Redbird is "Marked" by a vampyre tracker and begins t
 		<key>url</key>
 		<string>https://www.amazon.com/Stay-Near-You-Story-Three/dp/0152014209?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0152014209</string>
 	</dict>
-	<key>104</key>
+	<key>105</key>
 	<dict>
 		<key>asin</key>
 		<string>0060521600</string>
@@ -513,7 +580,7 @@ When sixteen-year-old Zoey Redbird is "Marked" by a vampyre tracker and begins t
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3594</string>
 	</dict>
-	<key>105</key>
+	<key>106</key>
 	<dict>
 		<key>author</key>
 		<string>Courtney Cole</string>
@@ -578,7 +645,7 @@ Sweet, beautiful Mila Hill is the fresh air that Pax has never known in his life
 		<key>url</key>
 		<string>https://www.amazon.com/If-You-Stay-Beautifully-Broken/dp/1455550817?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1455550817</string>
 	</dict>
-	<key>106</key>
+	<key>107</key>
 	<dict>
 		<key>author</key>
 		<string>Homer</string>
@@ -637,7 +704,7 @@ Sweet, beautiful Mila Hill is the fresh air that Pax has never known in his life
 		<key>url</key>
 		<string>https://www.amazon.com/Iliad-Odyssey-Homer/dp/1435145380?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1435145380</string>
 	</dict>
-	<key>107</key>
+	<key>108</key>
 	<dict>
 		<key>author</key>
 		<string>Thomas à Kempis</string>
@@ -700,7 +767,7 @@ Sweet, beautiful Mila Hill is the fresh air that Pax has never known in his life
 		<key>url</key>
 		<string>http://books.google.com/books?id=wFEWnwEACAAJ</string>
 	</dict>
-	<key>108</key>
+	<key>109</key>
 	<dict>
 		<key>asin</key>
 		<string>0321821521</string>
@@ -776,7 +843,78 @@ Here are some of the topics covered:
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/245970</string>
 	</dict>
-	<key>109</key>
+	<key>11</key>
+	<dict>
+		<key>asin</key>
+		<string>068484267X</string>
+		<key>author</key>
+		<string>Frank McCourt</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:11Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-09T22:12:18Z</date>
+		<key>dewey</key>
+		<string>929.20899162073</string>
+		<key>dimensions</key>
+		<string>0.90 x 8.30 x 5.40 in</string>
+		<key>dogTag</key>
+		<integer>8351</integer>
+		<key>edition</key>
+		<string>13th Printing</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, Historical, Biography, Memoir</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780684842677</string>
+		<key>locale</key>
+		<string>US</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$2.80</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>368</string>
+		<key>price</key>
+		<string>$16.00</string>
+		<key>publisher</key>
+		<string>Simon &amp; Schuster (1999), Paperback, 368 pages</string>
+		<key>rating</key>
+		<string>2.5</string>
+		<key>releaseDate</key>
+		<date>1999-06-23T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Frank McCourt's haunting memoir takes on new life when the   author reads from his Pulitzer Prize-winning book. Recounting scenes   from his childhood in New York City and Limerick, Ireland, McCourt   paints a brutal yet poignant picture of his early days when there was   rarely enough food on the table, and boots and coats were a luxury. In   a melodic Irish voice that often lends a gentle humor to the   unimaginable, the author remembers his wayward yet adoring father who   was forever drinking what little money the family had. He recounts the   painful loss of his siblings to avoidable sickness and hunger, a proud   mother reduced to begging for charity, and the stench of the sewage-strewn streets that ran outside the front door. As McCourt approaches   adolescence, he discovers the shame of poverty and the beauty of   Shakespeare, the mystery of sex and the unforgiving power of the Irish   Catholic Church. This powerful and heart-rending testament to the   resiliency and determination of youth is populated with memorable   characters and moments, and McCourt's interpretation of the narrative   and the voices it contains will leave listeners laughing through their   tears.</string>
+		<key>title</key>
+		<string>Angela's Ashes: A Memoir</string>
+		<key>uid</key>
+		<integer>52</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/8351</string>
+	</dict>
+	<key>110</key>
 	<dict>
 		<key>author</key>
 		<string>Walter J. Savitch</string>
@@ -853,78 +991,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049811</string>
 	</dict>
-	<key>11</key>
-	<dict>
-		<key>asin</key>
-		<string>068484267X</string>
-		<key>author</key>
-		<string>Frank McCourt</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:11Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-09T22:12:18Z</date>
-		<key>dewey</key>
-		<string>929.20899162073</string>
-		<key>dimensions</key>
-		<string>0.90 x 8.30 x 5.40 in</string>
-		<key>dogTag</key>
-		<integer>8351</integer>
-		<key>edition</key>
-		<string>13th Printing</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Historical, Biography, Memoir</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780684842677</string>
-		<key>locale</key>
-		<string>US</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$2.80</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>368</string>
-		<key>price</key>
-		<string>$16.00</string>
-		<key>publisher</key>
-		<string>Simon &amp; Schuster (1999), Paperback, 368 pages</string>
-		<key>rating</key>
-		<string>2.5</string>
-		<key>releaseDate</key>
-		<date>1999-06-23T05:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>Frank McCourt's haunting memoir takes on new life when the   author reads from his Pulitzer Prize-winning book. Recounting scenes   from his childhood in New York City and Limerick, Ireland, McCourt   paints a brutal yet poignant picture of his early days when there was   rarely enough food on the table, and boots and coats were a luxury. In   a melodic Irish voice that often lends a gentle humor to the   unimaginable, the author remembers his wayward yet adoring father who   was forever drinking what little money the family had. He recounts the   painful loss of his siblings to avoidable sickness and hunger, a proud   mother reduced to begging for charity, and the stench of the sewage-strewn streets that ran outside the front door. As McCourt approaches   adolescence, he discovers the shame of poverty and the beauty of   Shakespeare, the mystery of sex and the unforgiving power of the Irish   Catholic Church. This powerful and heart-rending testament to the   resiliency and determination of youth is populated with memorable   characters and moments, and McCourt's interpretation of the narrative   and the voices it contains will leave listeners laughing through their   tears.</string>
-		<key>title</key>
-		<string>Angela's Ashes: A Memoir</string>
-		<key>uid</key>
-		<integer>52</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/8351</string>
-	</dict>
-	<key>110</key>
+	<key>111</key>
 	<dict>
 		<key>author</key>
 		<string>Barry Burd</string>
@@ -993,7 +1060,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049821</string>
 	</dict>
-	<key>111</key>
+	<key>112</key>
 	<dict>
 		<key>author</key>
 		<string>Alan Moore</string>
@@ -1055,7 +1122,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2319761</string>
 	</dict>
-	<key>112</key>
+	<key>113</key>
 	<dict>
 		<key>asin</key>
 		<string>0060763892</string>
@@ -1135,7 +1202,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/96272</string>
 	</dict>
-	<key>113</key>
+	<key>114</key>
 	<dict>
 		<key>author</key>
 		<string>William Shakespeare</string>
@@ -1213,7 +1280,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>https://www.amazon.com/Julius-Caesar-Folger-Shakespeare-Library/dp/0743482743?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0743482743</string>
 	</dict>
-	<key>114</key>
+	<key>115</key>
 	<dict>
 		<key>author</key>
 		<string>Michael Crichton</string>
@@ -1272,7 +1339,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780307291844</string>
 	</dict>
-	<key>115</key>
+	<key>116</key>
 	<dict>
 		<key>author</key>
 		<string>Mary Higgins Clark</string>
@@ -1331,7 +1398,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>https://www.amazon.com/Just-Take-My-Heart-Novel/dp/1416570861?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1416570861</string>
 	</dict>
-	<key>116</key>
+	<key>117</key>
 	<dict>
 		<key>author</key>
 		<string>Dan J. Forrestal</string>
@@ -1390,7 +1457,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>http://books.google.com/books?id=E_0JAQAAMAAJ</string>
 	</dict>
-	<key>117</key>
+	<key>118</key>
 	<dict>
 		<key>author</key>
 		<string>Catholic Church</string>
@@ -1462,7 +1529,7 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<key>url</key>
 		<string>https://www.amazon.com/Principle-Power-Kingdom-Citizenship-Experiencing/dp/0768408687?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0768408687</string>
 	</dict>
-	<key>118</key>
+	<key>119</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -1526,77 +1593,6 @@ This stand-alone access card package contains an access card for MyProgrammingLa
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1756871</string>
-	</dict>
-	<key>119</key>
-	<dict>
-		<key>asin</key>
-		<string>0385508042</string>
-		<key>author</key>
-		<string>John Grisham</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:44:34Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-02T02:17:57Z</date>
-		<key>dimensions</key>
-		<string>9.50 x 6.46 x 1.21 in</string>
-		<key>dogTag</key>
-		<integer>85773</integer>
-		<key>edition</key>
-		<string>First Edition</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780385508049</string>
-		<key>locale</key>
-		<string>US</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$0.20</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>384</string>
-		<key>price</key>
-		<string>£17.47</string>
-		<key>publisher</key>
-		<string>Doubleday Books</string>
-		<key>releaseDate</key>
-		<date>2003-02-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fantasy, Fiction, Science Fiction &amp; Fantasy, Mystery, Suspense, Fiction - Psychological Suspense, Detective And Mystery Stories, Washington (d.c.), Torts, Pharmaceutical Ethics</string>
-		<key>summary</key>
-		<string>The office of the public defender is not known as a training ground for bright young litigators.  Clay Carter has been there too long and, like most of his colleagues, dreams of a better job in a real firm.  When he reluctantly takes the case of a young man charged with a random street killing, he assumes it is just another of the many senseless murders that hit D.C. every week.
-
-As he digs into the background of his client, Clay stumbles on a conspiracy too horrible to believe.  He suddenly finds himself in the middle of a complex case against one of the largest pharmaceutical companies in the world, looking at the kind of enormous settlement that would totally change his life—that would make him, almost overnight, the legal profession’s newest king of torts...</string>
-		<key>title</key>
-		<string>The King of Torts</string>
-		<key>uid</key>
-		<integer>9</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/85773</string>
 	</dict>
 	<key>12</key>
 	<dict>
@@ -1677,6 +1673,77 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 	</dict>
 	<key>120</key>
 	<dict>
+		<key>asin</key>
+		<string>0385508042</string>
+		<key>author</key>
+		<string>John Grisham</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:44:34Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-02T02:17:57Z</date>
+		<key>dimensions</key>
+		<string>9.50 x 6.46 x 1.21 in</string>
+		<key>dogTag</key>
+		<integer>85773</integer>
+		<key>edition</key>
+		<string>First Edition</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780385508049</string>
+		<key>locale</key>
+		<string>US</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$0.20</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>384</string>
+		<key>price</key>
+		<string>£17.47</string>
+		<key>publisher</key>
+		<string>Doubleday Books</string>
+		<key>releaseDate</key>
+		<date>2003-02-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fantasy, Fiction, Science Fiction &amp; Fantasy, Mystery, Suspense, Fiction - Psychological Suspense, Detective And Mystery Stories, Washington (d.c.), Torts, Pharmaceutical Ethics</string>
+		<key>summary</key>
+		<string>The office of the public defender is not known as a training ground for bright young litigators.  Clay Carter has been there too long and, like most of his colleagues, dreams of a better job in a real firm.  When he reluctantly takes the case of a young man charged with a random street killing, he assumes it is just another of the many senseless murders that hit D.C. every week.
+
+As he digs into the background of his client, Clay stumbles on a conspiracy too horrible to believe.  He suddenly finds himself in the middle of a complex case against one of the largest pharmaceutical companies in the world, looking at the kind of enormous settlement that would totally change his life—that would make him, almost overnight, the legal profession’s newest king of torts...</string>
+		<key>title</key>
+		<string>The King of Torts</string>
+		<key>uid</key>
+		<integer>9</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/85773</string>
+	</dict>
+	<key>121</key>
+	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
 		<key>customCheckbox1</key>
@@ -1751,7 +1818,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/13036</string>
 	</dict>
-	<key>121</key>
+	<key>122</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Kent, George Knight</string>
@@ -1810,7 +1877,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1630721</string>
 	</dict>
-	<key>122</key>
+	<key>123</key>
 	<dict>
 		<key>author</key>
 		<string>C. S Lewis</string>
@@ -1930,7 +1997,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>https://www.amazon.com/Last-Battle-Chronicles-Narnia-Book/dp/0590254812?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0590254812</string>
 	</dict>
-	<key>123</key>
+	<key>124</key>
 	<dict>
 		<key>asin</key>
 		<string>0061230944</string>
@@ -2013,7 +2080,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/27449</string>
 	</dict>
-	<key>124</key>
+	<key>125</key>
 	<dict>
 		<key>author</key>
 		<string>Nicholas Sparks</string>
@@ -2074,7 +2141,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>https://www.amazon.com/Last-Song-Nicholas-Sparks/dp/0446547557?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0446547557</string>
 	</dict>
-	<key>125</key>
+	<key>126</key>
 	<dict>
 		<key>author</key>
 		<string>C. S. Lewis</string>
@@ -2194,7 +2261,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>https://www.amazon.com/Lion-Witch-Wardrobe-Chronicles-Narnia/dp/0590254766?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0590254766</string>
 	</dict>
-	<key>126</key>
+	<key>127</key>
 	<dict>
 		<key>asin</key>
 		<string>1444729705</string>
@@ -2259,7 +2326,7 @@ As he digs into the background of his client, Clay stumbles on a conspiracy too 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/75023</string>
 	</dict>
-	<key>127</key>
+	<key>128</key>
 	<dict>
 		<key>author</key>
 		<string>Nicholas Sparks</string>
@@ -2324,7 +2391,7 @@ Ira and Ruth. Sophia and Luke. Two couples who have little in common, and who ar
 		<key>url</key>
 		<string>https://www.amazon.com/Longest-Ride-Nicholas-Sparks/dp/1455520659?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1455520659</string>
 	</dict>
-	<key>128</key>
+	<key>129</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854285</string>
@@ -2405,7 +2472,64 @@ In this sequel to the phenomenal "New York Times" bestseller "The Fires of Heave
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/73904</string>
 	</dict>
-	<key>129</key>
+	<key>13</key>
+	<dict>
+		<key>author</key>
+		<string>Alex Flinn</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-04-30T21:47:09Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-31T21:22:49Z</date>
+		<key>edition</key>
+		<string>Revised</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Teen &amp; Young Adult</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780061998669</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>327</string>
+		<key>publisher</key>
+		<string>HarperTeen</string>
+		<key>releaseDate</key>
+		<date>2009-10-06T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>With a new Beauty and the Beast movie hitting theaters in spring 2017, it’s time to catch up on all things Beastly. Find out what it was like for the beast in Alex Flinn’s contemporary retelling of the classic tale. 
+I am a beast.
+A beast. Not quite wolf or bear, gorilla or dog but a horrible new creature who walks upright—a creature with fangs and claws and hair springing from every pore. I am a monster.
+You think I'm talking fairy tales? No way. The place is New York City. The time is now. It's no deformity, no disease. And I'll stay this way forever—ruined—unless I can break the spell.
+Yes, the spell, the one the witch in my English class cast on me. Why did she turn me into a beast who hides by day and prowls by night? I'll tell you. I'll tell you how I used to be Kyle Kingsbury, the guy you wished you were, with money, perfect looks, and the perfect life. And then, I'll tell you how I became perfectly . . . beastly.</string>
+		<key>tags</key>
+		<string>Erin</string>
+		<key>title</key>
+		<string>Beastly</string>
+		<key>uid</key>
+		<integer>204</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Beastly-Kendra-Chronicles-Alex-Flinn-ebook/dp/B004IK8Q2W?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B004IK8Q2W</string>
+	</dict>
+	<key>130</key>
 	<dict>
 		<key>author</key>
 		<string>C. S. Lewis</string>
@@ -2523,64 +2647,7 @@ In this sequel to the phenomenal "New York Times" bestseller "The Fires of Heave
 		<key>url</key>
 		<string>https://www.amazon.com/Magicians-Nephew-Chronicles-Narnia/dp/0590254758?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0590254758</string>
 	</dict>
-	<key>13</key>
-	<dict>
-		<key>author</key>
-		<string>Alex Flinn</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2017-04-30T21:47:09Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-31T21:22:49Z</date>
-		<key>edition</key>
-		<string>Revised</string>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Teen &amp; Young Adult</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780061998669</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>327</string>
-		<key>publisher</key>
-		<string>HarperTeen</string>
-		<key>releaseDate</key>
-		<date>2009-10-06T05:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>With a new Beauty and the Beast movie hitting theaters in spring 2017, it’s time to catch up on all things Beastly. Find out what it was like for the beast in Alex Flinn’s contemporary retelling of the classic tale. 
-I am a beast.
-A beast. Not quite wolf or bear, gorilla or dog but a horrible new creature who walks upright—a creature with fangs and claws and hair springing from every pore. I am a monster.
-You think I'm talking fairy tales? No way. The place is New York City. The time is now. It's no deformity, no disease. And I'll stay this way forever—ruined—unless I can break the spell.
-Yes, the spell, the one the witch in my English class cast on me. Why did she turn me into a beast who hides by day and prowls by night? I'll tell you. I'll tell you how I used to be Kyle Kingsbury, the guy you wished you were, with money, perfect looks, and the perfect life. And then, I'll tell you how I became perfectly . . . beastly.</string>
-		<key>tags</key>
-		<string>Erin</string>
-		<key>title</key>
-		<string>Beastly</string>
-		<key>uid</key>
-		<integer>204</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Beastly-Kendra-Chronicles-Alex-Flinn-ebook/dp/B004IK8Q2W?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B004IK8Q2W</string>
-	</dict>
-	<key>130</key>
+	<key>131</key>
 	<dict>
 		<key>asin</key>
 		<string>0679740678</string>
@@ -2657,7 +2724,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/977</string>
 	</dict>
-	<key>131</key>
+	<key>132</key>
 	<dict>
 		<key>author</key>
 		<string>James Rollins</string>
@@ -2720,7 +2787,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049791</string>
 	</dict>
-	<key>132</key>
+	<key>133</key>
 	<dict>
 		<key>author</key>
 		<string>Andy Weir</string>
@@ -2790,7 +2857,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1452331</string>
 	</dict>
-	<key>133</key>
+	<key>134</key>
 	<dict>
 		<key>author</key>
 		<string>Lisa Swerling, Ralph Lazar</string>
@@ -2843,7 +2910,7 @@ This harrowing, Hugo Award-winning novel is the work that established Philip K. 
 		<key>url</key>
 		<string>http://books.google.com/books?id=qN_IGi2qu1kC</string>
 	</dict>
-	<key>134</key>
+	<key>135</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -2930,7 +2997,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>url</key>
 		<string>https://www.amazon.com/Memory-Light-Wheel-Time-Book/dp/0765325950?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325950</string>
 	</dict>
-	<key>135</key>
+	<key>136</key>
 	<dict>
 		<key>author</key>
 		<string>James Walker</string>
@@ -2991,7 +3058,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>url</key>
 		<string>http://books.google.com/books?id=VRTFoAEACAAJ</string>
 	</dict>
-	<key>136</key>
+	<key>137</key>
 	<dict>
 		<key>author</key>
 		<string>Gus Lloyd</string>
@@ -3048,7 +3115,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>url</key>
 		<string>http://books.google.com/books?id=soSluQAACAAJ</string>
 	</dict>
-	<key>137</key>
+	<key>138</key>
 	<dict>
 		<key>author</key>
 		<string>Jone Cotner</string>
@@ -3103,7 +3170,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>url</key>
 		<string>https://www.amazon.com/Mothers-Daughters-Celebration-Jone-Cotner/dp/0385364768?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0385364768</string>
 	</dict>
-	<key>138</key>
+	<key>139</key>
 	<dict>
 		<key>author</key>
 		<string>Us Catholic Conference Of Bishops</string>
@@ -3162,7 +3229,64 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>url</key>
 		<string>https://www.amazon.com/New-Catholic-Answer-Bible-NABRE-Librosario-Burgundy/dp/1556654103?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1556654103</string>
 	</dict>
-	<key>139</key>
+	<key>14</key>
+	<dict>
+		<key>author</key>
+		<string>Multiple Authors</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-05-28T01:33:57Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-30T21:55:26Z</date>
+		<key>dimensions</key>
+		<string>24.3 x 16.9 x 4.2 cm</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Children's Books</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781435161276</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$17.33</string>
+		<key>lowestUsedPrice</key>
+		<string>$26.19</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>736</string>
+		<key>publisher</key>
+		<string>Sterling</string>
+		<key>releaseDate</key>
+		<date>2016-08-01T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>First Edition Thus and First Printing. New, and pristine. See scans and description. First Edition and First Printing of the 2016 bonded leather-bound decorative leather edition by Barnes &amp; Noble of "Beauty and the Beast and Other Classic Fairy Tales". ISBN 9781435161276. New York: Barnes &amp; Noble, Inc. with Sterling Publishing Co., Inc., 2016. Octavo; decorative bonded leather boards in pink-magenta, silver, and black; cover designs by Patrice Kaplan, full color front cover illustration by Laurel Long; the transfixing endpaper painting (scan), "A Garden with a Rose Arch" (Mallett Gallery, London) is by Edith Helena Adie; All Edges Silver; silver satin page-marker ribbon; 736 pp. (x + 726). New, immaculate and flawless. Removed from publisher's shrink wrap only for scanning and description; that removed shrink wrap accompanies the book. See all scans. Beauty and the Beast and a bevy of similarly magical fairy tales - see scans of all contents pages - lie within, in a decorator edition you'll probably prefer to display. A collectible First/First Thus. Ships in a new, sturdy, protective box, of course; not a bag. L9n</string>
+		<key>tags</key>
+		<string>Erin</string>
+		<key>title</key>
+		<string>Beauty and the Beast and Other Classic Fairy Tales</string>
+		<key>uid</key>
+		<integer>235</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Beauty-Classic-Barnes-Leatherbound-Collection/dp/1435161270?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1435161270</string>
+	</dict>
+	<key>140</key>
 	<dict>
 		<key>asin</key>
 		<string>0316024961</string>
@@ -3229,64 +3353,7 @@ By Robert Jordan, Harriet McDougal, Alan Romanczuk, and Maria Simons
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/69265</string>
 	</dict>
-	<key>14</key>
-	<dict>
-		<key>author</key>
-		<string>Multiple Authors</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2017-05-28T01:33:57Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-30T21:55:26Z</date>
-		<key>dimensions</key>
-		<string>24.3 x 16.9 x 4.2 cm</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Children's Books</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781435161276</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$17.33</string>
-		<key>lowestUsedPrice</key>
-		<string>$26.19</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>736</string>
-		<key>publisher</key>
-		<string>Sterling</string>
-		<key>releaseDate</key>
-		<date>2016-08-01T05:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>First Edition Thus and First Printing. New, and pristine. See scans and description. First Edition and First Printing of the 2016 bonded leather-bound decorative leather edition by Barnes &amp; Noble of "Beauty and the Beast and Other Classic Fairy Tales". ISBN 9781435161276. New York: Barnes &amp; Noble, Inc. with Sterling Publishing Co., Inc., 2016. Octavo; decorative bonded leather boards in pink-magenta, silver, and black; cover designs by Patrice Kaplan, full color front cover illustration by Laurel Long; the transfixing endpaper painting (scan), "A Garden with a Rose Arch" (Mallett Gallery, London) is by Edith Helena Adie; All Edges Silver; silver satin page-marker ribbon; 736 pp. (x + 726). New, immaculate and flawless. Removed from publisher's shrink wrap only for scanning and description; that removed shrink wrap accompanies the book. See all scans. Beauty and the Beast and a bevy of similarly magical fairy tales - see scans of all contents pages - lie within, in a decorator edition you'll probably prefer to display. A collectible First/First Thus. Ships in a new, sturdy, protective box, of course; not a bag. L9n</string>
-		<key>tags</key>
-		<string>Erin</string>
-		<key>title</key>
-		<string>Beauty and the Beast and Other Classic Fairy Tales</string>
-		<key>uid</key>
-		<integer>235</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Beauty-Classic-Barnes-Leatherbound-Collection/dp/1435161270?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=1435161270</string>
-	</dict>
-	<key>140</key>
+	<key>141</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -3349,7 +3416,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>url</key>
 		<string>https://www.amazon.com/Spring-Wheel-Time-Prequel-Novel/dp/B000ENWILW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000ENWILW</string>
 	</dict>
-	<key>141</key>
+	<key>142</key>
 	<dict>
 		<key>comments</key>
 		<string>I am pretty sure Uncle Bob Starbody gave this to me.</string>
@@ -3382,7 +3449,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>142</key>
+	<key>143</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>1</integer>
@@ -3425,7 +3492,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>143</key>
+	<key>144</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -3474,7 +3541,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL12315056M</string>
 	</dict>
-	<key>144</key>
+	<key>145</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -3509,7 +3576,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>145</key>
+	<key>146</key>
 	<dict>
 		<key>comments</key>
 		<string>I got this in 2008 while I was in the Air Force; either I received it before leaving the MEPS building in St. Louis, MO, or I received during BMT at Lacklack Air Force Base in San Antonio, TX.</string>
@@ -3558,7 +3625,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>url</key>
 		<string>https://www.amazon.com/Testament-Proverbs-International-Published-Publishing/dp/B00IKFD702?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00IKFD702</string>
 	</dict>
-	<key>146</key>
+	<key>147</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>1</integer>
@@ -3595,7 +3662,7 @@ For three days battle has raged in the snow around the great city of Tar Valon. 
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>147</key>
+	<key>148</key>
 	<dict>
 		<key>author</key>
 		<string>Tiffany King</string>
@@ -3652,7 +3719,7 @@ Love can come when you least expect it. The question is: If the odds are stacked
 		<key>url</key>
 		<string>https://www.amazon.com/Attachments-Woodfalls-Girls-Novel-Book-ebook/dp/B00G3LNR3W?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B00G3LNR3W</string>
 	</dict>
-	<key>148</key>
+	<key>149</key>
 	<dict>
 		<key>author</key>
 		<string>Eberhard Nestle</string>
@@ -3706,67 +3773,6 @@ Love can come when you least expect it. The question is: If the odds are stacked
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2057991</string>
-	</dict>
-	<key>149</key>
-	<dict>
-		<key>author</key>
-		<string>Douglas Brinkley</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:17Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-09T22:08:14Z</date>
-		<key>dogTag</key>
-		<integer>2049841</integer>
-		<key>edition</key>
-		<string>annotated edition</string>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Biography</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780060776855</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>272</string>
-		<key>placePublished</key>
-		<string>Parish priest : Father Michael McGivney and American Catholicism</string>
-		<key>publisher</key>
-		<string>Harper Perennial</string>
-		<key>releaseDate</key>
-		<date>2006-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>1852-1890, McGivney Michael J, (Michael Joseph)</string>
-		<key>summary</key>
-		<string>Born and raised in a Connecticut factory town, the son of Irish immigrants, Father Michael McGivney founded the Knights of Columbus at a time when discrimination against American Catholics, homelessness, and starvation was widespread.</string>
-		<key>title</key>
-		<string>Parish Priest : Father Michael McGivney and American Catholicism</string>
-		<key>uid</key>
-		<integer>55</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2049841</string>
 	</dict>
 	<key>15</key>
 	<dict>
@@ -3846,6 +3852,67 @@ The translated poem Beowulf was a thoroughly enjoyable assignment. As well as th
 		<string>http://doghouse.bruji.com/book/63345</string>
 	</dict>
 	<key>150</key>
+	<dict>
+		<key>author</key>
+		<string>Douglas Brinkley</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:17Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-09T22:08:14Z</date>
+		<key>dogTag</key>
+		<integer>2049841</integer>
+		<key>edition</key>
+		<string>annotated edition</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Biography</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780060776855</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>272</string>
+		<key>placePublished</key>
+		<string>Parish priest : Father Michael McGivney and American Catholicism</string>
+		<key>publisher</key>
+		<string>Harper Perennial</string>
+		<key>releaseDate</key>
+		<date>2006-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>1852-1890, McGivney Michael J, (Michael Joseph)</string>
+		<key>summary</key>
+		<string>Born and raised in a Connecticut factory town, the son of Irish immigrants, Father Michael McGivney founded the Knights of Columbus at a time when discrimination against American Catholics, homelessness, and starvation was widespread.</string>
+		<key>title</key>
+		<string>Parish Priest : Father Michael McGivney and American Catholicism</string>
+		<key>uid</key>
+		<integer>55</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2049841</string>
+	</dict>
+	<key>151</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan</string>
@@ -3931,7 +3998,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/70026</string>
 	</dict>
-	<key>151</key>
+	<key>152</key>
 	<dict>
 		<key>author</key>
 		<string>John Grisham</string>
@@ -4006,7 +4073,7 @@ Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/6152</string>
 	</dict>
-	<key>152</key>
+	<key>153</key>
 	<dict>
 		<key>author</key>
 		<string>Simone Elkeles</string>
@@ -4066,7 +4133,7 @@ When Brittany Ellis walks into chemistry class on the first day of senior year, 
 		<key>url</key>
 		<string>https://www.amazon.com/Perfect-Chemistry-Simone-Elkeles/dp/B002VPE7AQ?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B002VPE7AQ</string>
 	</dict>
-	<key>153</key>
+	<key>154</key>
 	<dict>
 		<key>asin</key>
 		<string>0141199490</string>
@@ -4132,7 +4199,7 @@ When Brittany Ellis walks into chemistry class on the first day of senior year, 
 		<key>url</key>
 		<string>https://www.amazon.com/Penguin-English-Library-Picture-Dorian/dp/0141199490?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0141199490</string>
 	</dict>
-	<key>154</key>
+	<key>155</key>
 	<dict>
 		<key>author</key>
 		<string>Wizards RPG Team</string>
@@ -4199,7 +4266,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0786965606</string>
 	</dict>
-	<key>155</key>
+	<key>156</key>
 	<dict>
 		<key>author</key>
 		<string>Pope Francis</string>
@@ -4266,7 +4333,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049871</string>
 	</dict>
-	<key>156</key>
+	<key>157</key>
 	<dict>
 		<key>author</key>
 		<string>C. S Lewis</string>
@@ -4386,7 +4453,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Prince-Caspian-Return-Narnia-Chronicles/dp/0590254782?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0590254782</string>
 	</dict>
-	<key>157</key>
+	<key>158</key>
 	<dict>
 		<key>author</key>
 		<string>Elizabeth Eulberg</string>
@@ -4439,7 +4506,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Prom-Prejudice-Elizabeth-Eulberg-ebook/dp/B004HD4UHA?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B004HD4UHA</string>
 	</dict>
-	<key>158</key>
+	<key>159</key>
 	<dict>
 		<key>author</key>
 		<string>Charles S. Strong</string>
@@ -4499,67 +4566,6 @@ The world needs heroes. Will you answer the call?</string>
 		<integer>0</integer>
 		<key>url</key>
 		<string>https://www.amazon.com/Real-Book-About-Antarctic/dp/B004CQYGQW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004CQYGQW</string>
-	</dict>
-	<key>159</key>
-	<dict>
-		<key>author</key>
-		<string>Matthew Kelly</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:24Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-09T22:18:03Z</date>
-		<key>dimensions</key>
-		<string>20.60 cm x 14.00 cm x 2.00 cm</string>
-		<key>edition</key>
-		<string>Second Edition Revised &amp; Expanded</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Catholic</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781937509675</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$1.85</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>311</string>
-		<key>price</key>
-		<string>$17.95</string>
-		<key>publisher</key>
-		<string>Dynamic Catholic Institute</string>
-		<key>rating</key>
-		<string>4</string>
-		<key>releaseDate</key>
-		<date>2015-03-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>Over the past 20 years, Matthew Kelly has seen more of the world than most presidents and more of the Church than most bishops. Now, in this unique and timely book, he proposes that Catholicism is not a lifeless set of rules and regulations , but a way of life designed by God to help each person reach his or her full potential. With remarkable insight, Kelly dispels dozens of myths that surround the rejection of Catholicism today and provides a profound and practical vision of what will lead the Catholic Church to thrive again in the future. Rediscover Catholicism is quickly becoming the most read catholic book of our times. From the spellbinding opening story, Kelly grips his readers and takes them on a life-changing journey to rediscover the genius of Catholicism.</string>
-		<key>title</key>
-		<string>Rediscover Catholicism</string>
-		<key>uid</key>
-		<integer>58</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://books.google.com/books?id=SNYSogEACAAJ</string>
 	</dict>
 	<key>16</key>
 	<dict>
@@ -4631,6 +4637,67 @@ The world needs heroes. Will you answer the call?</string>
 		<key>customCheckbox2</key>
 		<integer>0</integer>
 		<key>dateAdded</key>
+		<date>2016-05-14T21:49:24Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-09T22:18:03Z</date>
+		<key>dimensions</key>
+		<string>20.60 cm x 14.00 cm x 2.00 cm</string>
+		<key>edition</key>
+		<string>Second Edition Revised &amp; Expanded</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, Religion, Catholic</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781937509675</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$1.85</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>311</string>
+		<key>price</key>
+		<string>$17.95</string>
+		<key>publisher</key>
+		<string>Dynamic Catholic Institute</string>
+		<key>rating</key>
+		<string>4</string>
+		<key>releaseDate</key>
+		<date>2015-03-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Over the past 20 years, Matthew Kelly has seen more of the world than most presidents and more of the Church than most bishops. Now, in this unique and timely book, he proposes that Catholicism is not a lifeless set of rules and regulations , but a way of life designed by God to help each person reach his or her full potential. With remarkable insight, Kelly dispels dozens of myths that surround the rejection of Catholicism today and provides a profound and practical vision of what will lead the Catholic Church to thrive again in the future. Rediscover Catholicism is quickly becoming the most read catholic book of our times. From the spellbinding opening story, Kelly grips his readers and takes them on a life-changing journey to rediscover the genius of Catholicism.</string>
+		<key>title</key>
+		<string>Rediscover Catholicism</string>
+		<key>uid</key>
+		<integer>58</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://books.google.com/books?id=SNYSogEACAAJ</string>
+	</dict>
+	<key>161</key>
+	<dict>
+		<key>author</key>
+		<string>Matthew Kelly</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
 		<date>2017-04-30T21:47:47Z</date>
 		<key>dateEdited</key>
 		<date>2017-05-31T21:22:03Z</date>
@@ -4679,7 +4746,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Rediscover-Jesus-Invitation-Matthew-Kelly/dp/B01A0193UG?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B01A0193UG</string>
 	</dict>
-	<key>161</key>
+	<key>162</key>
 	<dict>
 		<key>author</key>
 		<string>J.R.R. Tolkien</string>
@@ -4767,7 +4834,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>https://www.amazon.com/Lord-Rings-Part-Three-Return/dp/B00OHQT9WS?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B00OHQT9WS</string>
 	</dict>
-	<key>162</key>
+	<key>163</key>
 	<dict>
 		<key>author</key>
 		<string>Nigel Rodgers, Hazel Dodge</string>
@@ -4826,7 +4893,7 @@ The world needs heroes. Will you answer the call?</string>
 		<key>url</key>
 		<string>http://books.google.com/books?id=DvtXPwAACAAJ</string>
 	</dict>
-	<key>163</key>
+	<key>164</key>
 	<dict>
 		<key>author</key>
 		<string>Simone Elkeles</string>
@@ -4883,7 +4950,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>https://www.amazon.com/Rules-Attraction-Perfect-Chemistry-Novel-ebook/dp/B003I55BIK?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B003I55BIK</string>
 	</dict>
-	<key>164</key>
+	<key>165</key>
 	<dict>
 		<key>author</key>
 		<string>Bennet Kelley</string>
@@ -4952,7 +5019,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049881</string>
 	</dict>
-	<key>165</key>
+	<key>166</key>
 	<dict>
 		<key>author</key>
 		<string>Catholic Book Publishing Co</string>
@@ -5016,7 +5083,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>http://abebooks.com/products/isbn/9780899425498</string>
 	</dict>
-	<key>166</key>
+	<key>167</key>
 	<dict>
 		<key>asin</key>
 		<string>0060580674</string>
@@ -5093,7 +5160,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3597</string>
 	</dict>
-	<key>167</key>
+	<key>168</key>
 	<dict>
 		<key>author</key>
 		<string>Nathaniel Hawthorne</string>
@@ -5162,7 +5229,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/28114</string>
 	</dict>
-	<key>168</key>
+	<key>169</key>
 	<dict>
 		<key>author</key>
 		<string>Jules Verne</string>
@@ -5214,68 +5281,6 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1427191</string>
-	</dict>
-	<key>169</key>
-	<dict>
-		<key>author</key>
-		<string>Neal Stephenson</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-14T01:32:40Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-08T22:19:50Z</date>
-		<key>dogTag</key>
-		<integer>2158721</integer>
-		<key>edition</key>
-		<string>Reprint</string>
-		<key>format</key>
-		<string>Kindle Edition</string>
-		<key>genre</key>
-		<string>Fiction, Science Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780062334510</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>881</string>
-		<key>placePublished</key>
-		<string>Seveneves : [a novel]</string>
-		<key>publisher</key>
-		<string>William Morrow an imprint of HarperCollins Publishers</string>
-		<key>releaseDate</key>
-		<date>2015-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fiction, Disasters, Space Colonies</string>
-		<key>summary</key>
-		<string>A catastrophic event renders the Earth a ticking time bomb. In a feverish race against the inevitable, nations around the globe band together to devise an ambitious plan to ensure the survival of humanity far beyond our atmosphere, in outer space. But the complexities and unpredictability of human nature coupled with unforeseen challenges and dangers threaten the intrepid pioneers, until only a handful of survivors remain ... Five thousand years later, their progeny -- seven distinct races now three billion strong -- embark on yet another audacious journey into the unknown ... to an alien world utterly transformed by cataclysm and time: Earth.
-     Read more...</string>
-		<key>title</key>
-		<string>Seveneves</string>
-		<key>uid</key>
-		<integer>121</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2158721</string>
 	</dict>
 	<key>17</key>
 	<dict>
@@ -5349,6 +5354,68 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 	<key>170</key>
 	<dict>
 		<key>author</key>
+		<string>Neal Stephenson</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-14T01:32:40Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-08T22:19:50Z</date>
+		<key>dogTag</key>
+		<integer>2158721</integer>
+		<key>edition</key>
+		<string>Reprint</string>
+		<key>format</key>
+		<string>Kindle Edition</string>
+		<key>genre</key>
+		<string>Fiction, Science Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062334510</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>881</string>
+		<key>placePublished</key>
+		<string>Seveneves : [a novel]</string>
+		<key>publisher</key>
+		<string>William Morrow an imprint of HarperCollins Publishers</string>
+		<key>releaseDate</key>
+		<date>2015-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fiction, Disasters, Space Colonies</string>
+		<key>summary</key>
+		<string>A catastrophic event renders the Earth a ticking time bomb. In a feverish race against the inevitable, nations around the globe band together to devise an ambitious plan to ensure the survival of humanity far beyond our atmosphere, in outer space. But the complexities and unpredictability of human nature coupled with unforeseen challenges and dangers threaten the intrepid pioneers, until only a handful of survivors remain ... Five thousand years later, their progeny -- seven distinct races now three billion strong -- embark on yet another audacious journey into the unknown ... to an alien world utterly transformed by cataclysm and time: Earth.
+     Read more...</string>
+		<key>title</key>
+		<string>Seveneves</string>
+		<key>uid</key>
+		<integer>121</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/2158721</string>
+	</dict>
+	<key>171</key>
+	<dict>
+		<key>author</key>
 		<string>James Rollins</string>
 		<key>customCheckbox1</key>
 		<integer>1</integer>
@@ -5387,7 +5454,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>171</key>
+	<key>172</key>
 	<dict>
 		<key>asin</key>
 		<string>0312854315</string>
@@ -5465,7 +5532,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/72673</string>
 	</dict>
-	<key>172</key>
+	<key>173</key>
 	<dict>
 		<key>author</key>
 		<string>Stephenie Meyer</string>
@@ -5476,7 +5543,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>dateAdded</key>
 		<date>2017-04-30T21:49:34Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-31T21:20:52Z</date>
+		<date>2017-05-31T21:29:46Z</date>
 		<key>dimensions</key>
 		<string>22.2 x 15.2 x 1.9 cm</string>
 		<key>edition</key>
@@ -5528,7 +5595,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>https://www.amazon.com/Short-Second-Life-Bree-Tanner/dp/031612558X?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=031612558X</string>
 	</dict>
-	<key>173</key>
+	<key>174</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -5597,7 +5664,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/928691</string>
 	</dict>
-	<key>174</key>
+	<key>175</key>
 	<dict>
 		<key>author</key>
 		<string>C.S. Lewis</string>
@@ -5719,7 +5786,7 @@ As the danger grows for Carlos, he's shocked to discover that it's this seemingl
 		<key>url</key>
 		<string>https://www.amazon.com/Silver-Chair-Chronicles-Narnia-Book/dp/0590254804?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0590254804</string>
 	</dict>
-	<key>175</key>
+	<key>176</key>
 	<dict>
 		<key>author</key>
 		<string>Shelley Shepard Gray</string>
@@ -5777,7 +5844,7 @@ But when Amelia gets hurt, it sets off a chain of events that forces them to con
 		<key>url</key>
 		<string>https://www.amazon.com/Sisters-Wish-Charmed-Amish-Three-ebook/dp/B01A5BWFXS?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B01A5BWFXS</string>
 	</dict>
-	<key>176</key>
+	<key>177</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>1</integer>
@@ -5836,7 +5903,7 @@ But when Amelia gets hurt, it sets off a chain of events that forces them to con
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL8238530M</string>
 	</dict>
-	<key>177</key>
+	<key>178</key>
 	<dict>
 		<key>author</key>
 		<string>Donald F. Glut, James Kahn, George Lucas</string>
@@ -5891,7 +5958,7 @@ But when Amelia gets hurt, it sets off a chain of events that forces them to con
 		<key>url</key>
 		<string>http://books.google.com/books?id=YWEWjwEACAAJ</string>
 	</dict>
-	<key>178</key>
+	<key>179</key>
 	<dict>
 		<key>asin</key>
 		<string>0380792648</string>
@@ -5966,73 +6033,6 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3598</string>
 	</dict>
-	<key>179</key>
-	<dict>
-		<key>author</key>
-		<string>Sir Richard Francis Burton</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T20:41:02Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-02T02:17:02Z</date>
-		<key>dimensions</key>
-		<string>2.00 cm</string>
-		<key>dogTag</key>
-		<integer>1767031</integer>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction, Folklore</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9781435143906</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$3.10</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>28</string>
-		<key>placePublished</key>
-		<string>Tales from the Arabian nights</string>
-		<key>publisher</key>
-		<string>Fall River Press</string>
-		<key>releaseDate</key>
-		<date>2012-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Fairy tales, Arab countries, Arabs</string>
-		<key>summary</key>
-		<string>These are the tales that saved the life of Shahrazad, whose husband, the king, executed each of his wives after a single night of marriage. Beginning an enchanting story each evening, Shahrazad always withheld the ending: a thousand and one nights later, her life was spared forever. Full of mischief, valour, ribaldry and romance.</string>
-		<key>title</key>
-		<string>Tales from the Arabian nights</string>
-		<key>translator</key>
-		<string>Sir Richard Francis Burton</string>
-		<key>uid</key>
-		<integer>5</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/1767031</string>
-	</dict>
 	<key>18</key>
 	<dict>
 		<key>author</key>
@@ -6100,6 +6100,73 @@ At The Bottom Of The Earth Is The Beginning.Keep Moving...toward a miracle that 
 		<string>http://doghouse.bruji.com/book/736391</string>
 	</dict>
 	<key>180</key>
+	<dict>
+		<key>author</key>
+		<string>Sir Richard Francis Burton</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T20:41:02Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-02T02:17:02Z</date>
+		<key>dimensions</key>
+		<string>2.00 cm</string>
+		<key>dogTag</key>
+		<integer>1767031</integer>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Folklore</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9781435143906</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.10</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.01</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>28</string>
+		<key>placePublished</key>
+		<string>Tales from the Arabian nights</string>
+		<key>publisher</key>
+		<string>Fall River Press</string>
+		<key>releaseDate</key>
+		<date>2012-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Fairy tales, Arab countries, Arabs</string>
+		<key>summary</key>
+		<string>These are the tales that saved the life of Shahrazad, whose husband, the king, executed each of his wives after a single night of marriage. Beginning an enchanting story each evening, Shahrazad always withheld the ending: a thousand and one nights later, her life was spared forever. Full of mischief, valour, ribaldry and romance.</string>
+		<key>title</key>
+		<string>Tales from the Arabian nights</string>
+		<key>translator</key>
+		<string>Sir Richard Francis Burton</string>
+		<key>uid</key>
+		<integer>5</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/1767031</string>
+	</dict>
+	<key>181</key>
 	<dict>
 		<key>asin</key>
 		<string>0385493800</string>
@@ -6176,7 +6243,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/74879</string>
 	</dict>
-	<key>181</key>
+	<key>182</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Brandon Sanderson</string>
@@ -6265,7 +6332,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/Towers-Midnight-Wheel-Time-Thirteen/dp/0765325942?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0765325942</string>
 	</dict>
-	<key>182</key>
+	<key>183</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Louis Stevenson</string>
@@ -6324,7 +6391,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>http://books.google.com/books?id=POCvDAEACAAJ</string>
 	</dict>
-	<key>183</key>
+	<key>184</key>
 	<dict>
 		<key>asin</key>
 		<string>0316015849</string>
@@ -6403,7 +6470,7 @@ Deeply romantic and extraordinarily suspenseful, Twilight captures the struggle 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/3883</string>
 	</dict>
-	<key>184</key>
+	<key>185</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -6491,7 +6558,77 @@ Deeply romantic and extraordinarily suspenseful, Twilight captures the struggle 
 		<key>url</key>
 		<string>https://www.amazon.com/Two-Towers-Being-Second-Rings/dp/B007C4R28K?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B007C4R28K</string>
 	</dict>
-	<key>185</key>
+	<key>186</key>
+	<dict>
+		<key>author</key>
+		<string>Douglas Adams</string>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-06-04T19:44:01Z</date>
+		<key>dateEdited</key>
+		<date>2017-06-04T19:45:52Z</date>
+		<key>dimensions</key>
+		<string>23.9 x 4.3 x 16.0 cm</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Literature &amp; Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780307291813</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$24.95</string>
+		<key>lowestUsedPrice</key>
+		<string>$17.39</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>1</string>
+		<key>price</key>
+		<string>$28.86</string>
+		<key>publisher</key>
+		<string>Harmony Books</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>In one complete volume, here are the five classic novels from   Douglas Adams’s beloved Hitchhiker series.
+ 
+ "The Hitchhiker’s Guide to the Galaxy
+ "Seconds   before the Earth is demolished for a galactic freeway, Arthur Dent is saved by Ford   Prefect, a researcher for the revised "Guide". Together they stick out their thumbs   to the stars and begin a wild journey through time and space.
+
+ "The Restaurant at   the End of the Universe
+ "Facing annihilation at the hands of warmongers is a curious   time to crave tea. It could only happen to the cosmically displaced Arthur Dent and   his comrades as they hurtle across the galaxy in a desperate search for a place to   eat.
+
+ "Life, the Universe and Everything
+ "The unhappy inhabitants of planet Krikkit   are sick of looking at the night sky– so they plan to destroy it. The universe, that   is. Now only five individuals can avert Armageddon: mild-mannered Arthur Dent and   his stalwart crew.
+
+ "So Long, and Thanks for All the Fish
+ "Back on Earth, Arthur Dent   is ready to believe that the past eight years were all just a figment of his stressed-out   imagination. But a gift-wrapped fishbowl with a cryptic inscription conspires to   thrust him back to reality. So to speak.
+
+ "Mostly Harmless
+ "Just when Arthur Dent makes   the terrible mistake of starting to enjoy life, all hell breaks loose. Can he save   the Earth from total obliteration? Can he save the "Guide" from a hostile alien takeover?   Can he save his daughter from herself?</string>
+		<key>title</key>
+		<string>The Ultimate Hitchhiker's Guide to the Galaxy: Five Novels and One Story</string>
+		<key>uid</key>
+		<integer>441</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy-Novels/dp/0307291812?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0307291812</string>
+	</dict>
+	<key>187</key>
 	<dict>
 		<key>author</key>
 		<string>J. R. R. Tolkien</string>
@@ -6546,7 +6683,7 @@ Deeply romantic and extraordinarily suspenseful, Twilight captures the struggle 
 		<key>url</key>
 		<string>https://www.amazon.com/Unfinished-Tales-J-R-Tolkien/dp/B00A2M4VZG?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00A2M4VZG</string>
 	</dict>
-	<key>186</key>
+	<key>188</key>
 	<dict>
 		<key>author</key>
 		<string>Anne Rice</string>
@@ -6605,7 +6742,7 @@ All amazing stories in themselves, together this huge volume presents a classic 
 		<key>url</key>
 		<string>https://www.amazon.com/Vampire-Chronicles-Interview-Leatherbound-Classics/dp/0307291650?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0307291650</string>
 	</dict>
-	<key>187</key>
+	<key>189</key>
 	<dict>
 		<key>author</key>
 		<string>C. S. Lewis</string>
@@ -6729,133 +6866,6 @@ The Dawn Treader is the first ship Narnia has seen in centuries. King Caspian ha
 		<key>url</key>
 		<string>https://www.amazon.com/Voyage-Dawn-Treader-Chronicles-Narnia/dp/0590254790?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0590254790</string>
 	</dict>
-	<key>188</key>
-	<dict>
-		<key>author</key>
-		<string>Leo Tolstoy</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T20:31:18Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-08T22:27:53Z</date>
-		<key>dimensions</key>
-		<string>2.20 x 9.21 x 6.22 in</string>
-		<key>dogTag</key>
-		<integer>5818</integer>
-		<key>edition</key>
-		<string>Gift ed</string>
-		<key>editor</key>
-		<string>Mortimer J. Adler, editor in chief</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780099512233</string>
-		<key>language</key>
-		<string>Russian (Original Language), English (Published)</string>
-		<key>lcc</key>
-		<string>PG3366 .V6 1994</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$27.46</string>
-		<key>lowestUsedPrice</key>
-		<string>$9.84</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>1296</string>
-		<key>price</key>
-		<string>£20.00</string>
-		<key>publisher</key>
-		<string>Vintage Classics</string>
-		<key>rating</key>
-		<string>9</string>
-		<key>releaseDate</key>
-		<date>2007-11-08T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Russian Literature</string>
-		<key>summary</key>
-		<string>Prompted to write this because of those strange remarks questioning the novel's quality. Don't be misled. This really is one of the greatest novels ever written. Not only does Tolstoy have a commanding grasp of his recent history, and of Napoleon's strategy, but he makes war believable from the highest to the lowest levels. But one of the main reasons it is so celebrated is in the way the characters develop. We see them grow and change, partly in response to events and experience, partly as part of simply growing up. The transformation of Andre through the book is so credibly depicted you have to keep reminding yourself this is fiction. Many things happen to him, and each twist and turn is totally convincing, and where he ends up after all this makes perfect sense. And the momentous historical events that go on are not a "backdrop", but completely interweaved in the narrative. Tolstoy was capable of pouring everything that he, a wise, observant and insightful man had seen in his life, into a book that (another "greatness"  quality) had a huge historical sweep, a cast of understandable, very human characters, and profound understanding of war. Don't save it up for later.</string>
-		<key>title</key>
-		<string>War and Peace</string>
-		<key>translator</key>
-		<string>Larissa Volokhonsky, Maude Aylmer</string>
-		<key>uid</key>
-		<integer>137</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/5818</string>
-	</dict>
-	<key>189</key>
-	<dict>
-		<key>author</key>
-		<string>James Rollins, Grant Blackwood</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2017-05-15T01:37:22Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-15T01:40:11Z</date>
-		<key>edition</key>
-		<string>Reissue</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Literature &amp; Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780062135292</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>389</string>
-		<key>publisher</key>
-		<string>William Morrow</string>
-		<key>releaseDate</key>
-		<date>2016-04-19T05:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>Former Army Ranger Tucker Wayne and his war dog Kane are thrust into a global conspiracy that threatens to shake the foundations of American democracy in this second exciting Sigma Force spinoff adventure from New York Times bestselling authors James Rollins and Grant Blackwood.
-Tucker Wayne’s past and his present collide when a former army colleague comes to him for help. She's on the run from brutal assassins hunting her and her son. To keep them safe, Tucker must discover who killed a brilliant young idealist—a crime that leads back to the most powerful figures in the U.S. government.
-From the haunted ruins of a plantation in the deep South to the beachheads of a savage civil war in Trinidad, Tucker and Kane must discover the truth behind a mystery that leads back to World War II, to a true event that is even now changing the world . . . and will redefine what it means to be human.
-With no one to trust, they will be forced to break the law, expose national secrets, and risk everything to stop a madman determined to control the future of modern warfare for his own diabolical ends. But can Tucker and Kane withstand a force so indomitable that it threatens our very future?</string>
-		<key>title</key>
-		<string>War Hawk: A Tucker Wayne Novel</string>
-		<key>uid</key>
-		<integer>230</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/War-Hawk-Tucker-Wayne-Novel-ebook/dp/B00LSR05WC?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B00LSR05WC</string>
-	</dict>
 	<key>19</key>
 	<dict>
 		<key>author</key>
@@ -6934,6 +6944,133 @@ In the end, be warned: some books should never be found, never opened—until no
 	<key>190</key>
 	<dict>
 		<key>author</key>
+		<string>Leo Tolstoy</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-11-23T20:31:18Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-08T22:27:53Z</date>
+		<key>dimensions</key>
+		<string>2.20 x 9.21 x 6.22 in</string>
+		<key>dogTag</key>
+		<integer>5818</integer>
+		<key>edition</key>
+		<string>Gift ed</string>
+		<key>editor</key>
+		<string>Mortimer J. Adler, editor in chief</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780099512233</string>
+		<key>language</key>
+		<string>Russian (Original Language), English (Published)</string>
+		<key>lcc</key>
+		<string>PG3366 .V6 1994</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$27.46</string>
+		<key>lowestUsedPrice</key>
+		<string>$9.84</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>1296</string>
+		<key>price</key>
+		<string>£20.00</string>
+		<key>publisher</key>
+		<string>Vintage Classics</string>
+		<key>rating</key>
+		<string>9</string>
+		<key>releaseDate</key>
+		<date>2007-11-08T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Russian Literature</string>
+		<key>summary</key>
+		<string>Prompted to write this because of those strange remarks questioning the novel's quality. Don't be misled. This really is one of the greatest novels ever written. Not only does Tolstoy have a commanding grasp of his recent history, and of Napoleon's strategy, but he makes war believable from the highest to the lowest levels. But one of the main reasons it is so celebrated is in the way the characters develop. We see them grow and change, partly in response to events and experience, partly as part of simply growing up. The transformation of Andre through the book is so credibly depicted you have to keep reminding yourself this is fiction. Many things happen to him, and each twist and turn is totally convincing, and where he ends up after all this makes perfect sense. And the momentous historical events that go on are not a "backdrop", but completely interweaved in the narrative. Tolstoy was capable of pouring everything that he, a wise, observant and insightful man had seen in his life, into a book that (another "greatness"  quality) had a huge historical sweep, a cast of understandable, very human characters, and profound understanding of war. Don't save it up for later.</string>
+		<key>title</key>
+		<string>War and Peace</string>
+		<key>translator</key>
+		<string>Larissa Volokhonsky, Maude Aylmer</string>
+		<key>uid</key>
+		<integer>137</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/5818</string>
+	</dict>
+	<key>191</key>
+	<dict>
+		<key>author</key>
+		<string>James Rollins, Grant Blackwood</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-05-15T01:37:22Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-15T01:40:11Z</date>
+		<key>edition</key>
+		<string>Reissue</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Literature &amp; Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062135292</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>389</string>
+		<key>publisher</key>
+		<string>William Morrow</string>
+		<key>releaseDate</key>
+		<date>2016-04-19T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Former Army Ranger Tucker Wayne and his war dog Kane are thrust into a global conspiracy that threatens to shake the foundations of American democracy in this second exciting Sigma Force spinoff adventure from New York Times bestselling authors James Rollins and Grant Blackwood.
+Tucker Wayne’s past and his present collide when a former army colleague comes to him for help. She's on the run from brutal assassins hunting her and her son. To keep them safe, Tucker must discover who killed a brilliant young idealist—a crime that leads back to the most powerful figures in the U.S. government.
+From the haunted ruins of a plantation in the deep South to the beachheads of a savage civil war in Trinidad, Tucker and Kane must discover the truth behind a mystery that leads back to World War II, to a true event that is even now changing the world . . . and will redefine what it means to be human.
+With no one to trust, they will be forced to break the law, expose national secrets, and risk everything to stop a madman determined to control the future of modern warfare for his own diabolical ends. But can Tucker and Kane withstand a force so indomitable that it threatens our very future?</string>
+		<key>title</key>
+		<string>War Hawk: A Tucker Wayne Novel</string>
+		<key>uid</key>
+		<integer>230</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/War-Hawk-Tucker-Wayne-Novel-ebook/dp/B00LSR05WC?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B00LSR05WC</string>
+	</dict>
+	<key>192</key>
+	<dict>
+		<key>author</key>
 		<string>H. G. Wells</string>
 		<key>comic</key>
 		<integer>0</integer>
@@ -6998,7 +7135,7 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1186031</string>
 	</dict>
-	<key>191</key>
+	<key>193</key>
 	<dict>
 		<key>author</key>
 		<string>Fr. Jonathan Morris</string>
@@ -7065,7 +7202,7 @@ In the end, be warned: some books should never be found, never opened—until no
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049861</string>
 	</dict>
-	<key>192</key>
+	<key>194</key>
 	<dict>
 		<key>author</key>
 		<string>Robert Jordan, Harriet Mcdougal, Alan Romanczuk, Maria Simons</string>
@@ -7152,7 +7289,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>url</key>
 		<string>https://www.amazon.com/Wheel-Time-Companion-History-Bestselling-ebook/dp/B00W190USK?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00W190USK</string>
 	</dict>
-	<key>193</key>
+	<key>195</key>
 	<dict>
 		<key>author</key>
 		<string>Frederic M. Wheelock</string>
@@ -7213,7 +7350,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/1132141</string>
 	</dict>
-	<key>194</key>
+	<key>196</key>
 	<dict>
 		<key>author</key>
 		<string>Michael Leach</string>
@@ -7272,7 +7409,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2049851</string>
 	</dict>
-	<key>195</key>
+	<key>197</key>
 	<dict>
 		<key>author</key>
 		<string>Julia Hoban</string>
@@ -7326,7 +7463,7 @@ Told in an arresting, fresh voice, "Willow" is an unforgettable novel about one 
 		<key>url</key>
 		<string>https://www.amazon.com/Willow-Julia-Hoban-ebook/dp/B0033SA4ZW?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=B0033SA4ZW</string>
 	</dict>
-	<key>196</key>
+	<key>198</key>
 	<dict>
 		<key>author</key>
 		<string>Elin Hilderbrand</string>
@@ -7389,7 +7526,7 @@ Told in an arresting, fresh voice, "Willow" is an unforgettable novel about one 
 		<key>url</key>
 		<string>https://www.amazon.com/Winter-Stroll-Street-Elin-Hilderbrand/dp/0316261149?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0316261149</string>
 	</dict>
-	<key>197</key>
+	<key>199</key>
 	<dict>
 		<key>asin</key>
 		<string>B000062UIH</string>
@@ -7470,152 +7607,6 @@ Told in an arresting, fresh voice, "Willow" is an unforgettable novel about one 
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/22779</string>
-	</dict>
-	<key>198</key>
-	<dict>
-		<key>author</key>
-		<string>Nora Roberts</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2017-04-30T21:43:55Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-31T21:25:07Z</date>
-		<key>dimensions</key>
-		<string>21.0 x 14.2 x 3.0 cm</string>
-		<key>edition</key>
-		<string>Reprint</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Literature &amp; Fiction</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780425264768</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$3.99</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.25</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>544</string>
-		<key>price</key>
-		<string>$16.00</string>
-		<key>publisher</key>
-		<string>Berkley</string>
-		<key>releaseDate</key>
-		<date>2013-04-02T05:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>In her stunning 200th novel, #1 "New York Times" bestselling author Nora Roberts proves why no one is better “when it comes to flawlessly fusing high-stakes suspense with red-hot romance" ("Booklist", starred review).
-
- Daughter of a cold, controlling mother and an anonymous donor, studious, obedient Elizabeth Fitch finally let loose one night, drinking too much at a nightclub and allowing a strange man’s seductive Russian accent to lure her to a house on Lake Shore Drive.
-
- Twelve years later, the woman now known as Abigail Lowery lives alone on the outskirts of a small town in the Ozarks. A freelance security systems designer, her own protection is supplemented by a fierce dog and an assortment of firearms. She keeps to herself, saying little, revealing nothing. Unfortunately, that seems to be the quickest way to get attention in a tiny southern town.
-
- The mystery of Abigail Lowery and her sharp mind, secretive nature and unromantic viewpoint intrigues local police chief Brooks Gleason, on both a personal and professional level. And while he suspects that Abigail needs protection from something, Gleason is accustomed to two-bit troublemakers, not the powerful and dangerous men who are about to have him in their sights.
-
- And Abigail Lowery, who has built a life based on security and self-control, is at risk of losing both.
-
-
-"From the Paperback edition."</string>
-		<key>tags</key>
-		<string>Erin</string>
-		<key>title</key>
-		<string>The Witness</string>
-		<key>uid</key>
-		<integer>199</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>https://www.amazon.com/Witness-Nora-Roberts/dp/0425264769?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0425264769</string>
-	</dict>
-	<key>199</key>
-	<dict>
-		<key>author</key>
-		<string>Paul T. Comeau</string>
-		<key>comic</key>
-		<integer>0</integer>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-14T21:49:03Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-09T22:04:57Z</date>
-		<key>dimensions</key>
-		<string>23.5 x 18.7 x 2.2 cm</string>
-		<key>dogTag</key>
-		<integer>1142071</integer>
-		<key>edition</key>
-		<string>3rd Revised</string>
-		<key>format</key>
-		<string>Paperback</string>
-		<key>genre</key>
-		<string>Non-fiction, Language</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>9780060956424</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$7.21</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.46</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>352</string>
-		<key>placePublished</key>
-		<string>New York</string>
-		<key>price</key>
-		<string>$17.99</string>
-		<key>publisher</key>
-		<string>HarperCollins</string>
-		<key>releaseDate</key>
-		<date>2000-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Grammar, Latin Language, Problems exercises etc</string>
-		<key>summary</key>
-		<string>WHEELOCK'S LATIN: AUDIO FILES
-When Professor Frederic M. Wheelock's Latin first appeared in 1956, the reviews extolled its thoroughness, organization, and conciseness; at least one reviewer predicted that the book "might well become the standard text" for introducing students to elementary Latin. Now, five decades later, that prediction has certainly proved accurate.Workbook for Wheelock's Latin is an essential companion to the classic introductory textbook. Designed to supplement the course of study in Wheelock's Latin, 6th Edition, Revised, each of the forty chapters in this newly updated edition features:
-Transformation drills, word and phrase translations, and other exercises to test and sharpen the student's skills
-"Word Power" sections that focus on vocabulary and derivatives
-Reading comprehension questions and sentences for translation practice
-Perforated pages for hand-in homework assignments and space for the student's name and date</string>
-		<key>title</key>
-		<string>Workbook for Wheelock's Latin</string>
-		<key>uid</key>
-		<integer>47</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/1142071</string>
 	</dict>
 	<key>2</key>
 	<dict>
@@ -7770,6 +7761,152 @@ Would you live forever?</string>
 	<key>200</key>
 	<dict>
 		<key>author</key>
+		<string>Nora Roberts</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-04-30T21:43:55Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-31T21:25:07Z</date>
+		<key>dimensions</key>
+		<string>21.0 x 14.2 x 3.0 cm</string>
+		<key>edition</key>
+		<string>Reprint</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Literature &amp; Fiction</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780425264768</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$3.99</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.25</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>544</string>
+		<key>price</key>
+		<string>$16.00</string>
+		<key>publisher</key>
+		<string>Berkley</string>
+		<key>releaseDate</key>
+		<date>2013-04-02T05:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>In her stunning 200th novel, #1 "New York Times" bestselling author Nora Roberts proves why no one is better “when it comes to flawlessly fusing high-stakes suspense with red-hot romance" ("Booklist", starred review).
+
+ Daughter of a cold, controlling mother and an anonymous donor, studious, obedient Elizabeth Fitch finally let loose one night, drinking too much at a nightclub and allowing a strange man’s seductive Russian accent to lure her to a house on Lake Shore Drive.
+
+ Twelve years later, the woman now known as Abigail Lowery lives alone on the outskirts of a small town in the Ozarks. A freelance security systems designer, her own protection is supplemented by a fierce dog and an assortment of firearms. She keeps to herself, saying little, revealing nothing. Unfortunately, that seems to be the quickest way to get attention in a tiny southern town.
+
+ The mystery of Abigail Lowery and her sharp mind, secretive nature and unromantic viewpoint intrigues local police chief Brooks Gleason, on both a personal and professional level. And while he suspects that Abigail needs protection from something, Gleason is accustomed to two-bit troublemakers, not the powerful and dangerous men who are about to have him in their sights.
+
+ And Abigail Lowery, who has built a life based on security and self-control, is at risk of losing both.
+
+
+"From the Paperback edition."</string>
+		<key>tags</key>
+		<string>Erin</string>
+		<key>title</key>
+		<string>The Witness</string>
+		<key>uid</key>
+		<integer>199</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Witness-Nora-Roberts/dp/0425264769?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0425264769</string>
+	</dict>
+	<key>201</key>
+	<dict>
+		<key>author</key>
+		<string>Paul T. Comeau</string>
+		<key>comic</key>
+		<integer>0</integer>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-14T21:49:03Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-09T22:04:57Z</date>
+		<key>dimensions</key>
+		<string>23.5 x 18.7 x 2.2 cm</string>
+		<key>dogTag</key>
+		<integer>1142071</integer>
+		<key>edition</key>
+		<string>3rd Revised</string>
+		<key>format</key>
+		<string>Paperback</string>
+		<key>genre</key>
+		<string>Non-fiction, Language</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780060956424</string>
+		<key>language</key>
+		<string>en</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$7.21</string>
+		<key>lowestUsedPrice</key>
+		<string>$0.46</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>352</string>
+		<key>placePublished</key>
+		<string>New York</string>
+		<key>price</key>
+		<string>$17.99</string>
+		<key>publisher</key>
+		<string>HarperCollins</string>
+		<key>releaseDate</key>
+		<date>2000-01-01T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>subjects</key>
+		<string>Grammar, Latin Language, Problems exercises etc</string>
+		<key>summary</key>
+		<string>WHEELOCK'S LATIN: AUDIO FILES
+When Professor Frederic M. Wheelock's Latin first appeared in 1956, the reviews extolled its thoroughness, organization, and conciseness; at least one reviewer predicted that the book "might well become the standard text" for introducing students to elementary Latin. Now, five decades later, that prediction has certainly proved accurate.Workbook for Wheelock's Latin is an essential companion to the classic introductory textbook. Designed to supplement the course of study in Wheelock's Latin, 6th Edition, Revised, each of the forty chapters in this newly updated edition features:
+Transformation drills, word and phrase translations, and other exercises to test and sharpen the student's skills
+"Word Power" sections that focus on vocabulary and derivatives
+Reading comprehension questions and sentences for translation practice
+Perforated pages for hand-in homework assignments and space for the student's name and date</string>
+		<key>title</key>
+		<string>Workbook for Wheelock's Latin</string>
+		<key>uid</key>
+		<integer>47</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/1142071</string>
+	</dict>
+	<key>202</key>
+	<dict>
+		<key>author</key>
 		<string>Robert Jordan, Teresa Patterson</string>
 		<key>customCheckbox1</key>
 		<integer>1</integer>
@@ -7856,7 +7993,7 @@ By Robert Jordan and Amy Romanczuk
 		<key>url</key>
 		<string>https://www.amazon.com/World-Robert-Jordans-Wheel-Time/dp/0312869363?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0312869363</string>
 	</dict>
-	<key>201</key>
+	<key>203</key>
 	<dict>
 		<key>author</key>
 		<string>Max Brooks</string>
@@ -7937,7 +8074,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/23054</string>
 	</dict>
-	<key>202</key>
+	<key>204</key>
 	<dict>
 		<key>author</key>
 		<string>George Gowdy</string>
@@ -7992,7 +8129,7 @@ Eyewitness reports from the first truly global war
 		<key>url</key>
 		<string>https://www.amazon.com/Adventures-Buffalo-Bill-Cody-Collection/dp/B0006QS78K?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;tag=jdmarshall-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0006QS78K</string>
 	</dict>
-	<key>203</key>
+	<key>205</key>
 	<dict>
 		<key>author</key>
 		<string>Paul Jessup</string>
@@ -13547,6 +13684,66 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 	</dict>
 	<key>95</key>
 	<dict>
+		<key>customCheckbox1</key>
+		<integer>0</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2017-06-04T19:43:32Z</date>
+		<key>dateEdited</key>
+		<date>2017-06-04T19:45:35Z</date>
+		<key>dimensions</key>
+		<string>24.6 x 31.2 x 2.4 cm</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Arts &amp; Photography</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>isbn</key>
+		<string>9780062265722</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$20.14</string>
+		<key>lowestUsedPrice</key>
+		<string>$15.96</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>240</string>
+		<key>price</key>
+		<string>$45.00</string>
+		<key>publisher</key>
+		<string>Harper Design</string>
+		<key>releaseDate</key>
+		<date>2015-11-03T06:00:00Z</date>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Presented by Academy Award-winning director Sir Peter Jackson, the ultimate insider’s look at the conflicts and battles waged in The Hobbit movie trilogy: how they were devised, composed, designed, staged and more.
+Smaug’s fiery attack on Lake-town, the White Council’s raid of Dol Guldur, the ferocious Battle of the Five Armies itself—all of the conflicts waged in The Hobbit motion picture trilogy are examined in exquisite detail from the first skirmish to the ultimate conflagration in the trilogy’s dramatic conclusion.
+The Hobbit: The Art of War brings together all of the special effects imagery in the Weta archives and unprecedented access to Sir Peter Jackson—the genius behind some of the world’s biggest motion-picture franchises, The Lord of the Rings and The Hobbit—who shares his expertise and encyclopedic knowledge with fans as never before.
+The Hobbit: The Art of War takes fans inside this creative visionary’s mind and gives them an understanding of how he plotted each and every movement captured on film. Jackson offers in-depth discussions of the strategies of each army, the tactics they employed, and the significance of each collision between rival cultures. The cast members from the three films also share personal stories of how their characters’ tales are resolved.
+Meet the armies of digitally generated creatures these heroes must overcome, delve into the world of Weta Digital and the Motion Capture Studio. Discover how the largely digital battles were achieved, from the design and creation of the battles’ creatures and the fight choreography, to the extended environments and visual effects necessary to make Tolkien’s world vividly real. The Hobbit: The Art of War is packed with lavish galleries showcasing the costumes, armor, weapons, and props integral to the battles, as well as the stories behind their creation.
+With never-before-heard behind-the-scenes, on-the-set, and in-the-studio stories, and exclusive detailed content, The Hobbit: The Art of War is the ultimate Hobbit fan’s encyclopedia and a must have for all aficionados of the craft of filmmaking.</string>
+		<key>title</key>
+		<string>The Hobbit: The Art of War: The Battle of the Five Armies: Chronicles</string>
+		<key>uid</key>
+		<integer>440</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>https://www.amazon.com/Hobbit-Battle-Five-Armies-Chronicles/dp/0062265725?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0062265725</string>
+	</dict>
+	<key>96</key>
+	<dict>
 		<key>author</key>
 		<string>Weta</string>
 		<key>customCheckbox1</key>
@@ -13606,7 +13803,7 @@ Chock full of insider stories, details, and insights, The Hobbit: The Battle of 
 		<key>url</key>
 		<string>https://www.amazon.com/Hobbit-Battle-Armies-Chronicles-Design/dp/0062265717?SubscriptionId=AKIAJY74QNK4VTC4FBUA&amp;amp;tag=jdmarshall-20&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=0062265717</string>
 	</dict>
-	<key>96</key>
+	<key>97</key>
 	<dict>
 		<key>asin</key>
 		<string>0374332657</string>
@@ -13667,7 +13864,7 @@ Chock full of insider stories, details, and insights, The Hobbit: The Battle of 
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/152980</string>
 	</dict>
-	<key>97</key>
+	<key>98</key>
 	<dict>
 		<key>customCheckbox1</key>
 		<integer>1</integer>
@@ -13702,7 +13899,7 @@ Chock full of insider stories, details, and insights, The Hobbit: The Battle of 
 		<key>uploaded</key>
 		<integer>0</integer>
 	</dict>
-	<key>98</key>
+	<key>99</key>
 	<dict>
 		<key>author</key>
 		<string>US Conference of Catholic Bishops</string>
@@ -13762,73 +13959,6 @@ Chock full of insider stories, details, and insights, The Hobbit: The Battle of 
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://openlibrary.org/books/OL26020559M</string>
-	</dict>
-	<key>99</key>
-	<dict>
-		<key>author</key>
-		<string>Zondervan</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-11-23T20:45:35Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-30T22:25:14Z</date>
-		<key>dimensions</key>
-		<string>21.1 x 14.2 x 3.3 cm</string>
-		<key>dogTag</key>
-		<integer>2058001</integer>
-		<key>edition</key>
-		<string>Revised</string>
-		<key>format</key>
-		<string>Leather Bound</string>
-		<key>genre</key>
-		<string>Non-fiction, Religion, Bible</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>isbn</key>
-		<string>0310926165</string>
-		<key>language</key>
-		<string>en</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$6.46</string>
-		<key>lowestUsedPrice</key>
-		<string>$0.01</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>736</string>
-		<key>placePublished</key>
-		<string>Holy Bible : New International Version.</string>
-		<key>price</key>
-		<string>$7.99</string>
-		<key>publisher</key>
-		<string>Zondervan Pub House</string>
-		<key>releaseDate</key>
-		<date>2001-01-01T06:00:00Z</date>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>subjects</key>
-		<string>Bible, New International</string>
-		<key>summary</key>
-		<string>Contains the King James Version of the Holy Bible both Old and New Testaments.</string>
-		<key>title</key>
-		<string>Holy Bible: New International Version.</string>
-		<key>uid</key>
-		<integer>145</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/2058001</string>
 	</dict>
 	<key>Version</key>
 	<string>New</string>
