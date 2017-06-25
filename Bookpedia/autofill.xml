@@ -19,6 +19,7 @@
 		<string>Anne Rice</string>
 		<string>Arthur Train</string>
 		<string>Augustine</string>
+		<string>B  A Paris</string>
 		<string>Barbara Delinsky</string>
 		<string>Barnes &amp; Noble.</string>
 		<string>Barry Burd</string>
@@ -39,6 +40,7 @@
 		<string>Catholic Book Publishing Co</string>
 		<string>Catholic Church</string>
 		<string>Charles S. Strong</string>
+		<string>Chris Harrison</string>
 		<string>Chris Kyle</string>
 		<string>Christopher Tolkien</string>
 		<string>Courtney Cole</string>
@@ -90,6 +92,7 @@
 		<string>Joanne K. Rowling</string>
 		<string>Joe Conway</string>
 		<string>John Grisham</string>
+		<string>John Sandford</string>
 		<string>John Tiffany</string>
 		<string>Jone Cotner</string>
 		<string>Julia Hoban</string>
@@ -122,6 +125,7 @@
 		<string>Multiple Authors</string>
 		<string>Nathaniel Hawthorne</string>
 		<string>Neal Stephenson</string>
+		<string>Neil Gaiman</string>
 		<string>Nicholas Sparks</string>
 		<string>Nigel Rodgers</string>
 		<string>Nora Roberts</string>
@@ -129,6 +133,7 @@
 		<string>Orson Scott Card</string>
 		<string>Oscar Wilde</string>
 		<string>P. C. Cast</string>
+		<string>Paul Collins</string>
 		<string>Paul Jessup</string>
 		<string>Paul Kent</string>
 		<string>Paul T Comeau</string>
@@ -228,6 +233,7 @@
 		<string> Science Fiction</string>
 		<string> Tech</string>
 		<string>Action &amp; Adventure</string>
+		<string>Action and adventure fiction</string>
 		<string>Adventure</string>
 		<string>Adventure fiction</string>
 		<string>Adventure stories</string>
@@ -270,11 +276,14 @@
 		<string>Computers &amp; Technology</string>
 		<string>Computers &amp; Technology &gt; Programming</string>
 		<string>Cooking</string>
+		<string>Creative nonfiction</string>
 		<string>Crime</string>
 		<string>Culture</string>
+		<string>Detective and mystery fiction</string>
 		<string>Devotional</string>
 		<string>Devotions</string>
 		<string>Diary fiction</string>
+		<string>Domestic fiction</string>
 		<string>Drama</string>
 		<string>Early works</string>
 		<string>Early works to 1800</string>
@@ -332,6 +341,7 @@
 		<string>Modern &amp; contemporary fiction (post c 1945)</string>
 		<string>Mystery</string>
 		<string>Mystery &amp; Thrillers</string>
+		<string>Mystery fiction</string>
 		<string>Narrativa straniera</string>
 		<string>National</string>
 		<string>Nature</string>
@@ -351,12 +361,14 @@
 		<string>Problems</string>
 		<string>Professional</string>
 		<string>Programming Languages</string>
+		<string>Psychological fiction</string>
 		<string>Quotations</string>
 		<string>Reference</string>
 		<string>Religion</string>
 		<string>Religion &amp; Spirituality</string>
 		<string>Roman</string>
 		<string>Romance</string>
+		<string>Romance fiction</string>
 		<string>Romantic</string>
 		<string>Saints &amp; Sainthood</string>
 		<string>Sci-Fi &amp; Fantasy</string>
@@ -377,6 +389,7 @@
 		<string>Teens</string>
 		<string>Thriller</string>
 		<string>Thriller &amp; Suspense</string>
+		<string>Thrillers (Fiction)</string>
 		<string>Thrillers &amp; Mystery</string>
 		<string>Topic</string>
 		<string>Travel</string>
@@ -398,9 +411,11 @@
 	<array>
 		<string>American wife : love, war, faith, and renewal</string>
 		<string>Amphibians!.</string>
+		<string>Behind closed doors</string>
 		<string>Boston</string>
 		<string>Chicago</string>
 		<string>Crime and Punishment.</string>
+		<string>Duel with the devil : the true story of how Alexander Hamilton and Aaron Burr teamed up to take on A</string>
 		<string>Eau Claire, Wisconsin</string>
 		<string>El Cajon, California</string>
 		<string>Evanston, Il</string>
@@ -431,6 +446,7 @@
 		<string>Pope Francis speaks to our hearts : words of challenge and hope.</string>
 		<string>Rome</string>
 		<string>Saint Joseph Baltimore catechism : the truths of our Catholic faith clearly explained and illustrate</string>
+		<string>Saturn run</string>
 		<string>Seveneves : [a novel]</string>
 		<string>Tales from the Arabian nights</string>
 		<string>The Bible for dummies</string>
@@ -439,6 +455,7 @@
 		<string>The Da Vinci hoax : exposing the errors in The Da Vinci code</string>
 		<string>The Hobbit and the Lord of the Rings The Hobbit, the Fellowship of the Ring, the Two Towers, the Ret</string>
 		<string>The kill switch : a Tucker Wayne novel</string>
+		<string>The perfect letter : a novel</string>
 		<string>The way of serenity : finding peace and happiness in the serenity prayer</string>
 		<string>Uhrichsville, Ohio</string>
 		<string>United States.</string>
@@ -495,10 +512,12 @@
 		<string>Collins Reference</string>
 		<string>CreateSpace Independent Publishing Platform</string>
 		<string>Crown</string>
+		<string>Crown Publishers</string>
 		<string>Cupples &amp; Leon Company</string>
 		<string>Del Rey</string>
 		<string>Del Rey Books</string>
 		<string>Delrey</string>
+		<string>Dey St</string>
 		<string>Dorling Kindersley ; Boston</string>
 		<string>Doubleday</string>
 		<string>Doubleday Books</string>
@@ -511,6 +530,7 @@
 		<string>Forever</string>
 		<string>Garden City Books</string>
 		<string>Gideons International</string>
+		<string>GP Putnam's Sons</string>
 		<string>Grand Central Publishing</string>
 		<string>Gus Lloyd</string>
 		<string>Harcourt Paperbacks</string>
@@ -521,6 +541,7 @@
 		<string>Harper Trophy</string>
 		<string>HarperAudio</string>
 		<string>HarperCollins</string>
+		<string>HarperCollins Publishers</string>
 		<string>HarperOne</string>
 		<string>HarperTeen</string>
 		<string>Hendrickson Publishers</string>
@@ -561,6 +582,7 @@
 		<string>Sony CONNECT Inc.</string>
 		<string>Sophia Institute Press</string>
 		<string>Speak</string>
+		<string>St Martin's Press</string>
 		<string>St. Martin's Griffin</string>
 		<string>Sterling</string>
 		<string>Sterling Publishing</string>
