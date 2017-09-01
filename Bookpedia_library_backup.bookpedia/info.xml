@@ -4665,7 +4665,7 @@ When Brittany Ellis walks into chemistry class on the first day of senior year, 
 		<key>dateAdded</key>
 		<date>2016-12-24T17:29:51Z</date>
 		<key>dateEdited</key>
-		<date>2017-05-08T22:40:49Z</date>
+		<date>2017-09-01T13:03:49Z</date>
 		<key>dimensions</key>
 		<string>7.72 x 5.04 x 0.47 in</string>
 		<key>dogTag</key>
@@ -4673,13 +4673,22 @@ When Brittany Ellis walks into chemistry class on the first day of senior year, 
 		<key>format</key>
 		<string>Paperback</string>
 		<key>genre</key>
-		<string>Fiction</string>
+		<string>Fiction, Classic</string>
 		<key>hasBeenSold</key>
 		<integer>0</integer>
 		<key>hasMovieLink</key>
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9781435159587</string>
+		<key>lastRead</key>
+		<date>2017-08-31T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2017-08-31T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>locale</key>
 		<string>US</string>
 		<key>localeLanguage</key>
@@ -4689,7 +4698,7 @@ When Brittany Ellis walks into chemistry class on the first day of senior year, 
 		<key>lowestUsedPrice</key>
 		<string>$0.77</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>8</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
