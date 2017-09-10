@@ -13,7 +13,7 @@
 		<key>dateAdded</key>
 		<date>2017-08-29T01:07:28Z</date>
 		<key>dateEdited</key>
-		<date>2017-08-29T01:08:44Z</date>
+		<date>2017-09-09T21:12:07Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
@@ -30,10 +30,19 @@
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780345806796</string>
+		<key>lastRead</key>
+		<date>2017-09-09T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2017-09-09T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>10</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
@@ -7036,7 +7045,7 @@ Back in the States, the legal proceedings drag on and Grisham has a high time wi
 		<key>dateAdded</key>
 		<date>2017-09-05T01:26:52Z</date>
 		<key>dateEdited</key>
-		<date>2017-09-05T01:30:41Z</date>
+		<date>2017-09-10T04:05:09Z</date>
 		<key>dewey</key>
 		<string>813.54</string>
 		<key>dimensions</key>
