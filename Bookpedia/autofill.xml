@@ -18,6 +18,7 @@
 		<string>Alexandre Dumas</string>
 		<string>Andy Weir</string>
 		<string>Anne Rice</string>
+		<string>Arthur a Levine Books</string>
 		<string>Arthur Train</string>
 		<string>Augustine</string>
 		<string>B  A Paris</string>
@@ -26,6 +27,7 @@
 		<string>Barry Burd</string>
 		<string>Beatrix Potter</string>
 		<string>Bennet Kelley</string>
+		<string>Beverly Lewis</string>
 		<string>Bob West</string>
 		<string>Bram Stocker</string>
 		<string>Bram Stoker</string>
@@ -47,6 +49,7 @@
 		<string>Courtney Cole</string>
 		<string>Dan J. Forrestal</string>
 		<string>Dante Alighieri</string>
+		<string>David Gerald Lewis</string>
 		<string>Donald F. Glut</string>
 		<string>Douglas Adams</string>
 		<string>Douglas Brinkley</string>
@@ -67,12 +70,14 @@
 		<string>George Lucas</string>
 		<string>George R. R. Martin</string>
 		<string>George Weigel</string>
+		<string>Gill</string>
 		<string>Grant Blackwood</string>
 		<string>Gus Lloyd</string>
 		<string>H. G. Wells</string>
 		<string>H. P. Lovecraft</string>
 		<string>H.G. Wells</string>
 		<string>Harriet Mcdougal</string>
+		<string>Harry</string>
 		<string>Hazel Dodge</string>
 		<string>Homer</string>
 		<string>Howard R. Garis</string>
@@ -81,6 +86,7 @@
 		<string>J R R Tolkien</string>
 		<string>J. K. Rowling</string>
 		<string>J. R. R. Tolkien</string>
+		<string>J.k.</string>
 		<string>J.K. Rowling</string>
 		<string>J.R.R. Tolkien</string>
 		<string>Jack Thorne</string>
@@ -103,6 +109,7 @@
 		<string>Lev Nikolaevič Tolstoj</string>
 		<string>Lisa Scottoline</string>
 		<string>Lisa Swerling</string>
+		<string>Lomenech (ilt)</string>
 		<string>M. E. Kerr</string>
 		<string>Margaret Atwood</string>
 		<string>Maria Simons</string>
@@ -127,6 +134,7 @@
 		<string>Nathaniel Hawthorne</string>
 		<string>Neal Stephenson</string>
 		<string>Neil Gaiman</string>
+		<string>Newt</string>
 		<string>Nicholas Sparks</string>
 		<string>Nigel Rodgers</string>
 		<string>Nora Roberts</string>
@@ -150,9 +158,11 @@
 		<string>Robert Jordan</string>
 		<string>Robert Louis Stevenson</string>
 		<string>Robert Vanderbei Richard Gott</string>
+		<string>Rowling</string>
 		<string>S Heaney</string>
 		<string>Sabaa Tahir</string>
 		<string>Saint  Bishop of Hippo.</string>
+		<string>Scamander</string>
 		<string>Seminars Unlimited</string>
 		<string>Shelley Shepard Gray</string>
 		<string>Simone Elkeles</string>
@@ -242,6 +252,8 @@
 		<string>Alternative History</string>
 		<string>American</string>
 		<string>American Government</string>
+		<string>Amish &amp; Mennonite</string>
+		<string>Animals</string>
 		<string>Apologetic works</string>
 		<string>Apologetic writings</string>
 		<string>Arts &amp; Photography</string>
@@ -262,6 +274,7 @@
 		<string>Christian</string>
 		<string>Christian Books &amp; Bibles</string>
 		<string>Christian Fiction</string>
+		<string>Christian fiction.</string>
 		<string>Christian Life</string>
 		<string>Christian Theology</string>
 		<string>Christianity</string>
@@ -288,6 +301,7 @@
 		<string>Devotions</string>
 		<string>Diary fiction</string>
 		<string>Domestic fiction</string>
+		<string>Dragons</string>
 		<string>Drama</string>
 		<string>Early works</string>
 		<string>Early works to 1800</string>
@@ -324,6 +338,7 @@
 		<string>Horror fiction</string>
 		<string>Humor</string>
 		<string>Humor &amp; Entertainment</string>
+		<string>Humorous Stories</string>
 		<string>Introductions</string>
 		<string>IT</string>
 		<string>Italian Literature</string>
@@ -371,11 +386,13 @@
 		<string>Reference</string>
 		<string>Religion</string>
 		<string>Religion &amp; Spirituality</string>
+		<string>Religious</string>
 		<string>Roman</string>
 		<string>Romance</string>
 		<string>Romance fiction</string>
 		<string>Romantic</string>
 		<string>Saints &amp; Sainthood</string>
+		<string>School &amp; Education</string>
 		<string>Sci-Fi &amp; Fantasy</string>
 		<string>Science</string>
 		<string>Science Ficti</string>
@@ -400,6 +417,7 @@
 		<string>Thrillers &amp; Mystery</string>
 		<string>Topic</string>
 		<string>Travel</string>
+		<string>Unicorns &amp; Mythical</string>
 		<string>Young Adult</string>
 	</array>
 	<key>gift</key>
@@ -416,6 +434,7 @@
 	</array>
 	<key>placePublished</key>
 	<array>
+		<string> </string>
 		<string>American wife : love, war, faith, and renewal</string>
 		<string>Amphibians!.</string>
 		<string>Behind closed doors</string>
@@ -443,6 +462,8 @@
 		<string>London</string>
 		<string>Love</string>
 		<string>Map of bones : a Sigma Force novel</string>
+		<string>Minneapolis, Minn</string>
+		<string>Minneapolis, Minn.</string>
 		<string>Nashville, TN</string>
 		<string>New York</string>
 		<string>New York, NY</string>
@@ -494,6 +515,7 @@
 		<string>Audioworks</string>
 		<string>Avon Inspire</string>
 		<string>Back Bay Books</string>
+		<string>Baker Publishing Group</string>
 		<string>Ballantine Books</string>
 		<string>Bantam</string>
 		<string>Bantam Classics</string>
@@ -507,6 +529,8 @@
 		<string>Basic Books</string>
 		<string>Beacon Publishing</string>
 		<string>Berkley</string>
+		<string>Bethany House</string>
+		<string>Bethany House Publishers</string>
 		<string>Bloomsbury</string>
 		<string>Bloomsbury USA Childrens</string>
 		<string>BOOKS</string>
@@ -536,6 +560,7 @@
 		<string>Fall River Press</string>
 		<string>Farrar Strauss and Young</string>
 		<string>Fireside Catholic Publishing</string>
+		<string>Flame Tree Publishing</string>
 		<string>Forever</string>
 		<string>Garden City Books</string>
 		<string>Gideons International</string>
@@ -657,6 +682,7 @@
 	<key>tags</key>
 	<array>
 		<string>Erin</string>
+		<string>Grandma</string>
 	</array>
 </dict>
 </plist>
