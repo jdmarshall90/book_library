@@ -1923,7 +1923,7 @@ Here are some of the topics covered:
 		<key>dateAdded</key>
 		<date>2017-09-05T01:27:56Z</date>
 		<key>dateEdited</key>
-		<date>2017-11-04T05:08:51Z</date>
+		<date>2017-11-14T02:30:43Z</date>
 		<key>dogTag</key>
 		<integer>2185981</integer>
 		<key>genre</key>
@@ -1948,7 +1948,7 @@ Here are some of the topics covered:
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>6</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>placePublished</key>
@@ -7693,7 +7693,7 @@ But when Amelia gets hurt, it sets off a chain of events that forces them to con
 		<key>dateAdded</key>
 		<date>2017-08-29T01:09:12Z</date>
 		<key>dateEdited</key>
-		<date>2017-08-29T01:09:12Z</date>
+		<date>2017-11-14T02:30:36Z</date>
 		<key>dogTag</key>
 		<integer>1029941</integer>
 		<key>genre</key>
@@ -7727,7 +7727,7 @@ But when Amelia gets hurt, it sets off a chain of events that forces them to con
 		<key>summary</key>
 		<string>After a virus kills most of the people in the world, a handful of survivors choose sides-- a world of good led by 108-year-old Mother Abigail-- or evil led by a man with a lethal smile and unspeakable powers: Randall Flagg, the dark man.</string>
 		<key>title</key>
-		<string>The stand : a novel</string>
+		<string>The Stand</string>
 		<key>uid</key>
 		<integer>453</integer>
 		<key>uploaded</key>
