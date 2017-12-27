@@ -57,6 +57,7 @@
 		<string>Edgar Allan Poe</string>
 		<string>Elin Hilderbrand</string>
 		<string>Elizabeth Eulberg</string>
+		<string>Ernest Cline</string>
 		<string>Ernest Hemingway</string>
 		<string>Fr Alain Delagneau</string>
 		<string>Fr. Jonathan Morris</string>
@@ -224,6 +225,7 @@
 		<string>4th</string>
 		<string>5th</string>
 		<string>Signed 1st edition</string>
+		<string>THIRD EDITION</string>
 	</array>
 	<key>format</key>
 	<array>
@@ -417,6 +419,7 @@
 		<string>Teens</string>
 		<string>Thriller</string>
 		<string>Thriller &amp; Suspense</string>
+		<string>Thrillers</string>
 		<string>Thrillers (Fiction)</string>
 		<string>Thrillers &amp; Mystery</string>
 		<string>Topic</string>
@@ -451,6 +454,7 @@
 		<string>Evanston, Il</string>
 		<string>Evanston, Il / White Plains, NY</string>
 		<string>Faifield, Ia</string>
+		<string>flu</string>
 		<string>Garden City, N.Y</string>
 		<string>Hamburg</string>
 		<string>Harry Potter and the cursed child. Parts one and two</string>
@@ -539,6 +543,7 @@
 		<string>Bloomsbury</string>
 		<string>Bloomsbury USA Childrens</string>
 		<string>BOOKS</string>
+		<string>Broadway Paperbacks</string>
 		<string>Catholic Answers, Inc.</string>
 		<string>Catholic Book Pub Co</string>
 		<string>Catholic Book Publishing Corp</string>
