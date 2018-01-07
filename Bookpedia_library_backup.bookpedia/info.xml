@@ -1332,7 +1332,7 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<key>dateAdded</key>
 		<date>2017-11-18T20:43:28Z</date>
 		<key>dateEdited</key>
-		<date>2017-12-31T02:22:29Z</date>
+		<date>2017-12-31T02:28:58Z</date>
 		<key>genre</key>
 		<string>Fiction, Epic Fantasy</string>
 		<key>hasBeenSold</key>
@@ -1341,10 +1341,19 @@ At the Publisher's request, this title is being sold without Digital Rights Mana
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9781250166531</string>
+		<key>lastRead</key>
+		<date>2017-12-30T06:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2017-12-30T06:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>10</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>price</key>
@@ -16175,7 +16184,7 @@ and an Afterword by Robin Feuer Miller
 		<key>dateAdded</key>
 		<date>2017-11-30T02:12:30Z</date>
 		<key>dateEdited</key>
-		<date>2017-12-31T02:22:18Z</date>
+		<date>2018-01-02T00:32:58Z</date>
 		<key>dimensions</key>
 		<string>17.80 cm x 11.70 cm x 2.50 cm</string>
 		<key>genre</key>
@@ -16186,10 +16195,19 @@ and an Afterword by Robin Feuer Miller
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9781250166548</string>
+		<key>lastRead</key>
+		<date>2018-01-01T06:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2018-01-01T06:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>6</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
