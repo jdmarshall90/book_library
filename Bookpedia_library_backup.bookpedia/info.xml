@@ -5640,7 +5640,7 @@ Love can come when you least expect it. The question is: If the odds are stacked
 		<key>dateAdded</key>
 		<date>2017-11-30T02:12:44Z</date>
 		<key>dateEdited</key>
-		<date>2017-12-31T02:22:21Z</date>
+		<date>2018-01-23T04:41:44Z</date>
 		<key>dimensions</key>
 		<string>24.40 cm x 16.30 cm x 5.90 cm</string>
 		<key>genre</key>
@@ -5651,23 +5651,19 @@ Love can come when you least expect it. The question is: If the odds are stacked
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780765326379</string>
-		<key>links</key>
+		<key>lastRead</key>
+		<date>2018-01-22T06:00:00Z</date>
+		<key>lastUsed</key>
 		<array>
 			<dict>
-				<key>name</key>
-				<string>Redirect Notice</string>
-				<key>position</key>
-				<integer>0</integer>
-				<key>type</key>
-				<string>Web Page</string>
-				<key>url</key>
-				<string>https://www.google.com/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;ved=0ahUKEwiqmNWdneXXAhUPziYKHchRBOEQjRwIBw&amp;url=https%3A%2F%2Fwww.amazon.com%2FEdgedancer-Stormlight-Archive-Brandon-Sanderson%2Fdp%2F1250166543&amp;psig=AOvVaw2zZaK0EIgLK6Hk3Qn9dYy9&amp;ust=1512094530964651</string>
+				<key>date</key>
+				<date>2018-01-22T06:00:00Z</date>
 			</dict>
 		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>10</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
