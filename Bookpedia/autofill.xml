@@ -16,6 +16,7 @@
 		<string>Alan Smale</string>
 		<string>Alex Flinn</string>
 		<string>Alexandre Dumas</string>
+		<string>Andrzej Sapkowski</string>
 		<string>Andy Weir</string>
 		<string>Anne Rice</string>
 		<string>Arthur a Levine Books</string>
@@ -218,6 +219,10 @@
 		<string>Ages 12-16</string>
 		<string>Ages 16+</string>
 	</array>
+	<key>customTag1</key>
+	<array>
+		<string>Erin</string>
+	</array>
 	<key>edition</key>
 	<array>
 		<string>1st</string>
@@ -291,6 +296,7 @@
 		<string>Classic Literature</string>
 		<string>Classici</string>
 		<string>Classics</string>
+		<string>Collections &amp; Anthologies</string>
 		<string>Comic books</string>
 		<string>Comic Strips &amp; Cartoons</string>
 		<string>Comics &amp; Graphic Novels</string>
@@ -303,12 +309,14 @@
 		<string>Creative nonfiction</string>
 		<string>Crime</string>
 		<string>Culture</string>
+		<string>Dating &amp; Sex</string>
 		<string>Detective and mystery fiction</string>
 		<string>Devotional</string>
 		<string>Devotions</string>
 		<string>Diary fiction</string>
 		<string>Domestic fiction</string>
 		<string>Dragons</string>
+		<string>Dragons &amp; Mythical Creatures</string>
 		<string>Drama</string>
 		<string>Early works</string>
 		<string>Early works to 1800</string>
@@ -329,6 +337,7 @@
 		<string>Fantasy drama</string>
 		<string>Fantasy fiction</string>
 		<string>Fiction</string>
+		<string>Folk Tales</string>
 		<string>Folklore</string>
 		<string>Form</string>
 		<string>Friendship</string>
@@ -355,6 +364,7 @@
 		<string>Juvenile Fiction</string>
 		<string>Juvenile works</string>
 		<string>Language</string>
+		<string>Legends &amp; Mythology</string>
 		<string>Literature</string>
 		<string>Literature &amp; Fiction</string>
 		<string>Love &amp; Romance</string>
@@ -376,6 +386,7 @@
 		<string>Non Fiction</string>
 		<string>Non-fiction</string>
 		<string>Novels</string>
+		<string>Occult &amp; Supernatural</string>
 		<string>Outlines</string>
 		<string>Outlines and syllabi</string>
 		<string>Paranormal</string>
@@ -428,7 +439,9 @@
 		<string>Topic</string>
 		<string>Travel</string>
 		<string>Unicorns &amp; Mythical</string>
+		<string>Vampires</string>
 		<string>Young Adult</string>
+		<string>Young Adult Fiction</string>
 	</array>
 	<key>gift</key>
 	<array>
@@ -606,6 +619,7 @@
 		<string>Mariner Books</string>
 		<string>Marshall Cevndish</string>
 		<string>National Geographic</string>
+		<string>Orbit</string>
 		<string>Paulist Press</string>
 		<string>Pearson Prentice Hall</string>
 		<string>Penguin</string>
