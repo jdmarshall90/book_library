@@ -100,6 +100,7 @@
 		<string>James Rollins [Jim Czajkowski]</string>
 		<string>James Walker</string>
 		<string>Jeffrey C Geoghegan</string>
+		<string>Jeffrey Kluger</string>
 		<string>Joanne K. Rowling</string>
 		<string>Joe Conway</string>
 		<string>John Grisham</string>
@@ -256,11 +257,13 @@
 		<string> Military</string>
 		<string> Science Fiction</string>
 		<string> Tech</string>
+		<string>20th Century</string>
 		<string>Action &amp; Adventure</string>
 		<string>Action and adventure fiction</string>
 		<string>Adventure</string>
 		<string>Adventure fiction</string>
 		<string>Adventure stories</string>
+		<string>Aeronautics &amp; Astronautics</string>
 		<string>Alternative History</string>
 		<string>American</string>
 		<string>American Government</string>
@@ -429,6 +432,7 @@
 		<string>Suspense Fiction</string>
 		<string>syllabi</string>
 		<string>Tech</string>
+		<string>Technology &amp; Engineering</string>
 		<string>Teen &amp; Young Adult</string>
 		<string>Teens</string>
 		<string>Thriller</string>
@@ -439,6 +443,7 @@
 		<string>Topic</string>
 		<string>Travel</string>
 		<string>Unicorns &amp; Mythical</string>
+		<string>United States</string>
 		<string>Vampires</string>
 		<string>Young Adult</string>
 		<string>Young Adult Fiction</string>
@@ -607,6 +612,7 @@
 		<string>HarperOne</string>
 		<string>HarperTeen</string>
 		<string>Hendrickson Publishers</string>
+		<string>Henry Holt and Company</string>
 		<string>Hodder &amp; Stoughton</string>
 		<string>Hodder Paperbacks</string>
 		<string>Holt, Rinehart &amp; Winston</string>
