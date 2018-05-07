@@ -1096,85 +1096,6 @@ Goblet of Fire.</string>
 		<key>author</key>
 		<string>J. K. Rowling</string>
 		<key>awards</key>
-		<string>Mythopoeic Fantasy Award for Children's Literature (2008), British Book Award for Children's Book of the Year (1998), Smarties Prize (1997), Prijs van de Nederlandse Kinderjury for 6-9 jaar en 10-12 jaar (2002), American Booksellers Book Of The Year Award for Children (1999), West Australian Young Readers' Book Award (WAYRBA) for Younger Readers (2000), Rebecca Caudill Young Reader's Book Award (2001), South Carolina Book Award for Junior Book Award (2001), Grand Canyon Reader Award for Teen Book (2000), Charlotte Award (2000), Nene Award (2000), Massachusetts Children's Book Award (2000), Colorado Blue Spruce Young Adult Book Award (2001), Blue Hen Book Award for Chapter Book (2001), Nevada Young Readers' Award for Young Reader Category (2000), Golden Archer Award for Middle/Junior High (2000), Indian Paintbrush Book Award (2000), Hotze de Roosprijs (2002), Kinderboekwinkelprijs (1999), Publishers Weekly Best Book of (1998), National Book Award (UK) (1997), Parenting Book of the Year Award (1998), North East Teenage Book Award (1999), Washington State Sasquatch Award (2000), Literaturpreis der Jury der jungen Leser for Kinderbuch (1999), Carnegie Medal Nominee (1997)</string>
-		<key>characters</key>
-		<string>Harry Potter, Draco Malfoy, Hermione Granger, Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Albus Dumbledore, Severus Snape, Quirinus Quirrell, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom, Fred Weasley, George Wea</string>
-		<key>coverArtist</key>
-		<string>Mary GrandPré</string>
-		<key>customCheckbox1</key>
-		<integer>1</integer>
-		<key>customCheckbox2</key>
-		<integer>0</integer>
-		<key>dateAdded</key>
-		<date>2016-05-19T22:15:12Z</date>
-		<key>dateEdited</key>
-		<date>2017-05-08T22:12:01Z</date>
-		<key>dimensions</key>
-		<string>24.00 cm x 15.20 cm x 2.50 cm</string>
-		<key>dogTag</key>
-		<integer>1240</integer>
-		<key>edition</key>
-		<string>1st</string>
-		<key>format</key>
-		<string>Hardcover</string>
-		<key>genre</key>
-		<string>Fiction, Fantasy</string>
-		<key>hasBeenSold</key>
-		<integer>0</integer>
-		<key>hasMovieLink</key>
-		<integer>0</integer>
-		<key>illustrator</key>
-		<string>Mary Grandpre</string>
-		<key>isbn</key>
-		<string>9780590353403</string>
-		<key>language</key>
-		<string>English</string>
-		<key>localeLanguage</key>
-		<string>en</string>
-		<key>lowestNewPrice</key>
-		<string>$11.00</string>
-		<key>lowestUsedPrice</key>
-		<string>$3.91</string>
-		<key>myRating</key>
-		<integer>0</integer>
-		<key>onSale</key>
-		<integer>0</integer>
-		<key>pages</key>
-		<string>309</string>
-		<key>placePublished</key>
-		<string>New York</string>
-		<key>publisher</key>
-		<string>Arthur A. Levine Books</string>
-		<key>rating</key>
-		<string>6</string>
-		<key>releaseDate</key>
-		<date>1998-10-01T05:00:00Z</date>
-		<key>series</key>
-		<string>Harry Potter</string>
-		<key>signed</key>
-		<integer>0</integer>
-		<key>status</key>
-		<integer>0</integer>
-		<key>summary</key>
-		<string>Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility. 
-
-All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley—a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years. 
-
-But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry—and anyone who reads about him—will find unforgettable. For it's there that he finds not only friends, aerial sports, and magic in everything from classes to meals, but a great destiny that's been waiting for him... if Harry can survive the encounter.</string>
-		<key>title</key>
-		<string>Harry Potter and the Sorcerer's Stone</string>
-		<key>uid</key>
-		<integer>93</integer>
-		<key>uploaded</key>
-		<integer>0</integer>
-		<key>url</key>
-		<string>http://doghouse.bruji.com/book/1240</string>
-	</dict>
-	<key>113</key>
-	<dict>
-		<key>author</key>
-		<string>J. K. Rowling</string>
-		<key>awards</key>
 		<string>Nestlé Smarties Book Prize</string>
 		<key>characters</key>
 		<string>Harry Potter, Ronald Weasley, Professor Albus Dumbledore, Professor Severus Snape, George Weasley, Fred Weasley, Arthur Weasley</string>
@@ -1250,6 +1171,85 @@ The book was published on 30 June 1997 by Bloomsbury in London, while in 1998 S
 		<integer>0</integer>
 		<key>url</key>
 		<string>http://doghouse.bruji.com/book/2882</string>
+	</dict>
+	<key>113</key>
+	<dict>
+		<key>author</key>
+		<string>J. K. Rowling</string>
+		<key>awards</key>
+		<string>Mythopoeic Fantasy Award for Children's Literature (2008), British Book Award for Children's Book of the Year (1998), Smarties Prize (1997), Prijs van de Nederlandse Kinderjury for 6-9 jaar en 10-12 jaar (2002), American Booksellers Book Of The Year Award for Children (1999), West Australian Young Readers' Book Award (WAYRBA) for Younger Readers (2000), Rebecca Caudill Young Reader's Book Award (2001), South Carolina Book Award for Junior Book Award (2001), Grand Canyon Reader Award for Teen Book (2000), Charlotte Award (2000), Nene Award (2000), Massachusetts Children's Book Award (2000), Colorado Blue Spruce Young Adult Book Award (2001), Blue Hen Book Award for Chapter Book (2001), Nevada Young Readers' Award for Young Reader Category (2000), Golden Archer Award for Middle/Junior High (2000), Indian Paintbrush Book Award (2000), Hotze de Roosprijs (2002), Kinderboekwinkelprijs (1999), Publishers Weekly Best Book of (1998), National Book Award (UK) (1997), Parenting Book of the Year Award (1998), North East Teenage Book Award (1999), Washington State Sasquatch Award (2000), Literaturpreis der Jury der jungen Leser for Kinderbuch (1999), Carnegie Medal Nominee (1997)</string>
+		<key>characters</key>
+		<string>Harry Potter, Draco Malfoy, Hermione Granger, Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Albus Dumbledore, Severus Snape, Quirinus Quirrell, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom, Fred Weasley, George Wea</string>
+		<key>coverArtist</key>
+		<string>Mary GrandPré</string>
+		<key>customCheckbox1</key>
+		<integer>1</integer>
+		<key>customCheckbox2</key>
+		<integer>0</integer>
+		<key>dateAdded</key>
+		<date>2016-05-19T22:15:12Z</date>
+		<key>dateEdited</key>
+		<date>2017-05-08T22:12:01Z</date>
+		<key>dimensions</key>
+		<string>24.00 cm x 15.20 cm x 2.50 cm</string>
+		<key>dogTag</key>
+		<integer>1240</integer>
+		<key>edition</key>
+		<string>1st</string>
+		<key>format</key>
+		<string>Hardcover</string>
+		<key>genre</key>
+		<string>Fiction, Fantasy</string>
+		<key>hasBeenSold</key>
+		<integer>0</integer>
+		<key>hasMovieLink</key>
+		<integer>0</integer>
+		<key>illustrator</key>
+		<string>Mary Grandpre</string>
+		<key>isbn</key>
+		<string>9780590353403</string>
+		<key>language</key>
+		<string>English</string>
+		<key>localeLanguage</key>
+		<string>en</string>
+		<key>lowestNewPrice</key>
+		<string>$11.00</string>
+		<key>lowestUsedPrice</key>
+		<string>$3.91</string>
+		<key>myRating</key>
+		<integer>0</integer>
+		<key>onSale</key>
+		<integer>0</integer>
+		<key>pages</key>
+		<string>309</string>
+		<key>placePublished</key>
+		<string>New York</string>
+		<key>publisher</key>
+		<string>Arthur A. Levine Books</string>
+		<key>rating</key>
+		<string>6</string>
+		<key>releaseDate</key>
+		<date>1998-10-01T05:00:00Z</date>
+		<key>series</key>
+		<string>Harry Potter</string>
+		<key>signed</key>
+		<integer>0</integer>
+		<key>status</key>
+		<integer>0</integer>
+		<key>summary</key>
+		<string>Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility. 
+
+All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley—a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years. 
+
+But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry—and anyone who reads about him—will find unforgettable. For it's there that he finds not only friends, aerial sports, and magic in everything from classes to meals, but a great destiny that's been waiting for him... if Harry can survive the encounter.</string>
+		<key>title</key>
+		<string>Harry Potter and the Sorcerer's Stone</string>
+		<key>uid</key>
+		<integer>93</integer>
+		<key>uploaded</key>
+		<integer>0</integer>
+		<key>url</key>
+		<string>http://doghouse.bruji.com/book/1240</string>
 	</dict>
 	<key>114</key>
 	<dict>
@@ -8750,7 +8750,7 @@ In "The Sacrifice", Leah Ebersol has no choice but to believe the worst: Her old
 		<key>dateAdded</key>
 		<date>2017-12-27T02:25:54Z</date>
 		<key>dateEdited</key>
-		<date>2018-02-13T04:00:31Z</date>
+		<date>2018-05-06T04:28:52Z</date>
 		<key>dimensions</key>
 		<string>17.30 cm x 10.50 cm x 3.20 cm</string>
 		<key>genre</key>
@@ -8761,10 +8761,19 @@ In "The Sacrifice", Leah Ebersol has no choice but to believe the worst: Her old
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780765378569</string>
+		<key>lastRead</key>
+		<date>2018-05-05T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2018-05-05T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>10</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
@@ -16749,7 +16758,7 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<key>dateAdded</key>
 		<date>2018-01-21T03:02:51Z</date>
 		<key>dateEdited</key>
-		<date>2018-02-13T04:00:40Z</date>
+		<date>2018-04-23T12:34:49Z</date>
 		<key>dimensions</key>
 		<string>18.00 cm x 10.70 cm x 2.70 cm</string>
 		<key>genre</key>
@@ -16760,10 +16769,19 @@ Commander Gray Pierce and Sigma Force set out to discover a truth tied to the fa
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780765368546</string>
+		<key>lastRead</key>
+		<date>2018-04-22T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2018-04-22T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>8</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
