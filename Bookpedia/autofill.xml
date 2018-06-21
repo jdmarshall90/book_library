@@ -114,6 +114,7 @@
 		<string>Leo Tolstoy</string>
 		<string>Leslie Silk Eslinger</string>
 		<string>Lev Nikolaevič Tolstoj</string>
+		<string>Lila Pargment</string>
 		<string>Lisa Scottoline</string>
 		<string>Lisa Swerling</string>
 		<string>Lomenech (ilt)</string>
@@ -239,6 +240,11 @@
 		<string>Signed 1st edition</string>
 		<string>THIRD EDITION</string>
 	</array>
+	<key>editor</key>
+	<array>
+		<string>George V. Bobrinskoy</string>
+		<string>Otto F. Bond</string>
+	</array>
 	<key>format</key>
 	<array>
 		<string>Audio Cassette</string>
@@ -346,6 +352,7 @@
 		<string>Fiction</string>
 		<string>Folk Tales</string>
 		<string>Folklore</string>
+		<string>Foreign Language Study</string>
 		<string>Form</string>
 		<string>Friendship</string>
 		<string>Frodo (Fictitious character)</string>
@@ -418,6 +425,7 @@
 		<string>Romance</string>
 		<string>Romance fiction</string>
 		<string>Romantic</string>
+		<string>Russian</string>
 		<string>Saints &amp; Sainthood</string>
 		<string>School &amp; Education</string>
 		<string>Sci-Fi &amp; Fantasy</string>
@@ -632,6 +640,7 @@
 		<string>Mariner Books</string>
 		<string>Marshall Cevndish</string>
 		<string>National Geographic</string>
+		<string>National Textbook Company</string>
 		<string>Orbit</string>
 		<string>Paulist Press</string>
 		<string>Pearson Prentice Hall</string>
