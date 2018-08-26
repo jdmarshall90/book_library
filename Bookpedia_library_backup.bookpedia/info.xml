@@ -15200,7 +15200,7 @@ Secondly, look for the Robin Buss Translation.  Many of the versions of this boo
 		<key>dateAdded</key>
 		<date>2018-06-21T01:49:08Z</date>
 		<key>dateEdited</key>
-		<date>2018-06-21T01:52:08Z</date>
+		<date>2018-08-20T04:48:26Z</date>
 		<key>genre</key>
 		<string>Fiction</string>
 		<key>hasBeenSold</key>
@@ -15209,10 +15209,19 @@ Secondly, look for the Robin Buss Translation.  Many of the versions of this boo
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9781435132115</string>
+		<key>lastRead</key>
+		<date>2018-08-19T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2018-08-19T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>publisher</key>
