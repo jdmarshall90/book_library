@@ -1,0 +1,229 @@
+/* main page content */
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+/* search box */
+#filter {  /* the input field */
+	font-size: 8pt;
+	height: 10pt;
+	border: solid 1px black;
+	padding-left: .2em;
+}
+#search {  /* the text bit */
+	font-weight: bold;
+}
+
+/* what displays if your search doesn't match */
+#emptyresults {
+	color: red;
+	font-size: 10pt;
+	font-weight: bold;
+	padding: 2em;
+	display: none;
+}
+
+/* the 1 2 3 4 pages */
+#index {
+	margin-left: 4em;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+/* the main table's css - getting the css correct on a table is a total pita */
+.tablesorter {
+	border: solid 1px black;
+	margin-bottom: .5em;
+}
+.tablesorter td {
+	border-color: #dddddd;
+	border-style: inset;
+	border-width: 0 1px;
+	margin-left: .25em;
+	padding: 0 .5em;
+}
+.tablesorter a {
+	vertical-align: 1px;
+}
+.tablesorter thead tr th {
+	padding-right: 2em;
+}
+.tablesorter th {
+	font-weight: bold;
+}
+.tablesorter tbody td {
+	text-align: left;
+}
+.tablesorter tbody tr div {
+	max-height: 1em;
+	padding-bottom: 4px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+#summarytd {
+	border: solid 1px black;
+	font-weight: bold;
+	padding: .5em;
+	text-align: right;
+}
+
+/* these are user selectable css options */
+.lbr {  /* let's be reasonable - 25em is good enough for anyone */
+	max-width: 20em;
+}
+.smr {
+	max-width: 35em;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.nw {  /* nowrap - titles should be safe from shrinkage */
+	white-space: nowrap;
+}
+.cen {  /* center aligned */
+	text-align: center;
+}
+
+/* credits at the bottom of the page */
+.credits {
+	color: #bbbbbb;
+	font-size: small;
+	text-align: center;
+}
+.credits a {
+	color: #bbbbbb;
+	font-weight: bold;
+}
+
+/* colorbox (the lightbox popup) options, more-or-less in order of appearance */
+#cboxContent {
+	background-color: #d1d7e2;
+}
+
+/* settings for entire colorbox */
+.cbcontent {
+	background-color: #d1d7e2;
+	font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+	font-size: 12px;
+}
+
+.cbheader {
+	background-color: #8190af;
+	border-bottom: solid 2px #a1a5a9;
+	padding: .4em 0;
+	text-align: center;
+}
+
+.cbtitle {
+	color: white;
+	font-size: 20px;
+	padding-left: 77px;
+}
+.cbtitle-bp {
+	color: white;
+	display: inline-block;
+	font-size: 20px;
+	min-width: 853px;
+	max-width: 868px;
+	padding: 0 25px;
+}
+
+.cbsubtitle {
+	color: #666666;
+	font-size: 20px;
+}
+.cbsubsubtitle-bp {
+	padding-left: 77px;
+}
+
+.cbsubsubtitle {
+	color: #666666;
+	font-size: 10px;
+}
+
+/* gamepedia template doesn't use cbsubsubtitle */
+.cbplatform {
+	color: #dddddd;
+	font-size: 10px;
+}
+
+.cbstars {
+	float: right;
+	font-size:20px;
+	padding-right: .5em;
+}
+
+.cbcol1 {
+	padding: 1em 0 0 .5em;
+	vertical-align: top;
+}
+
+.cbborrowed {
+	margin-top: .6em;
+}
+
+.cbborrowed div {
+	padding-top: .6em;
+}
+
+.cbcol2 {
+	border: 0;
+	padding: 1em .5em 0 1em;
+	vertical-align: top;
+}
+
+.cbdata {
+	float: left;
+}
+.cbdatacol1 {
+	margin-right: 2em;
+}
+
+.cbsummary {
+	clear: left;
+	padding-top: 1.5em;
+}
+
+.cbsummary .cbtrans {
+	padding-right: 0;
+}
+
+.cbtrans {
+	color: #647595;
+	font-weight: bold;
+}
+td .cbtrans {
+	padding: 1px 1em 1px 0;
+	vertical-align: top;
+	width: 100px;
+}
+
+.cbkeys {
+	max-width: 200px;
+	vertical-align: top;
+}
+
+#cbcoverimg {
+	border: solid 1px black;
+}
+
+.cbcredits {
+	background-color: #8190af;
+	float: right;
+	font-size: 11px;
+	margin: 0 .5em;
+	max-width: 25em;
+	padding: .5em;
+}
+.cbcredits td {
+	vertical-align: top;
+}
+/* cdpedia track list */
+.cbcredits ol {
+	padding-left: 2.5em;
+}

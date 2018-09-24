@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="My book collection, created using Bookpedia." />
+<meta name="keywords" content="Bookpedia, Mac, Catalog, My books, books, collection, Bruji" />
+<meta name="image-export" content="yes" />
+<meta name="image-width" content="200" />
+
+<title>[global:collectionName]</title>
+<style type="text/css">
+<!--
+
+
+.headerBox {
+	background: #000;
+	min-height: 140px;
+	margin-left: 230px;
+	margin-bottom:10px;
+	padding-bottom:10px;
+}
+
+.footerBox {
+	background: #000;
+	min-height: 140px;
+	margin-left: 230px;
+}
+
+.cajaUno {
+	background: #000;
+	margin-left: 230px;
+	height: 310px;
+	margin-bottom:10px;
+}
+
+.cajaDos {
+	background: #000;
+	margin-left: 230px;
+    margin-bottom:10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+.numero {
+	font-size: 120px;
+	color: #555;
+	text-align:right;
+	font-weight: bold;
+	white-space:nowrap;
+	overflow:hidden; 
+}
+
+.titulo {
+	font-size: 45px;
+	color: #FC0;
+	margin-top: 40px;
+	margin-left: 20px;
+	white-space:nowrap;
+	overflow:hidden; 
+	text-overflow:ellipsis;
+}
+.autor {
+	font-size: 30px;
+	color: #FFF;
+    margin-top: 2px;
+	margin-left: 20px;
+	white-space:nowrap;
+	overflow:hidden; 
+	text-overflow:ellipsis;
+}
+.imagen {
+	position:absolute;
+	top: 0px;
+	left: 20px;
+}
+
+.index {
+	font-size: 14px;
+	text-align:center;
+	padding-top:100px;
+	color:#FC0;
+}
+
+.index a {
+	text-decoration:none;
+	color:#FFF;
+}
+
+.info {
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.summary {
+	margin-left:10px;
+	margin-right:10px;
+	text-align:justify;
+}
+
+.style1 {color: #FC0;}
+
+
+.flecha1 {
+    margin-top:10px;
+    margin-left:10px;
+	float:left;
+}
+.flecha2 {
+    margin-top:10px;
+	float:right;
+	margin-right:5px;
+	}
+
+.book {
+	position: relative;
+	z-index:2;
+}
+
+.starRating {
+	float:right;
+	margin-right: 10px;
+}
+
+body {
+	color: #BBB;
+	font-size: 12px;
+	font-family: "Lucida Grande";
+	margin: 0px;
+	padding 0px;
+	background-image: url(Images/stripe.png);
+	background-repeat: repeat-y;
+	background-position: 20px;
+}
+
+-->
+</style>
+</head>
+<body>
+
+
+
+<div class="headerBox">
+
+<!--IF_PREVIOUS_PAGE
+<a href="[global:previousPageURL]"> <div class="flecha1"><img src="Images/flecha1.png" /></div></a>
+END_PREVIOUS_PAGE-->
+
+<!--IF_NEXT_PAGE
+<a href="[global:nextPageURL]"> <div class="flecha2"><img src="Images/flecha2.png" /></div></a>
+END_NEXT_PAGE-->
+
+	<!--IFIndex<div class="index">[Divider: | ]</div>ENDIndex-->
+
+</div>
+
+
+  		<!--BeginRepeat-->
+
+<div class="book">
+
+<a href="[key:url]"><img  src="[key:coverImageURL]" border="0"  class="imagen" /></a>
+
+<div class="cajaUno">
+     <div class="numero">[key:incrementalNumber]</div>
+
+     <div class="titulo">[key:title]</div>
+	 
+	 <div class="autor">[key:author]</div>
+</div>
+
+<div class="cajaDos">
+
+<img src="Images/yellowcube[key:myRating].png" class="starRating"/>
+
+	<!--IFpublisher <div class="info"><span class="style1">[translate:publisher]:</span> [key:publisher]</div> ENDpublisher-->
+		<!--IFreleaseDate <div class="info"><span class="style1">[translate:releaseDate]:</span> [key:releaseDate]</div> ENDreleaseDate-->
+	<!--IFgenre <div class="info"><span class="style1">[translate:genre]:</span> [key:genre]</div> ENDgenre-->
+			<!--IFseries <div class="info"><span class="style1">[translate:series]:</span> [key:series]</div> ENDseries-->
+		<!--IFformat <div class="info"><span class="style1">[translate:format]:</span> [key:format]</div> ENDformat-->
+	<!--IFedition <div class="info"><span class="style1">[translate:edition]:</span> [key:edition]</div> ENDedition-->
+		<!--IFpages <div class="info"><span class="style1">[translate:pages]:</span> [key:pages]</div> ENDpages-->
+
+		<!--IFillustrator <div class="info"><span class="style1">[translate:illustrator]:</span> [key:illustrator]</div> ENDillustrator-->
+	<!--IFeditor <div class="info"><span class="style1">[translate:editor]:</span> [key:editor]</div> ENDeditor-->
+		<!--IFisbn <div class="info"><span class="style1">[translate:isbn]:</span> [key:isbn]</div> ENDisbn-->
+
+	  <!--IFsummary <div class="summary"><span class="style1">[translate:summary]:</span> [key:summary]</div> ENDsummary-->
+	 
+</div>  <!-- Second info Box -->
+
+</div>  <!-- book -->
+
+<!--EndRepeat-->
+
+<div class="footerBox">
+<!--IF_PREVIOUS_PAGE
+<a href="[global:previousPageURL]"> <div class="flecha1"><img src="Images/flecha1.png" /></div></a>
+END_PREVIOUS_PAGE-->
+
+<!--IF_NEXT_PAGE
+<a href="[global:nextPageURL]"> <div class="flecha2"><img src="Images/flecha2.png" /></div></a>
+END_NEXT_PAGE-->
+
+	<div class="index">Created by <a href="http://www.bruji.com/bookpedia">Bookpedia</a></div>
+</div>
+
+
+
+
+</body>
+</html>
+
