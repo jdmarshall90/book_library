@@ -6252,7 +6252,7 @@ The Reckoners
 		<key>dateAdded</key>
 		<date>2018-03-04T23:43:35Z</date>
 		<key>dateEdited</key>
-		<date>2018-03-04T23:45:08Z</date>
+		<date>2018-09-10T04:00:04Z</date>
 		<key>dimensions</key>
 		<string>17.10 cm x 10.50 cm x 4.00 cm</string>
 		<key>genre</key>
@@ -6263,10 +6263,19 @@ The Reckoners
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780765391186</string>
+		<key>lastRead</key>
+		<date>2018-09-09T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2018-09-09T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>10</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
@@ -17330,7 +17339,7 @@ Other Tor books by Brandon Sanderson
 		<key>dateAdded</key>
 		<date>2017-12-31T02:19:45Z</date>
 		<key>dateEdited</key>
-		<date>2017-12-31T02:22:47Z</date>
+		<date>2018-09-08T02:25:36Z</date>
 		<key>dimensions</key>
 		<string>17.00 cm x 10.70 cm x 2.60 cm</string>
 		<key>genre</key>
@@ -17341,10 +17350,19 @@ Other Tor books by Brandon Sanderson
 		<integer>0</integer>
 		<key>isbn</key>
 		<string>9780765350374</string>
+		<key>lastRead</key>
+		<date>2018-09-07T05:00:00Z</date>
+		<key>lastUsed</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2018-09-07T05:00:00Z</date>
+			</dict>
+		</array>
 		<key>localeLanguage</key>
 		<string>en</string>
 		<key>myRating</key>
-		<integer>0</integer>
+		<integer>10</integer>
 		<key>onSale</key>
 		<integer>0</integer>
 		<key>pages</key>
